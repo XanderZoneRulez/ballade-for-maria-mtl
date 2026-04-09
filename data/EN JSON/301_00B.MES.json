@@ -1,0 +1,422 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Sorry, I’m busy right now. Besides, I have nothing to talk to you about."
+    },
+    {
+        "message": "The director went back to the film crew. At this rate, he probably won't talk to us today."
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "! How have you been?"
+    },
+    {
+        "message": "Hello, you seem to be in good spirits, director."
+    },
+    {
+        "message": "Yeah, the shooting is going okay somehow."
+    },
+    {
+        "message": "Hey"
+    },
+    {
+        "message": ". Things are going smoothly on this end."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About filming　　"
+    },
+    {
+        "message": "　About Gabriela　"
+    },
+    {
+        "message": "　　About Ginny　　"
+    },
+    {
+        "message": "About the director"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　About Gabriela　"
+    },
+    {
+        "message": "　　About Ginny　　"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit game"
+    },
+    {
+        "message": "The dense greens of Central Park are looming right there. It really feels like an urban oasis."
+    },
+    {
+        "message": "A crowd of onlookers has gathered around the filming site. Even though it's already high noon, they must be a bunch of real time-wasters."
+    },
+    {
+        "message": "Between scenes, the staff seem busy preparing for the next shoot."
+    },
+    {
+        "message": "Just talking about rumors regarding Ginny, and suddenly a tense mood has settled in."
+    },
+    {
+        "message": "It might not just be a rumor that Ginny is being pursued by Tonny and the director."
+    },
+    {
+        "message": "This is bad."
+    },
+    {
+        "message": "He seems genuinely angry."
+    },
+    {
+        "message": "Thanks to the shoot going smoothly, he seems to be in a pretty good mood. Not necessarily a bad thing."
+    },
+    {
+        "message": "Is it going to end up like this?"
+    },
+    {
+        "message": "I wonder if he's just about to hit middle age. With quite the double chin and a belly, he gives off an air of dignity."
+    },
+    {
+        "message": "He has a gentle face, but it seems this scandal with the actress isn't his first."
+    },
+    {
+        "message": "I'm saying I'm uncomfortable, you know?"
+    },
+    {
+        "message": "If you're a detective, then have an eye to discern what the truth is."
+    },
+    {
+        "message": "You wouldn't have done something terrible, would you?"
+    },
+    {
+        "message": "Me, make a mistake? No way!"
+    },
+    {
+        "message": "I hope that's true. Gabriela isn't the kind of woman who does unreasonable things; there must be a reason behind it."
+    },
+    {
+        "message": "What’s wrong? You’re looking really down."
+    },
+    {
+        "message": "No."
+    },
+    {
+        "message": "Actually, Gabriela just canceled her request today."
+    },
+    {
+        "message": "Has Ginny been found?"
+    },
+    {
+        "message": "No, not yet."
+    },
+    {
+        "message": "What on earth happened? Canceling the request before finding Ginny."
+    },
+    {
+        "message": "He probably means no harm, but Tonny's jokes are terrible!"
+    },
+    {
+        "message": "A joke."
+    },
+    {
+        "message": "Is the thing about Ginny a joke?"
+    },
+    {
+        "message": "Hey, hey."
+    },
+    {
+        "message": "Come on, you weren't seriously believing that, were you?"
+    },
+    {
+        "message": "Lately, there have been a lot of unpleasant things, and it's really getting me down. At least I have the comfort of knowing that filming is progressing."
+    },
+    {
+        "message": "So, what's going on with that request from Gabriela?"
+    },
+    {
+        "message": "Unfortunately..."
+    },
+    {
+        "message": "Ginny hasn't been found yet."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "Still not?."
+    },
+    {
+        "message": "That's kind of unsettling."
+    },
+    {
+        "message": "Meryl seems to be doing well lately. She's been working enough to make up for the delays."
+    },
+    {
+        "message": "That's good to hear."
+    },
+    {
+        "message": "Must mean that the job I asked you about is going well."
+    },
+    {
+        "message": "If Meryl keeps it up, filming should go smoothly."
+    },
+    {
+        "message": "That's enough. You're getting in the way of the shoot!"
+    },
+    {
+        "message": "So, Jennifer isn't here today?"
+    },
+    {
+        "message": "What, are you here for her? By the way, she seemed to be interested in you too."
+    },
+    {
+        "message": "R-really?"
+    },
+    {
+        "message": "You might have caught her eye."
+    },
+    {
+        "message": "Jennifer isn't here right now. She should be in the Caribbean or somewhere for a CF shoot. She might be back today."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Yeah. I just wish she'd hurry back and join the shoot."
+    },
+    {
+        "message": "Are you seriously thinking you could end up with Jennifer? You might want to reconsider."
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "Why's that?"
+    },
+    {
+        "message": "You see, actresses are different from regular people. They live off money and luxury."
+    },
+    {
+        "message": "Huh."
+    },
+    {
+        "message": "No offense, but with your income, you could never support her."
+    },
+    {
+        "message": "Thanks for the advice."
+    },
+    {
+        "message": "This doesn't really concern you. Just don't go making the cast grumpy like that!"
+    },
+    {
+        "message": "Today I'm shooting the background where Cindy and Guy are supposed to be."
+    },
+    {
+        "message": "The background they’re supposed to be in, huh?"
+    },
+    {
+        "message": "If it comes to that, we can always just composite it together. It's like insurance for emergencies."
+    },
+    {
+        "message": "If I don’t catch up, the producer will get grumpy."
+    },
+    {
+        "message": "I don’t care about Gabriella right now. I just want her to not interfere with the shoot!"
+    },
+    {
+        "message": "I wonder what Gabriella is thinking."
+    },
+    {
+        "message": "There seem to be various circumstances involved."
+    },
+    {
+        "message": "I don’t think it’s necessary to tell the director everything."
+    },
+    {
+        "message": "I can understand that to some extent,"
+    },
+    {
+        "message": "but,"
+    },
+    {
+        "message": "she is a cold woman."
+    },
+    {
+        "message": "She also seems quite busy; it looks like the stress is getting to her."
+    },
+    {
+        "message": "Speaking of which, she always has a tired look on her face."
+    },
+    {
+        "message": "I hope she doesn’t end up getting sick."
+    },
+    {
+        "message": "Even so, she is a somewhat delicate woman."
+    },
+    {
+        "message": "Let’s just stop talking about that, alright?"
+    },
+    {
+        "message": "I’m shocked that you think of me that way."
+    },
+    {
+        "message": "I don't know a girl named Ginny."
+    },
+    {
+        "message": "So, is Tony lying then?"
+    },
+    {
+        "message": "Which one do you trust more, me or Tony?"
+    },
+    {
+        "message": "Oh, was that wrong?"
+    },
+    {
+        "message": "Of course it is! First of all, I don’t know someone named Ginny."
+    },
+    {
+        "message": "But you seemed to care about Ginny, didn't you?"
+    },
+    {
+        "message": "W-well, of course I care. She’s a connection through someone I know."
+    },
+    {
+        "message": "I wanted to ask you something, if that’s okay?"
+    },
+    {
+        "message": "What is it?"
+    },
+    {
+        "message": "I heard from Tony Ford that Ginny, Jennifer, and Meryl are in a heated battle over the director."
+    },
+    {
+        "message": "Pfft."
+    },
+    {
+        "message": "Ha ha ha, if that were true, I’d be so happy I'd jump for joy."
+    },
+    {
+        "message": "He really seems put out. Was the thing with Ginny completely made up?"
+    },
+    {
+        "message": "Thanks to Meryl's serious approach to work, it seems the director is in a good mood too. I hope everything goes smoothly from here."
+    },
+    {
+        "message": "It seems he's finally relieved that filming has resumed. For the director, a movie is something irreplaceably important."
+    },
+    {
+        "message": "It seems he’s in good spirits at work knowing that his daughter is alive."
+    },
+    {
+        "message": "I wonder what will happen between him and the director if Cindy ends up living with Meryl?"
+    },
+    {
+        "message": "I wonder what Meryl intends to do when she meets Cindy. Is she thinking of atoning for her sins all of a sudden?"
+    },
+    {
+        "message": "Jennifer didn't have a shoot today, huh? It's a shame I can't see her."
+    },
+    {
+        "message": "So, Jennifer isn’t around right now?"
+    },
+    {
+        "message": "Then, that means Eva wasn’t in this town around the time of the murder."
+    },
+    {
+        "message": "Maybe the director is worried about the request because he’s connected to Gabriela in some way."
+    },
+    {
+        "message": "Could there be a secret he doesn’t want to uncover?"
+    },
+    {
+        "message": "Is he just uncomfortable with his past being known by Meryl or others?"
+    },
+    {
+        "message": "The chances of Ginny still being alive are quite low. The ending Gabriela hopes for may be hopeless."
+    },
+    {
+        "message": "It's unfortunate what happened with Ginny, but Gabriela didn't seem too sad about it."
+    },
+    {
+        "message": "I wonder if she anticipated this outcome, or if she’s just thinking she can easily replace one of the prostitutes."
+    },
+    {
+        "message": "She probably had information before Eva's case hit the papers. They say 'the way of the snake is the snake,' does she have connections in the police?"
+    },
+    {
+        "message": "The director seems quite concerned about Ginny. I can't believe he could still be hot for her."
+    },
+    {
+        "message": "I feel like I've caught a glimpse of the hardships of being a prostitute."
+    },
+    {
+        "message": "Well, what should I do now?"
+    },
+    {
+        "message": "I’ll take my leave now. I’m sorry for intruding."
+    },
+    {
+        "message": "Come visit again, okay?"
+    },
+    {
+        "message": "Please don't come to bother me anymore."
+    },
+    {
+        "message": "※※※　bug　※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

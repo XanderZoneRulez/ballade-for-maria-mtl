@@ -1,0 +1,545 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Ash"
+    },
+    {
+        "message": "Welcome."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　Eva　　"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "　　Work　　"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "　　Ring　　"
+    },
+    {
+        "message": "　　Eva　　"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "about　"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "　　Work　　"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "I can't see much of the box, but in the dimly lit bar, it seems like there are only a few pairs of men and women besides me."
+    },
+    {
+        "message": "If you're not sitting at the counter in a place like this, it either means you love solitude a lot or you're up to something shady."
+    },
+    {
+        "message": "The bar isn't very decorated. With it being this dark, I guess there aren't many people who want to strain their eyes to see things."
+    },
+    {
+        "message": "Thanks to its extremely plain appearance, loud and foolish youths don’t ruin the atmosphere of the place. That's about the only good thing about this bar."
+    },
+    {
+        "message": "He insists he's not gay, but with a face like that, guys of that sort wouldn't ignore him, huh?"
+    },
+    {
+        "message": "He might have a past he doesn't want to touch on, so it's probably best not to dig too deep."
+    },
+    {
+        "message": "The bartender's uniform suits him well. Does he have long experience in this line of work? He doesn’t look that old."
+    },
+    {
+        "message": "With his sharp eyes and cool demeanor, there are times I even feel fear. What kind of career has he built in a past I don't know?"
+    },
+    {
+        "message": "I'll do my best to get the requested item as quickly as possible. I’ll contact you once it arrives."
+    },
+    {
+        "message": "But really, what do you even use something like that for?"
+    },
+    {
+        "message": "Actually, you see, I got a scalpel from a strange place, and I thought it might be related to that incident."
+    },
+    {
+        "message": "I think that’s quite a leap in logic, but you must have some basis for it, right?"
+    },
+    {
+        "message": "It’s a scalpel obtained from a person who apparently last met that woman involved in the search."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "So, maybe that means?"
+    },
+    {
+        "message": "Just between us, that woman has had her wrist severed."
+    },
+    {
+        "message": "The moment the target went from a pet to a person, we got tangled in something bloody."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "I remember now."
+    },
+    {
+        "message": "What is it?"
+    },
+    {
+        "message": "Could you do me a favor?"
+    },
+    {
+        "message": "Depends on what it is."
+    },
+    {
+        "message": "I want a Luminol reagent."
+    },
+    {
+        "message": "What would you even use something like that for?"
+    },
+    {
+        "message": "Oh, if it’s too much, that’s fine."
+    },
+    {
+        "message": "There’s nothing impossible for me. Alright, I’ll take care of it."
+    },
+    {
+        "message": "Thanks,"
+    },
+    {
+        "message": "!"
+    },
+    {
+        "message": "No problem."
+    },
+    {
+        "message": "What’s wrong? You look tired."
+    },
+    {
+        "message": "Oh, it's been the same lately."
+    },
+    {
+        "message": "Yeah, I’m definitely tired today. I’ve had a rough morning."
+    },
+    {
+        "message": "Oh dear, I’m sorry to hear that. Should I get you something delicious?"
+    },
+    {
+        "message": "Yeah, please."
+    },
+    {
+        "message": "Alright, it's squid ink tagliolini."
+    },
+    {
+        "message": "Is it done already? Ah, looks delicious. I love pasta."
+    },
+    {
+        "message": "Hehe, I feel a bit like a housewife."
+    },
+    {
+        "message": "M-mhm!"
+    },
+    {
+        "message": "C-cut it out with those jokes."
+    },
+    {
+        "message": "I'd prefer to avoid that, too."
+    },
+    {
+        "message": "It’s easy to misunderstand, but I’m quite a normal person."
+    },
+    {
+        "message": "Ah, that statement is discriminatory against gay people."
+    },
+    {
+        "message": "I'm not discriminating at all."
+    },
+    {
+        "message": "But hey, why are we even talking about this?"
+    },
+    {
+        "message": "What do you mean?　"
+    },
+    {
+        "message": "Isn't this something you brought up?"
+    },
+    {
+        "message": "You always play dumb, and it's frustrating."
+    },
+    {
+        "message": "Honestly, I'm not gay."
+    },
+    {
+        "message": "Remember the female reporter from BAM I mentioned before?"
+    },
+    {
+        "message": "Yeah. She seemed like a tough opponent."
+    },
+    {
+        "message": "Right. It looks like she's gotten involved in the case."
+    },
+    {
+        "message": "Oh! She's the victim from that ear incident that made the headlines this morning, right?"
+    },
+    {
+        "message": "What?"
+    },
+    {
+        "message": "I thought you might know something."
+    },
+    {
+        "message": "I'm not a god, you know."
+    },
+    {
+        "message": "It's not like I liked her or anything. But when something like this happens, it really gets to me."
+    },
+    {
+        "message": "It's normal to feel that way about someone you had any connection with."
+    },
+    {
+        "message": "That's true."
+    },
+    {
+        "message": "But, if both ears are cut off, they won't be able to hear anything."
+    },
+    {
+        "message": "Yeah. Even if she's alive, it's sad thinking about her future."
+    },
+    {
+        "message": "Don't dwell on it too much; for now, we just have to wait for good news."
+    },
+    {
+        "message": "By the way, do you know there’s a rumor that the serial killer is a failed doctor?"
+    },
+    {
+        "message": "No. But where did that rumor come from?"
+    },
+    {
+        "message": "Apparently, they're doing body dismemberment with just a scalpel, which requires some serious knowledge."
+    },
+    {
+        "message": "Isn't that something you could just learn from books?"
+    },
+    {
+        "message": "True. I wonder what's going through the police's mind."
+    },
+    {
+        "message": "It seems like the criminal is far from getting caught."
+    },
+    {
+        "message": "Maybe the police are busy with various things? They seem to be all over the place."
+    },
+    {
+        "message": "Oh, are you defending the police now?"
+    },
+    {
+        "message": "I never intended that. But, without a certain level of practical experience, it might be tough to dissect with just one scalpel."
+    },
+    {
+        "message": "Huh, something's bothering me."
+    },
+    {
+        "message": "I wonder when this case will finally come to an end."
+    },
+    {
+        "message": "Even if I don’t take care of it, you have the job of finding someone, right?"
+    },
+    {
+        "message": "I guess being a detective just isn’t for me."
+    },
+    {
+        "message": "That was obvious from the start."
+    },
+    {
+        "message": "It's a bit late to be used by others, and I bought the license and opened an office, but I can't even do the job of locating people properly."
+    },
+    {
+        "message": "It's been less than two years since opening the office, and you don't even have the title of a former detective, so just think of it as training and do your best."
+    },
+    {
+        "message": "Training, huh."
+    },
+    {
+        "message": "Getting anxious and patching things up won’t work. Isn’t it better to take it one step at a time for now?"
+    },
+    {
+        "message": "Did you get an autograph from Jennifer?"
+    },
+    {
+        "message": "Well, you left before you could get it."
+    },
+    {
+        "message": "Oh, right, that’s true."
+    },
+    {
+        "message": "But she sure figured out this place well. Even Yuriko-chan doesn't really know for sure."
+    },
+    {
+        "message": "Isn't it easy for her to investigate?"
+    },
+    {
+        "message": "Once you become that famous, most things can be done by someone else."
+    },
+    {
+        "message": "The question is, why did she come to this shop despite all that?"
+    },
+    {
+        "message": "She said she wanted to see me, right?"
+    },
+    {
+        "message": "That sounds suspicious."
+    },
+    {
+        "message": "Oh, so what? Are you saying it’s strange for her to say that to me?"
+    },
+    {
+        "message": "No, not at all."
+    },
+    {
+        "message": "It’s just that the rumors about her aren’t all good."
+    },
+    {
+        "message": "I wouldn't say be wary, but it might be wise to be cautious until you understand her true intentions."
+    },
+    {
+        "message": "Hey, take a look at this."
+    },
+    {
+        "message": "It's a beautiful ring, isn't it?"
+    },
+    {
+        "message": "You're joking. That's the item belonging to the woman I'm looking for."
+    },
+    {
+        "message": "You're talking about the woman with the wrist, right?"
+    },
+    {
+        "message": "Yeah, her name is Ginny."
+    },
+    {
+        "message": "Even if you show me something like this, I wouldn't understand anything."
+    },
+    {
+        "message": "Well, I can at least tell it's quite expensive."
+    },
+    {
+        "message": "Is this really that expensive?"
+    },
+    {
+        "message": "It might look cheap just from the design, but it's not some fashion ring you can find around."
+    },
+    {
+        "message": "The large ruby in the center and the surrounding pearls are of really high quality, this ring."
+    },
+    {
+        "message": "Oh."
+    },
+    {
+        "message": "As expected."
+    },
+    {
+        "message": "You really know your jewelry."
+    },
+    {
+        "message": "Normally, it's better to avoid carrying something like this."
+    },
+    {
+        "message": "About how much is it?"
+    },
+    {
+        "message": "Well, I think it's at least 30,000 dollars, but I can't be exact."
+    },
+    {
+        "message": "What!? This is 30,000 dollars!? Ugh."
+    },
+    {
+        "message": "Hmm, jewelry is really deep."
+    },
+    {
+        "message": "It must have been something important to that woman, but it's strange."
+    },
+    {
+        "message": "Strange? This ring?"
+    },
+    {
+        "message": "No, it's strange that the person who sent the left hand delivered such a valuable ring intact."
+    },
+    {
+        "message": "That's true."
+    },
+    {
+        "message": "I think she wouldn’t be recognizable without this."
+    },
+    {
+        "message": "Out of spite or to keep her quiet?"
+    },
+    {
+        "message": "In any case, it's certain that the criminal isn't after valuables."
+    },
+    {
+        "message": "This incident might be unexpectedly deep."
+    },
+    {
+        "message": "If she's a political journalist, it's not surprising she was kidnapped, but she's just a second-rate journalist from a yellow paper."
+    },
+    {
+        "message": "Did she have some scoop that would require her to get kidnapped?"
+    },
+    {
+        "message": "Should we go back to the Editorial Department in Baked Apple?"
+    },
+    {
+        "message": "Right."
+    },
+    {
+        "message": "She was indeed an unpleasant woman. But she shouldn't have been unpleasant enough for someone to kidnap her."
+    },
+    {
+        "message": "Well, that can't be said. In this town, it's not strange to be hated enough to be killed by someone at any moment."
+    },
+    {
+        "message": "If I could forget, I would really like to."
+    },
+    {
+        "message": "Strong-willed women tend to be disliked. Especially if they're successful, it's even more so. There's no evidence to conclusively say she's the perpetrator."
+    },
+    {
+        "message": "As for the rumor about the assistant and a knife, who knows what's true or not? Gossip tends to embellish."
+    },
+    {
+        "message": "If Jennifer is aware that she's disliked and is using that as a cover, what then?"
+    },
+    {
+        "message": "Even if everyone thinks she's suspicious, it’s because her reputation is bad."
+    },
+    {
+        "message": "If she really is..."
+    },
+    {
+        "message": "Let’s hold off on excluding Jennifer from the suspect list for now."
+    },
+    {
+        "message": "It's not like she lacks education, and she doesn't seem to have had a bad upbringing. Why would she choose this line of work?"
+    },
+    {
+        "message": "Though seeing her familiarity with the underworld, she doesn't seem like just any ordinary rich kid."
+    },
+    {
+        "message": "No matter who he is, it’s not my concern."
+    },
+    {
+        "message": "Besides, it's really inconvenient without him."
+    },
+    {
+        "message": "After all,"
+    },
+    {
+        "message": "I have no impossibilities."
+    },
+    {
+        "message": "What a calm face to state that; I’ll make sure not to make an enemy of her."
+    },
+    {
+        "message": "Anyway, I can trust her with this."
+    },
+    {
+        "message": "Gruesome murders often have male perpetrators. In this case, the victims were all women."
+    },
+    {
+        "message": "It's only natural to think that some pervert is doing this to satisfy his abnormal sexual desires."
+    },
+    {
+        "message": "Targeting only prostitutes for a serial murder and sending dismembered body parts shows a craving for attention."
+    },
+    {
+        "message": "Jack the Ripper."
+    },
+    {
+        "message": "Isn't it?"
+    },
+    {
+        "message": "But there are so many show-offs and failed doctors in New York, it's ridiculous."
+    },
+    {
+        "message": "This guy is."
+    },
+    {
+        "message": "It feels like this case is a bit too much of a burden for me."
+    },
+    {
+        "message": "I guess I shouldn't have become a detective after all."
+    },
+    {
+        "message": "If I had just become a lawyer or a doctor, I'd have a house in the suburbs by now."
+    },
+    {
+        "message": "But opportunities to chase murder cases are pretty rare. Most of the time it's just investigating a husband's infidelity."
+    },
+    {
+        "message": "Am I lucky?"
+    },
+    {
+        "message": "To suddenly find myself chasing a murder case like this, I must have really bad luck."
+    },
+    {
+        "message": "That's me."
+    },
+    {
+        "message": "No, at first it was just a missing persons case."
+    },
+    {
+        "message": "Anyway, I've started this, so I have no choice. I need to earn enough to support myself and Yuriko."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

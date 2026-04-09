@@ -1,0 +1,659 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "Ginny"
+    },
+    {
+        "message": "How was NETS?"
+    },
+    {
+        "message": "I went all the way there, but came back empty-handed."
+    },
+    {
+        "message": "What!? I thought you had a good focus!"
+    },
+    {
+        "message": "That's too bad!"
+    },
+    {
+        "message": "Welcome back."
+    },
+    {
+        "message": "Welcome back."
+    },
+    {
+        "message": "Boss, are you feeling unwell!?!"
+    },
+    {
+        "message": "No."
+    },
+    {
+        "message": "It's not really that."
+    },
+    {
+        "message": "But, you seem kind of down."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "No, it’s just that I ran into Eva."
+    },
+    {
+        "message": "Eva　Courtney!?　"
+    },
+    {
+        "message": "Did she target you this time?"
+    },
+    {
+        "message": "Good job."
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "　　View　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Call　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "About Meryl's request"
+    },
+    {
+        "message": "About　that　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　Gunther　"
+    },
+    {
+        "message": "　Gabriella　"
+    },
+    {
+        "message": "　　Tony　　"
+    },
+    {
+        "message": "　　Eva　　"
+    },
+    {
+        "message": "Meryl's request"
+    },
+    {
+        "message": "thing　"
+    },
+    {
+        "message": "　Cindy　"
+    },
+    {
+        "message": "　Gunther　"
+    },
+    {
+        "message": "　Gabriella　"
+    },
+    {
+        "message": "　　Tony　　"
+    },
+    {
+        "message": "　　Eva　　"
+    },
+    {
+        "message": "　　to another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "Looking closely, isn't the state of this office rather bleak?"
+    },
+    {
+        "message": "Seeing this scenery makes it feel like a messy, drunken detective's office."
+    },
+    {
+        "message": "I like the old-fashioned feel of this office, but once I get paid for the current job, maybe I'll think about moving to a new place."
+    },
+    {
+        "message": "is typing away at the keyboard in silence. That rhythm sometimes"
+    },
+    {
+        "message": "lures me into a pleasant sleep."
+    },
+    {
+        "message": "ｚｚｚｚｚ"
+    },
+    {
+        "message": "What on earth does he do facing the computer every day?"
+    },
+    {
+        "message": "or something like that."
+    },
+    {
+        "message": "Thorough analysis of the great detective"
+    },
+    {
+        "message": "He said he was working on some stack project, but I have no idea what that means."
+    },
+    {
+        "message": "I thought going to NETS would help me understand about Guy, but that turned out to be a naive thought."
+    },
+    {
+        "message": "But, could it really be that Guy is like that?"
+    },
+    {
+        "message": "Even so, it's true that Guy hasn’t given me any contact information, right? He’s just outrageous."
+    },
+    {
+        "message": "Right now, I'm in the middle of creating an America criminal database, and I think I might just include Guy in it."
+    },
+    {
+        "message": "Why on earth would I?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Because he's an idiot who makes women unhappy and doesn't even contact the company. Hmph."
+    },
+    {
+        "message": "Today's"
+    },
+    {
+        "message": "seems to be broken."
+    },
+    {
+        "message": "Ah, geez."
+    },
+    {
+        "message": "Why does it never go well, I wonder?"
+    },
+    {
+        "message": "It’s a problem if the Boss isn’t feeling well."
+    },
+    {
+        "message": "H-Hey, are you really worried about me?"
+    },
+    {
+        "message": "No, if you're gloomy and down, a heavy air fills the room, and it drags my mood down too."
+    },
+    {
+        "message": "Ah, I see. Sorry about that."
+    },
+    {
+        "message": "I only have my brightness to offer, so I’d appreciate your consideration."
+    },
+    {
+        "message": "Boss, I just thought of a great idea."
+    },
+    {
+        "message": "What is it?"
+    },
+    {
+        "message": "If the Boss and Eva got together, you wouldn't have to worry about her anymore."
+    },
+    {
+        "message": "I don't think that's a good idea at all."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "I thought it was a good idea."
+    },
+    {
+        "message": "Boss, as detectives, we shouldn't give others a chance to take advantage of us. You understand that, right?"
+    },
+    {
+        "message": "After that, just report to Meryl and arrange a meeting between Cindy and Meryl, and it’ll be done."
+    },
+    {
+        "message": "But they must have already met several times without knowing it."
+    },
+    {
+        "message": "If only Cindy would agree, it would be a breeze from there."
+    },
+    {
+        "message": "That's the tricky part."
+    },
+    {
+        "message": "But we’ve finally come this far, haven’t we? Thanks to a bit of luck, it’s all good."
+    },
+    {
+        "message": "It's not over yet."
+    },
+    {
+        "message": "No, it's almost over."
+    },
+    {
+        "message": "Don’t worry, if the Boss persuades her, Cindy will understand."
+    },
+    {
+        "message": "What on earth happened in your past?"
+    },
+    {
+        "message": "According to Günter, her current state is due to something from the past."
+    },
+    {
+        "message": "So it means that something in the past wasn't directly caused by Guy."
+    },
+    {
+        "message": "Is that what you're saying?"
+    },
+    {
+        "message": "Yeah, that seems to be the case. But still, I'd want to say that they should have made it clear from the start."
+    },
+    {
+        "message": "Please, don’t say something unreasonable. People’s hearts aren’t easy to understand."
+    },
+    {
+        "message": "I'm really worried."
+    },
+    {
+        "message": "Earlier,"
+    },
+    {
+        "message": "when I saw him, he was acting strange. He even talked to Gai, who shouldn't be there."
+    },
+    {
+        "message": "That's really odd."
+    },
+    {
+        "message": "Nothing I say seems to get through. It's like she's escaped into this imaginary world she created."
+    },
+    {
+        "message": "I wonder what suddenly happened?"
+    },
+    {
+        "message": "Isn't she okay by now? Gai's issue is still there, but she's been getting counseling for her heart."
+    },
+    {
+        "message": "Can it really be healed that easily?"
+    },
+    {
+        "message": "I mean, she just started acting weird, right? The boss is."
+    },
+    {
+        "message": "So lenient, aren't you?"
+    },
+    {
+        "message": "There's no use worrying that much. It's a time for observation."
+    },
+    {
+        "message": "You should come out and atone for your sins!"
+    },
+    {
+        "message": "That's the vibe."
+    },
+    {
+        "message": "Regardless of the situation, it's undeniable that Gai was the trigger."
+    },
+    {
+        "message": "That's true, but."
+    },
+    {
+        "message": "You've completely come to hate Gai, huh?"
+    },
+    {
+        "message": "Of course! It's all because Gai has turned into a sleazy guy."
+    },
+    {
+        "message": "Ugh, I hate it. I don't even want to say his name."
+    },
+    {
+        "message": "Isn't it Gai's fault that things have become so difficult again?"
+    },
+    {
+        "message": "I won't deny that."
+    },
+    {
+        "message": "Gai is a heartless, despicable guy!"
+    },
+    {
+        "message": "And I'm not cheering for NETS anymore."
+    },
+    {
+        "message": "A guy who hasn't even contacted his own baseball team should be ignored, ignored! The boss should stop being friends with him too."
+    },
+    {
+        "message": "It can't be helped."
+    },
+    {
+        "message": "But,"
+    },
+    {
+        "message": "I can't help but feel it's unreasonable."
+    },
+    {
+        "message": "I thought about it a lot, but Cindy and Meryl were somewhat similar, right?"
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "That's right. I was already thinking about it at the party. I really am amazing, aren’t I? Hehehe."
+    },
+    {
+        "message": "Please hurry and persuade him, Boss."
+    },
+    {
+        "message": "Don’t say it so easily."
+    },
+    {
+        "message": "It's fine, with you, Boss, it’ll definitely be okay."
+    },
+    {
+        "message": "I'll pray that Cindy agrees to meet her birth parents."
+    },
+    {
+        "message": "Yeah, I'm doing my best too!"
+    },
+    {
+        "message": "It’s not good to speak ill of others without really knowing them."
+    },
+    {
+        "message": "Just having talked a bit with you, if someone pinpointed the cause of your mental distress, that’s a fortune teller."
+    },
+    {
+        "message": "But isn’t that how it usually is?"
+    },
+    {
+        "message": "Counseling is the process of listening to someone and helping them release the trauma inside their heart."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Hmm, it’s hard to understand."
+    },
+    {
+        "message": "How about you try counseling too, Boss?"
+    },
+    {
+        "message": "Is Gunter really a skilled psychiatrist?"
+    },
+    {
+        "message": "Oh, come on, Boss, that’s rude."
+    },
+    {
+        "message": "Please don’t speak badly of the doctor. I was saved by him."
+    },
+    {
+        "message": "But, you know, after saying that having Gai around is important, it’s weird to think there’s something in the past."
+    },
+    {
+        "message": "That’s strange."
+    },
+    {
+        "message": "Boss, just because you’re not good with Gunter doesn’t mean you should say that."
+    },
+    {
+        "message": "Gunter is excellent. Why not try counseling next time, Boss?"
+    },
+    {
+        "message": "I’ll pass on that."
+    },
+    {
+        "message": "Come on, when you're stressed like now, you really should try counseling."
+    },
+    {
+        "message": "It’s rare for a Boss to say they don’t want to go to counseling."
+    },
+    {
+        "message": "That’s a bit unusual."
+    },
+    {
+        "message": "What’s up with Gabriela’s request?"
+    },
+    {
+        "message": "No, there’s been no progress."
+    },
+    {
+        "message": "Boss, do you really have any motivation to be serious about this?!"
+    },
+    {
+        "message": "It's not my fault that there's an overwhelming lack of information!"
+    },
+    {
+        "message": "Something's off about this. You’re not really keeping"
+    },
+    {
+        "message": "anyone locked up, right?"
+    },
+    {
+        "message": "Well, I can understand why you might feel that way."
+    },
+    {
+        "message": "Mainly,"
+    },
+    {
+        "message": "there aren’t even any clues to speak of."
+    },
+    {
+        "message": "But you know, a detective should solve cases even without any clues."
+    },
+    {
+        "message": "Got it."
+    },
+    {
+        "message": "Then,"
+    },
+    {
+        "message": "let’s do our best."
+    },
+    {
+        "message": "Why do you say that? I get that it’s hard to break old habits, but please work properly."
+    },
+    {
+        "message": "Boss, let’s awaken the detective in us and do our best from now on."
+    },
+    {
+        "message": "Have you heard anything decent from Tonny?"
+    },
+    {
+        "message": "No, I haven't seen him since then."
+    },
+    {
+        "message": "That’s not good! He might have already fled abroad by now."
+    },
+    {
+        "message": "Boss, I've thought for a while now that you're a bit too lenient. You need to step it up."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Well, I think I’m doing my best."
+    },
+    {
+        "message": "That’s not enough! It’s just completely inadequate! You need to take things seriously."
+    },
+    {
+        "message": "What will you do if Tonny escapes?"
+    },
+    {
+        "message": "Jeez."
+    },
+    {
+        "message": "Eva is as lively as ever; I almost wanted to borrow some of her energy."
+    },
+    {
+        "message": "I really should have borrowed some of her energy."
+    },
+    {
+        "message": "I feel like I'm on the verge of dying from exhaustion."
+    },
+    {
+        "message": "No, I'm just getting a headache thinking about Eva."
+    },
+    {
+        "message": "Ah, I see."
+    },
+    {
+        "message": "Did she say something to you?"
+    },
+    {
+        "message": "Apparently, she's going to write an article about me next."
+    },
+    {
+        "message": "What!? Then you're going to be famous, Boss!"
+    },
+    {
+        "message": "Wow."
+    },
+    {
+        "message": "That's incredible."
+    },
+    {
+        "message": "Isn't it amazing? What on earth are you thinking?"
+    },
+    {
+        "message": "Boss!"
+    },
+    {
+        "message": "It’s okay, really. Nothing bad is going to happen, trust me."
+    },
+    {
+        "message": "I wonder why Eva targeted an ordinary guy like Boss?"
+    },
+    {
+        "message": "Meryl’s search for her daughter will end when Cindy and Meryl meet."
+    },
+    {
+        "message": "However, it seems Cindy was confused by the sudden appearance of her biological mother."
+    },
+    {
+        "message": "It won't go smoothly, that's for sure."
+    },
+    {
+        "message": "With her daughter found, Meryl can surely focus on her work, no matter the outcome."
+    },
+    {
+        "message": "Now, the filming should go smoothly."
+    },
+    {
+        "message": "What in the world happened in her past?"
+    },
+    {
+        "message": "Günter said this."
+    },
+    {
+        "message": "Could there have been something in her past?"
+    },
+    {
+        "message": "He said."
+    },
+    {
+        "message": "Until now, I never felt fear towards her in our interactions."
+    },
+    {
+        "message": "If that was just a joke, then that’s one thing. But if it wasn't a joke,"
+    },
+    {
+        "message": "there’s nothing I can do now but wait for her to recover."
+    },
+    {
+        "message": "I hope she gets better soon and returns to the confident woman she used to be."
+    },
+    {
+        "message": "I haven't seen Cindy since then, but when I do, I have to make her agree to meet her biological mother."
+    },
+    {
+        "message": "Let's keep the fact that Meryl is her biological mother a secret until they meet."
+    },
+    {
+        "message": "It's hard to believe that there are many patients who trust him."
+    },
+    {
+        "message": "When he said he went crazy, it sounded like he was making excuses about a new cause."
+    },
+    {
+        "message": "That can't be it, right?"
+    },
+    {
+        "message": "Ultimately, it means the counseling hasn’t worked."
+    },
+    {
+        "message": "Her symptoms have worsened. Was Günter providing proper counseling?"
+    },
+    {
+        "message": "For now, thanks to his counseling,"
+    },
+    {
+        "message": "she seems to be recovering."
+    },
+    {
+        "message": "But why do I still feel a sense of unease?"
+    },
+    {
+        "message": "Could it be an illusion that he seems like a shady man?"
+    },
+    {
+        "message": "Gabriela looked haggard, but is she okay?"
+    },
+    {
+        "message": "I want to lighten Gabriela's worries, but,"
+    },
+    {
+        "message": "what should I do about that situation?"
+    },
+    {
+        "message": "I haven't seen Tonny for a while, but I need to seriously hear him out."
+    },
+    {
+        "message": "The incoherent state he was in when we last met is probably due to drugs, right?"
+    },
+    {
+        "message": "Is it now a love story between me and Cindy? What the hell is she thinking?"
+    },
+    {
+        "message": "Digging into people's pasts, is she planning to mess with my privacy this time?"
+    },
+    {
+        "message": "If it's an outrageously bad article, I should consider taking it to court."
+    },
+    {
+        "message": "※※※ This is a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

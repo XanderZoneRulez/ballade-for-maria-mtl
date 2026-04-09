@@ -1,0 +1,611 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Ash"
+    },
+    {
+        "message": "Welcome, the thing isn’t here yet."
+    },
+    {
+        "message": "Welcome"
+    },
+    {
+        "message": "You look unusually refreshed, don't you?"
+    },
+    {
+        "message": "Yeah, I’ve mostly finished Meryl’s request. All that's left is for the two of them to meet at the Guggenheim Museum in a week."
+    },
+    {
+        "message": "Then let’s raise a toast today."
+    },
+    {
+        "message": "But with that injury, you might want to skip drinking."
+    },
+    {
+        "message": "Let’s not be such a downer, just a little."
+    },
+    {
+        "message": "Alright, just a little then."
+    },
+    {
+        "message": "Here’s a Singapore Sling."
+    },
+    {
+        "message": "Thanks."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Yeah, it feels like a weight's been lifted off my shoulders. Ah."
+    },
+    {
+        "message": "I feel kind of good."
+    },
+    {
+        "message": "There’s one more good thing. The thing has arrived."
+    },
+    {
+        "message": "Yay, lucky! Good things really do come in succession."
+    },
+    {
+        "message": "That’s true. But watch out, there might be a pitfall later."
+    },
+    {
+        "message": "Geez, don’t scare me like that."
+    },
+    {
+        "message": "I wonder if the meeting between Meryl and Cindy will go well."
+    },
+    {
+        "message": "It better go well, or we’re in trouble."
+    },
+    {
+        "message": "But if I just get them to meet, at least my job has been accomplished."
+    },
+    {
+        "message": "Woman's voice"
+    },
+    {
+        "message": "Hello, can I sit next to you?"
+    },
+    {
+        "message": "Oh, huh? Is the CF shoot over?"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Yeah, I just got back a moment ago. I thought I’d see you here."
+    },
+    {
+        "message": "Well, um, you..."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "Um..."
+    },
+    {
+        "message": "I actually wanted to talk a little too."
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Eh, really? But"
+    },
+    {
+        "message": "Do you think that's a good story?"
+    },
+    {
+        "message": "Uh"
+    },
+    {
+        "message": "Hmm, I wonder."
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "You’re not saying I’m a murderer or anything ridiculous like that, are you?"
+    },
+    {
+        "message": "W-why would you think something like that?"
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "Well, everyone is saying that. Apparently, Tonny called me a suspect in a murder case at the party."
+    },
+    {
+        "message": "Who told you that?"
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "Cindy told me. She said if I heard it, not to take it to heart."
+    },
+    {
+        "message": "Did something happen between you and Tonny?"
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "Oh, what happened to your hand?"
+    },
+    {
+        "message": "Ah, this is just a little..."
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "Show me."
+    },
+    {
+        "message": "I-it’s fine, it’s nothing pretty."
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "No way, you’re injured and taking alcohol?"
+    },
+    {
+        "message": "You should really stop drinking."
+    },
+    {
+        "message": "Eh, ah."
+    },
+    {
+        "message": "It's okay, it’s not a big deal."
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "Hey, you said you wanted to talk, right?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "Then, how about we move somewhere else?"
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "Jennifer."
+    },
+    {
+        "message": "See, that’s good. I have something to talk about too."
+    },
+    {
+        "message": "Got it."
+    },
+    {
+        "message": "But where exactly?"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Just come with me."
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "　　Eva　　"
+    },
+    {
+        "message": "　　Guy　　"
+    },
+    {
+        "message": "　　Work　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　　Eva　　"
+    },
+    {
+        "message": "　　Guy　　"
+    },
+    {
+        "message": "　　Work　　"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "End the game"
+    },
+    {
+        "message": "There are only a few couples besides me. It's nice that it's quiet, but if the place goes under, it'll mean one less spot to relax."
+    },
+    {
+        "message": "The inside of the bar, with no windows, is illuminated only by purple-red lights. It feels a bit in bad taste, but I guess I can put up with it."
+    },
+    {
+        "message": "On the counter, polished glasses are lined up. Keeping delicate and fragile cocktail glasses looking nice must be quite the chore."
+    },
+    {
+        "message": "With eyes that are always the same, they look at me. The vibe isn't that of just a bartender; it’s something that can’t be hidden."
+    },
+    {
+        "message": "Those eyes seem to suggest they have sharp claws and fangs hidden beneath a calm expression, giving off a samurai vibe."
+    },
+    {
+        "message": "Am I praising too much?"
+    },
+    {
+        "message": "It feels like they've been standing there since birth, completely blending into the atmosphere of the bar."
+    },
+    {
+        "message": "With white skin illuminated by the purple-red light, their figure emerges from the dimness with an indescribable intensity."
+    },
+    {
+        "message": "Oh, what happened to your hand?"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "It's nothing."
+    },
+    {
+        "message": "I've heard that even a small injury can be life-threatening, so please be careful."
+    },
+    {
+        "message": "Thank you."
+    },
+    {
+        "message": "If someone becomes mentally ill, isn't it something that's not easily cured?"
+    },
+    {
+        "message": "That's true. It's possible to relapse over just a little trigger."
+    },
+    {
+        "message": "It’s definitely worse than physical ailments."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "I get it, I understand that, but..."
+    },
+    {
+        "message": "When you see it in person, you just don't know what to do."
+    },
+    {
+        "message": "You shouldn't be in such a state too. The people around you should be a support."
+    },
+    {
+        "message": "You seem to be getting down every time you come here lately."
+    },
+    {
+        "message": "Do I really look like a murderer?"
+    },
+    {
+        "message": "Pfft, I was wondering what you were suddenly going to say!"
+    },
+    {
+        "message": "How can that gentle face of yours look like a murderer?"
+    },
+    {
+        "message": "Whether I have a gentle face or not aside, it's shocking to know that there are people who think I'm the culprit."
+    },
+    {
+        "message": "Who exactly do they say I killed?"
+    },
+    {
+        "message": "Eva Courtney. A man who was her colleague said that to me."
+    },
+    {
+        "message": "Oh."
+    },
+    {
+        "message": "Speaking of which, her dismembered body was found, right? If I remember correctly, some parts of her body were missing."
+    },
+    {
+        "message": "If I’m told something I have no recollection of, it’s best to not worry about it."
+    },
+    {
+        "message": "You seem tired, but try not to think too deeply about it; time may solve some things."
+    },
+    {
+        "message": "The only thing I'm worried about is your health. It's better to take it easy and not stress too much."
+    },
+    {
+        "message": "I know. Besides, I don't feel stressed."
+    },
+    {
+        "message": "Even so, you seem to have accumulated some fatigue, so it might be best to take care of yourself."
+    },
+    {
+        "message": "I think it would be a good idea."
+    },
+    {
+        "message": "I'm glad you're coming here, though."
+    },
+    {
+        "message": "But please don't bring any impossible demands."
+    },
+    {
+        "message": "I'd prefer if you could avoid that."
+    },
+    {
+        "message": "Is the culprit the one behind the serial murder case?"
+    },
+    {
+        "message": "Well, who knows?"
+    },
+    {
+        "message": "By doing that, they might be camouflaging."
+    },
+    {
+        "message": "But there's still a possibility."
+    },
+    {
+        "message": "Do you have any grounds for that?"
+    },
+    {
+        "message": "She came to my office before she was killed, bragging about having a scoop on the serial murder case."
+    },
+    {
+        "message": "And that leaves us with the question,"
+    },
+    {
+        "message": "No, then her colleagues might have been killed by the serial murder case's perpetrator."
+    },
+    {
+        "message": "Don't you think so, normally?"
+    },
+    {
+        "message": "I think so. So, maybe he wasn’t informed about that fact."
+    },
+    {
+        "message": "If that's the case, it raises the mystery of why Eva told you that story."
+    },
+    {
+        "message": "Right? Was there some meaning to it, or was it right after she became certain?"
+    },
+    {
+        "message": "If there’s meaning, what kind could it be?"
+    },
+    {
+        "message": "It’s quite a mystery."
+    },
+    {
+        "message": "Did you hear from Guy?"
+    },
+    {
+        "message": "No, not at all."
+    },
+    {
+        "message": "I heard a rumor that Guy was thinking of putting an end to his player career."
+    },
+    {
+        "message": "I haven't heard any such thing."
+    },
+    {
+        "message": "Someone must have known that before consulting you, his best friend."
+    },
+    {
+        "message": "What do you mean?"
+    },
+    {
+        "message": "His NETS contract should have expired last season, so the baseball team would need to negotiate a new one."
+    },
+    {
+        "message": "Oh, Mr. Garrison was talking about contract renewals, but we have to negotiate again. That's a hassle."
+    },
+    {
+        "message": "Is it okay to be this carefree? NETS disliked Guy's movie appearances, and he isn’t participating in the shoot."
+    },
+    {
+        "message": "That makes it sound like the baseball team is obstructing the filming."
+    },
+    {
+        "message": "I don’t really know the truth, but doesn't it seem suspicious?"
+    },
+    {
+        "message": "I guess I’ll have to corner Garrison and get it out of him."
+    },
+    {
+        "message": "It seems worth a try."
+    },
+    {
+        "message": "I was curious about what you said, so I poked Garrison."
+    },
+    {
+        "message": "So, how did it go?"
+    },
+    {
+        "message": "The result is, please never come back!"
+    },
+    {
+        "message": "It was an attack."
+    },
+    {
+        "message": "It's definitely tied to the baseball team."
+    },
+    {
+        "message": "No way?"
+    },
+    {
+        "message": "If we take it slow, they might slip up."
+    },
+    {
+        "message": "Still, what kind of scheme could be behind this? It's intriguing."
+    },
+    {
+        "message": "How's work going?"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Well, it's been quite rough."
+    },
+    {
+        "message": "If this job goes on forever, I won't need to find new work."
+    },
+    {
+        "message": "Oh no, I don’t want that."
+    },
+    {
+        "message": "If this goes on too long, it'll make my stomach sensitive."
+    },
+    {
+        "message": "That seems unlikely, doesn’t it?"
+    },
+    {
+        "message": "They say haste makes waste."
+    },
+    {
+        "message": "So?"
+    },
+    {
+        "message": "Why don't you just relax like you always do?"
+    },
+    {
+        "message": "You should think about how being employed is already a blessing."
+    },
+    {
+        "message": "It looks like I'm about to run out of work."
+    },
+    {
+        "message": "Hey, don’t you have a knack for finding people?"
+    },
+    {
+        "message": "You know Gabriela canceled on me, right? Plus, it seems like Meryl's situation is about to be resolved."
+    },
+    {
+        "message": "Shouldn't that normally be something to celebrate?"
+    },
+    {
+        "message": "You know, I used to think detectives were amazing."
+    },
+    {
+        "message": "They can solve complex murder cases with minimal clues, right?"
+    },
+    {
+        "message": "That's just a story in novels."
+    },
+    {
+        "message": "Yeah, but thinking about what I’m doing makes me feel pathetic."
+    },
+    {
+        "message": "Lately, you’ve been overthinking things."
+    },
+    {
+        "message": "I have no idea why I’m working at this bar or what kind of past I have."
+    },
+    {
+        "message": "He won't even talk about his past to me."
+    },
+    {
+        "message": "I guess I still haven't earned his trust."
+    },
+    {
+        "message": "I think I've talked too much about my secret?"
+    },
+    {
+        "message": "If I'm being honest, a detective should keep secrets, and not tell anyone about a client's request."
+    },
+    {
+        "message": "Why does he support me? He must have no gain from this."
+    },
+    {
+        "message": "Does Andy really think I'm the culprit? I always thought he was a bit off."
+    },
+    {
+        "message": "I never expected him to be this simple-minded. I should probably avoid going to the editorial department's office for a while."
+    },
+    {
+        "message": "Why would the culprit do such a thing to Eva?"
+    },
+    {
+        "message": "If it’s not Andy, then wouldn’t it be pointless to do something without a motive?"
+    },
+    {
+        "message": "I feel sorry for Eva, but since I wasn't asked by anyone, I shouldn't get involved. I should leave it to the police."
+    },
+    {
+        "message": "Garrison's panic back then was definitely unusual. Could Guy be locked up by Nets?"
+    },
+    {
+        "message": "Should I shake Garrison up a bit? If he confesses where Guy is, that would be great."
+    },
+    {
+        "message": "I just can't believe Guy would abandon Kristy and run off somewhere."
+    },
+    {
+        "message": "As long as Cindy agrees, Meryl's request will be fulfilled."
+    },
+    {
+        "message": "I understand Cindy's confusion, but if she could somehow agree to meet her mother..."
+    },
+    {
+        "message": "There's no doubt that the matter with Meryl and Cindy is mostly resolved now."
+    },
+    {
+        "message": "What else is there to do?"
+    },
+    {
+        "message": "It's not work, but can I really just leave the Ginny situation as it is?"
+    },
+    {
+        "message": "Is finding Guy really my job? I remember being asked, but what about the reward? It can't be Kristy's body."
+    },
+    {
+        "message": "Only Meryl has officially accepted the request, but"
+    },
+    {
+        "message": "Guy has to search, and Andy sees me as the culprit."
+    },
+    {
+        "message": "*** It's a bug ***"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

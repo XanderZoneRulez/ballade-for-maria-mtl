@@ -1,0 +1,530 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Cindy"
+    },
+    {
+        "message": "Tim"
+    },
+    {
+        "message": "Hey, detective, what’s up?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "What does that even mean?"
+    },
+    {
+        "message": "Oh, sorry."
+    },
+    {
+        "message": "I just imagined something unpleasant for a moment."
+    },
+    {
+        "message": "Oh, you really came to hang out!"
+    },
+    {
+        "message": "That’s not exactly it, though."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "　　About work　　"
+    },
+    {
+        "message": "Things　　"
+    },
+    {
+        "message": "　Gloria　"
+    },
+    {
+        "message": "　　About her mom　　"
+    },
+    {
+        "message": "Things　"
+    },
+    {
+        "message": "About that　　"
+    },
+    {
+        "message": "　Gloria　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "There’s a single-sized bed, and all that’s left are a table and chairs. They must be the stuff that was originally in the apartment."
+    },
+    {
+        "message": "The view from the window shows barely a sliver of sky, with the rest being nothing but the dirty walls of a building."
+    },
+    {
+        "message": "With her earnings, it wouldn’t be hard to rent a better room than this."
+    },
+    {
+        "message": "You’re worried about her, huh?"
+    },
+    {
+        "message": "It’s not exactly a place you could call safe. Is it really okay to leave a girl all alone in a place like this?"
+    },
+    {
+        "message": "She's such a good girl."
+    },
+    {
+        "message": "I can't believe someone like her is living in this dirty showbiz world."
+    },
+    {
+        "message": "Still,"
+    },
+    {
+        "message": "maybe she would have been happier not becoming an actress."
+    },
+    {
+        "message": "Sure, she's got a pretty face and might act with the skill of an adult, but her true self is a naive young girl."
+    },
+    {
+        "message": "Choosing a boring guy over quitting acting is like ruining her life."
+    },
+    {
+        "message": "Isn't it?"
+    },
+    {
+        "message": "She seems calmer than the last time we met. I wonder how long it'll take before she agrees to meet her mother."
+    },
+    {
+        "message": "Hey, the audition is coming up soon."
+    },
+    {
+        "message": "Since she's at practice, I’m home alone. It's so boring."
+    },
+    {
+        "message": "They're doing their best, so can't we just support them?"
+    },
+    {
+        "message": "I get that, but I want you to pay a little more attention to me."
+    },
+    {
+        "message": "Well, I can't say I don't understand."
+    },
+    {
+        "message": "Right?　Ah."
+    },
+    {
+        "message": "Ah, I really want the audition to be over soon."
+    },
+    {
+        "message": "It's so boring until the audition ends."
+    },
+    {
+        "message": "How about going back to work once it's over?"
+    },
+    {
+        "message": "No way!"
+    },
+    {
+        "message": "Being 'normal' might actually be really exhausting."
+    },
+    {
+        "message": "You don't plan on going back to work?"
+    },
+    {
+        "message": "You always say things like that. It's my life, so let me do what I want."
+    },
+    {
+        "message": "Ah!"
+    },
+    {
+        "message": "There's just one thing I'm curious about, the filming..."
+    },
+    {
+        "message": "What's going on?"
+    },
+    {
+        "message": "The filming is"
+    },
+    {
+        "message": "being postponed for later."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "But what did they say to make us wait? Is the director really furious?"
+    },
+    {
+        "message": "Gloria is handling it with her quick thinking, so it's alright."
+    },
+    {
+        "message": "What did they say?"
+    },
+    {
+        "message": "She was rescued after being held captive by an obsessive fan, but she's extremely exhausted and needs rest."
+    },
+    {
+        "message": "Wow."
+    },
+    {
+        "message": "That's tough."
+    },
+    {
+        "message": "I wonder if no one has caught on?"
+    },
+    {
+        "message": "You could just return as you are right now, you know?"
+    },
+    {
+        "message": "I'm not going back. I’ve already decided."
+    },
+    {
+        "message": "But isn't it boring?"
+    },
+    {
+        "message": "I’ve always longed for a normal life like this, so it's okay. It really is okay, this ordinary life like now."
+    },
+    {
+        "message": "It really is okay."
+    },
+    {
+        "message": "I don’t want anything to do with that kind of world!"
+    },
+    {
+        "message": "You know, you haven’t hung out with me at all lately. What a letdown."
+    },
+    {
+        "message": "But that can’t be helped."
+    },
+    {
+        "message": "But I don’t want that."
+    },
+    {
+        "message": "Maybe,"
+    },
+    {
+        "message": "I actually don't want to audition, you know?"
+    },
+    {
+        "message": "Why do you think that?"
+    },
+    {
+        "message": "Because I forced you to audition. I feel like I made the wrong choice. I honestly didn’t expect a band like that."
+    },
+    {
+        "message": "What do you mean by a band like that?"
+    },
+    {
+        "message": "Wearing race outfits and putting on makeup like a girl. It makes me feel so gross."
+    },
+    {
+        "message": "But you’re auditioning knowing that, right?"
+    },
+    {
+        "message": "Because I told you to go."
+    },
+    {
+        "message": "Ah, what if I actually get in?"
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "Hey, can you imagine?　"
+    },
+    {
+        "message": "Me in drag and putting on makeup."
+    },
+    {
+        "message": "So why not just not let me audition at all?"
+    },
+    {
+        "message": "That won’t work. There might,"
+    },
+    {
+        "message": "be a chance meeting with someone important who notices your talent."
+    },
+    {
+        "message": "It might be bad if I passed or failed."
+    },
+    {
+        "message": "Ugh, it’s complicated."
+    },
+    {
+        "message": "I've forgotten all about Gloria."
+    },
+    {
+        "message": "That's harsh, treating someone who discovered you like that."
+    },
+    {
+        "message": "You can only support her because you don’t know anything."
+    },
+    {
+        "message": "Sure, I don’t know much about you guys,"
+    },
+    {
+        "message": "but I think she has her own side to it too."
+    },
+    {
+        "message": "So, detective, are you someone who can treat anyone equally, no matter who they are?"
+    },
+    {
+        "message": "Well, that's a tricky one."
+    },
+    {
+        "message": "I don't really know. But I think I'd try to approach it with that mindset as much as possible."
+    },
+    {
+        "message": "But you can't really know, right? In reality."
+    },
+    {
+        "message": "In the end, that's just how it is."
+    },
+    {
+        "message": "After the audition, you'll consider meeting your mom, right?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "After the audition, for sure."
+    },
+    {
+        "message": "But honestly, what's the point of this now?"
+    },
+    {
+        "message": "That's how I feel."
+    },
+    {
+        "message": "I'm 16, you know? I'm turning 17 this year! So what? It's too late to be told about my birth mother now."
+    },
+    {
+        "message": "Haven't you been told anything? You know, by your parents or relatives?"
+    },
+    {
+        "message": "It seems my mom and dad had few connections. I don't think there are any relatives. Plus, my parents passed away a long time ago."
+    },
+    {
+        "message": "Yeah, that's true."
+    },
+    {
+        "message": "Living for 16 years without knowing and then suddenly having someone show up would be really confusing."
+    },
+    {
+        "message": "Right?"
+    },
+    {
+        "message": "Hey, what kind of person is your mom, detective?"
+    },
+    {
+        "message": "I don't know how to describe her."
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Well, she was gentle and easygoing."
+    },
+    {
+        "message": "Ah, you used past tense."
+    },
+    {
+        "message": "Does that mean she’s passed away?"
+    },
+    {
+        "message": "No, she's alive."
+    },
+    {
+        "message": "So, has she become a scary mom compared to before?"
+    },
+    {
+        "message": "No, I haven't seen her for about three years."
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "W-Why?"
+    },
+    {
+        "message": "Why do you ask?"
+    },
+    {
+        "message": "Come on, isn't that fine?"
+    },
+    {
+        "message": "No way, you need to tell me properly!"
+    },
+    {
+        "message": "Come on, you have to confess!"
+    },
+    {
+        "message": "Forget about me."
+    },
+    {
+        "message": "No way, if you don't tell me, I will never meet my biological parents. Is that okay with you?"
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "You see, I've been disowned by my parents."
+    },
+    {
+        "message": "Disowned?"
+    },
+    {
+        "message": "Yes, disowned."
+    },
+    {
+        "message": "So I haven't seen my parents' faces in a long time. I think they’re alive since I haven't heard anything from them."
+    },
+    {
+        "message": "That's a really sad situation. If they were dead, I could accept that, but not being able to meet them while they’re alive is really heartbreaking."
+    },
+    {
+        "message": "Thanks, but I'm okay. I'm fine."
+    },
+    {
+        "message": "I."
+    },
+    {
+        "message": "I might have misunderstood you, detective. I'm sorry."
+    },
+    {
+        "message": "Surrounded by dirty adults and working, she has a complicated family situation. It might be a bit harsh for a teenage girl."
+    },
+    {
+        "message": "It might be a miracle that she has grown up so innocently."
+    },
+    {
+        "message": "I haven't told her that her real mother is Meryl, you know. I totally get that she'll be shocked."
+    },
+    {
+        "message": "Can she forgive Meryl?"
+    },
+    {
+        "message": "Right now,"
+    },
+    {
+        "message": "it seems like she's consumed with that. I think it's amazing to be so selfless as to be able to throw away her entire career and life."
+    },
+    {
+        "message": "That situation,"
+    },
+    {
+        "message": "I can't possibly see how it could be a plus for her. After the breakup for those girls,"
+    },
+    {
+        "message": "what will happen to her?"
+    },
+    {
+        "message": "Until his audition is over, anything said will be useless. For now, it seems the only option is to leave him alone."
+    },
+    {
+        "message": "But."
+    },
+    {
+        "message": "I just can't believe he has any special talent."
+    },
+    {
+        "message": "If."
+    },
+    {
+        "message": "Even if he manages to grasp a foothold for success, it will be thanks to."
+    },
+    {
+        "message": "his support."
+    },
+    {
+        "message": "He probably won't ever be able to forget that. After all, I just can't see these two being happy together."
+    },
+    {
+        "message": "I think."
+    },
+    {
+        "message": "Whatever happens, it's not something I should concern myself with."
+    },
+    {
+        "message": "It's not an issue I should interfere with."
+    },
+    {
+        "message": "Is Gloria still"
+    },
+    {
+        "message": "looking for her?"
+    },
+    {
+        "message": "Or,"
+    },
+    {
+        "message": "does she know where she is and is deliberately leaving her alone?"
+    },
+    {
+        "message": "Gloria really has it tough."
+    },
+    {
+        "message": "But it seems things haven't been going as well as she thought."
+    },
+    {
+        "message": "What kind of reaction would Meryl have if she knew that is her abandoned daughter?"
+    },
+    {
+        "message": "A major actress whose beauty and popularity are beginning to fade, and a rising star with incredible momentum. It's a strange fate."
+    },
+    {
+        "message": "She does not have good feelings towards her birth mother. Well, that's only natural."
+    },
+    {
+        "message": "Honestly, wouldn't it be better for both of them if Meryl and"
+    },
+    {
+        "message": "didn't meet?"
+    },
+    {
+        "message": "In any case, it’s alright to put Meryl and"
+    },
+    {
+        "message": "on the back burner. Worrying about it won't change anything."
+    },
+    {
+        "message": "Come visit again."
+    },
+    {
+        "message": "※※※ It's a bug. ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]
