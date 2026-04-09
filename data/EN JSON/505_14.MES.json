@@ -1,0 +1,347 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Ah,"
+    },
+    {
+        "message": "thanks for your hard work the other day."
+    },
+    {
+        "message": "You're the one in charge."
+    },
+    {
+        "message": "No, I'm fine with that,"
+    },
+    {
+        "message": "right?"
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The situation around here　　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "　About Patricia　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About the Serial Murder Case"
+    },
+    {
+        "message": "About the Director"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About the Serial Murder Case"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "End Game"
+    },
+    {
+        "message": "The living room, mostly used for guests, is filled with chairs."
+    },
+    {
+        "message": "Outside the window, you can see the adjacent high-rise buildings below. It's normal for these kinds of buildings to get more expensive as you go higher, and this room isn't cheap either."
+    },
+    {
+        "message": "It's inside Trump Tower."
+    },
+    {
+        "message": "This is the director's room. It feels a bit too luxurious for a secondary house where he just stays occasionally."
+    },
+    {
+        "message": "It seemed like he had regained his energy after all the sources of stress were cleared away, but today he looks even more exhausted."
+    },
+    {
+        "message": "You seem to lack energy."
+    },
+    {
+        "message": "He looks older than usual. The only thing troubling the director right now is his daughter."
+    },
+    {
+        "message": "Sure, she's at an age where it's understandable, but I don't feel like she's aging. The rumors about actresses keep coming out, which isn’t surprising."
+    },
+    {
+        "message": "You seem quite tired, don’t you?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Actually, I haven’t heard from Patricia since then."
+    },
+    {
+        "message": "Are you still in a parent-child quarrel?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "I don't mean to, but it's been a week since the phone stopped connecting."
+    },
+    {
+        "message": "I'm worried she might have gotten involved in some incident."
+    },
+    {
+        "message": "If you're that worried, why not contact the police? I don't expect them to search vigorously, though."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "But if it's just a whim on her part, it would affect a lot of people."
+    },
+    {
+        "message": "Still, it’s too late once something happens. If I had a few more connections, I could help you."
+    },
+    {
+        "message": "No, it's fine. Thank you."
+    },
+    {
+        "message": "I'll wait a bit longer."
+    },
+    {
+        "message": "She's a troublesome child."
+    },
+    {
+        "message": "She probably isn't even thinking about how much her parents are worried."
+    },
+    {
+        "message": "It's true we had a fight, but it’s impossible for her not to contact me for a week."
+    },
+    {
+        "message": "Hasn't she already gone back to Boston?"
+    },
+    {
+        "message": "No, that's not the case. I checked."
+    },
+    {
+        "message": "Well then, why not ask her place of stay?"
+    },
+    {
+        "message": "The thing is, she’s at my vacation home alone."
+    },
+    {
+        "message": "I can't reach the caretaker of the villa, so I don't know what she's doing right now."
+    },
+    {
+        "message": "That's worrying."
+    },
+    {
+        "message": "I just hope she isn't in any danger."
+    },
+    {
+        "message": "I hope nothing has happened."
+    },
+    {
+        "message": "Guy had an accident somewhere around Colorado Springs, didn't he?"
+    },
+    {
+        "message": "Yeah, somewhere in the mountains around there."
+    },
+    {
+        "message": "Actually, my daughter's destination is Colorado Springs. I have this uneasy feeling."
+    },
+    {
+        "message": "It’s unlikely that my daughter is involved in Guy’s accidental death, but I just can’t shake this anxiety."
+    },
+    {
+        "message": "I can understand how you feel."
+    },
+    {
+        "message": "Death can be so sudden, can't it? Even with a perfectly healthy body, Guy couldn’t escape death."
+    },
+    {
+        "message": "In this world, just living safely is a miracle."
+    },
+    {
+        "message": "I haven't seen Jennifer lately. I just can't bring myself to face her."
+    },
+    {
+        "message": "No, please don’t hold back with me."
+    },
+    {
+        "message": "Yeah, I get it, but..."
+    },
+    {
+        "message": "It's hard for me to hear about you from Jennifer."
+    },
+    {
+        "message": "I must have liked Jennifer, I guess. So I don't want to see her talk about you with shining eyes."
+    },
+    {
+        "message": "What am I even saying?"
+    },
+    {
+        "message": "You must be tired."
+    },
+    {
+        "message": "I'll step back; you should get along with Jennifer."
+    },
+    {
+        "message": "Meryl might already be back. I think I got a call about that."
+    },
+    {
+        "message": "What happened with Meryl and the director?"
+    },
+    {
+        "message": "That was also the trigger for the fight with Patricia."
+    },
+    {
+        "message": "I think it probably ended a long time ago."
+    },
+    {
+        "message": "You know, there was a time I thought about marrying Meryl. But, it didn't happen because Patricia strongly opposed it."
+    },
+    {
+        "message": "Still, we've been lovers until now."
+    },
+    {
+        "message": "That was just a rotten bond, huh. Meryl said she wanted to find the daughter she had given up for adoption long ago, and since then it's been like this."
+    },
+    {
+        "message": "From now on, we'll just be work partners teaming up."
+    },
+    {
+        "message": "I heard at the funeral that Guy and Kristy are the ones behind the serial murder case."
+    },
+    {
+        "message": "But there’s no evidence for that."
+    },
+    {
+        "message": "True. But now I can't shake off the uneasy feeling."
+    },
+    {
+        "message": "I mean, I can't help but think... what if Patricia also fell victim to the criminal's fangs?"
+    },
+    {
+        "message": "You'll be just fine."
+    },
+    {
+        "message": "Really, do you really think so?"
+    },
+    {
+        "message": "Getting older makes you paranoid, it's a hassle, there’s no peace of mind."
+    },
+    {
+        "message": "It seems like you’re quite worked up about not being able to contact Patricia. Don't you think of going to look for her yourself?"
+    },
+    {
+        "message": "If it were really possible, I would want to fly out to find Patricia. I wonder why she’s in New York."
+    },
+    {
+        "message": "Wasn't the director and Jennifer's relationship something else? Or did I just think too much?"
+    },
+    {
+        "message": "Naturally, one would think it was a suicide or an accident. But I can't seem to accept that."
+    },
+    {
+        "message": "The police and related parties seem to have concluded that Guy is the serial murderer."
+    },
+    {
+        "message": "But I can't accept such a rash conclusion."
+    },
+    {
+        "message": "I have to prove that Guy is definitely not the culprit."
+    },
+    {
+        "message": "It seems the director really liked Jennifer. But what about her?"
+    },
+    {
+        "message": "Jennifer didn't try to accept the director's feelings. Is it my fault?"
+    },
+    {
+        "message": "Does Jennifer think about me?"
+    },
+    {
+        "message": "I wonder what she thinks of me."
+    },
+    {
+        "message": "Am I recognized as a more important man than the director?"
+    },
+    {
+        "message": "I wonder if he’s happy about Gai’s death."
+    },
+    {
+        "message": "Meryl completely believed that Gai was the one who killed Cindy."
+    },
+    {
+        "message": "The relationship with the director had really been cold for a long time."
+    },
+    {
+        "message": "Is that why I thought about looking for my daughter?"
+    },
+    {
+        "message": "Meryl lost both her lover and her daughter. What will she live for now?"
+    },
+    {
+        "message": "The police seem to have decided that Gai is the culprit. It's true he had a strong side."
+    },
+    {
+        "message": "If this ends the serial killings, it will really mean Gai is the killer."
+    },
+    {
+        "message": "No way, did Patricia also fall into the culprit's hands?"
+    },
+    {
+        "message": "Am I overthinking this?"
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

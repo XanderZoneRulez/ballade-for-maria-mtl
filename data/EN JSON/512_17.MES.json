@@ -1,0 +1,290 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Excuse me,"
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "what's going on today?"
+    },
+    {
+        "message": "I want to meet Meryl. She's here, right?"
+    },
+    {
+        "message": "Sorry, but she said she doesn't want to see anyone,"
+    },
+    {
+        "message": "so she's refusing to meet."
+    },
+    {
+        "message": "Did someone come to see her?"
+    },
+    {
+        "message": "Yeah, well, a few people. Sorry, I'm busy right now. Well, I'll take my leave."
+    },
+    {
+        "message": "Excuse me,"
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "what's the matter,"
+    },
+    {
+        "message": "? Do you need something else?"
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About the Decoy House"
+    },
+    {
+        "message": "About the Serial Murder Case"
+    },
+    {
+        "message": "matters"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About the Decoy House"
+    },
+    {
+        "message": "About the Serial Murder Case"
+    },
+    {
+        "message": "　　Go to another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "End the game."
+    },
+    {
+        "message": "This is basically the front of the police station."
+    },
+    {
+        "message": "There’s a counter set up for uniformed officers to assist citizens."
+    },
+    {
+        "message": "Among the uniformed officers,"
+    },
+    {
+        "message": "stands."
+    },
+    {
+        "message": "He’s in his usual worn-out coat and wrinkled shirt. The tie is definitely one he’s been using for years."
+    },
+    {
+        "message": "Today, his partner, that lively guy, isn’t with him. It’s certain a detective wouldn’t act alone, so he must be in the station."
+    },
+    {
+        "message": "From his face, which has endured many storms over the years, you can see Maurice's cunning and his skill as a detective."
+    },
+    {
+        "message": "Every day, every day, new cases just keep coming."
+    },
+    {
+        "message": "What a nasty world."
+    },
+    {
+        "message": "It really is. So, what’s the matter this time? You can’t meet Meryl."
+    },
+    {
+        "message": "The only one who can see Meryl right now is her lawyer. It’s the rule, so don’t take it the wrong way."
+    },
+    {
+        "message": "How is Meryl doing? Is she in a panic or anything?"
+    },
+    {
+        "message": "Surprisingly, she’s keeping her cool. Most suspects lose their composure and start causing a scene."
+    },
+    {
+        "message": "But if she’s behaving normally, that’s fine."
+    },
+    {
+        "message": "Now then, she looks normal on the outside, but..."
+    },
+    {
+        "message": "It’s useless no matter how much you ask, you can’t meet Meryl."
+    },
+    {
+        "message": "Meryl has confessed. She's being unnaturally honest, it's scary."
+    },
+    {
+        "message": "Confessed to what, exactly?"
+    },
+    {
+        "message": "To the murder of Guy and Goldstein. She claims she avenged her daughter."
+    },
+    {
+        "message": "I can understand the feelings of parents who have lost a child, but..."
+    },
+    {
+        "message": "But really, she..."
+    },
+    {
+        "message": "No, never mind."
+    },
+    {
+        "message": "Are you saying you doubt she did it?"
+    },
+    {
+        "message": "No, not at all."
+    },
+    {
+        "message": "Not at all."
+    },
+    {
+        "message": "Well, since Meryl herself acknowledged it, there's nothing we can do, right?"
+    },
+    {
+        "message": "Ah, so you're talking about that room in the decoy house you mentioned. There was nothing in that room."
+    },
+    {
+        "message": "What!? We didn't move anything and left it as it was."
+    },
+    {
+        "message": "Indeed, there were significant blood traces found in that room. But the coffin-like thing you mentioned was nowhere to be seen."
+    },
+    {
+        "message": "No way."
+    },
+    {
+        "message": "Maybe it was taken away before we arrived. Even if reluctantly, we had plenty of time to do so."
+    },
+    {
+        "message": "I wonder what you actually saw."
+    },
+    {
+        "message": "So, that was where the perpetrator of the serial murder case neatly stored the dismembered body parts."
+    },
+    {
+        "message": "But the first victim was killed six months ago. It's strange to think their body could still exist without decaying."
+    },
+    {
+        "message": "Maybe you were just dreaming?"
+    },
+    {
+        "message": "I looked into the owner of that decoy house room you told me about, but that person has already gone missing."
+    },
+    {
+        "message": "I have a feeling the owner of that room is the most likely suspect; what do you think?"
+    },
+    {
+        "message": "Do you really think that person did it?"
+    },
+    {
+        "message": "It's often the case that a seemingly incomprehensible crime involves someone you wouldn’t expect."
+    },
+    {
+        "message": "There are many times where the culprit is such a person."
+    },
+    {
+        "message": "But..."
+    },
+    {
+        "message": "I understand your feelings, but it's my duty to catch the real culprit."
+    },
+    {
+        "message": "No matter how minimal the possibility, I cannot ignore it."
+    },
+    {
+        "message": "A pervert is roaming the streets, indiscriminately mutilating women to satisfy his warped desires."
+    },
+    {
+        "message": "The citizens' complaints against the police, who can't catch the culprit, must be quite intense. Maurice's face is heavily marked by fatigue."
+    },
+    {
+        "message": "Even a veteran detective on this road for decades can't capture the perpetrator of a bizarre murder."
+    },
+    {
+        "message": "His face and the clothes he's wearing look exactly like a detective pulled straight out of a novel. For Maurice, being a detective must be a calling."
+    },
+    {
+        "message": "If only it had been understood a bit earlier that Guy was not the murderer of Cindy, Meryl could have escaped the murder charge."
+    },
+    {
+        "message": "Not only did Guy kill, but even Kristy was taken with him. Was the killer that hated Cindy so much?"
+    },
+    {
+        "message": "Meryl probably has no regrets even if she gets caught. She believes she was able to punish the one who killed her daughter with her own hands."
+    },
+    {
+        "message": "A horrifying creation made of the countless bloodstains and the bodies of the victimized women. That has to be the murder scene."
+    },
+    {
+        "message": "If the Decoy House is the murder scene,"
+    },
+    {
+        "message": "the likelihood that the owner of that room is the culprit is very strong. I don’t want to believe it, but."
+    },
+    {
+        "message": "That bloodstained room, like in a coffin,"
+    },
+    {
+        "message": "created by a mentally disturbed creator,"
+    },
+    {
+        "message": "I can't forget that artistic work."
+    },
+    {
+        "message": "Did the culprit kill innocent women to make that thing found in the coffin of the Decoy House?"
+    },
+    {
+        "message": "The police must think the owner of the room with bloodstains is the culprit. That means she is."
+    },
+    {
+        "message": "Could the tenant of the Decoy House be the bizarre murder perpetrator?"
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Ash"
+    },
+    {
+        "message": "Welcome!"
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Decoy House"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Decoy House"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "The customers around me faithfully adhere to the etiquette of city dwellers, showing no interest at all when I walk into the bar."
+    },
+    {
+        "message": "Even though it's a familiar inside the bar, I strangely feel uneasy. Has this place stopped being my own?"
+    },
+    {
+        "message": "They are staring at me. Are they trying to show sympathy, or are they keeping an eye on me in case I do something?"
+    },
+    {
+        "message": "Today's"
+    },
+    {
+        "message": "is different from usual; they are not busy with their hands but are staring at me intently."
+    },
+    {
+        "message": "Are you okay? Please keep your spirits up."
+    },
+    {
+        "message": "Well, it sounds like you think Jennifer is the culprit."
+    },
+    {
+        "message": "I believe it's almost certainly correct."
+    },
+    {
+        "message": "Please don't lose sight of the harsh reality, even if it's difficult."
+    },
+    {
+        "message": "Have you already gone to see Jennifer?"
+    },
+    {
+        "message": "No, not yet."
+    },
+    {
+        "message": "I think you should hurry. She might notice."
+    },
+    {
+        "message": "The way you're saying it makes it sound like she is definitely the culprit."
+    },
+    {
+        "message": "I think she is currently the closest to being the culprit. Doesn't that make sense if you think about it realistically?"
+    },
+    {
+        "message": "I understand how you feel, but..."
+    },
+    {
+        "message": "Were you able to meet Jennifer?"
+    },
+    {
+        "message": "No, she has already checked out of the hotel."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "If we don't know where she's headed, she might indeed be the culprit."
+    },
+    {
+        "message": "I don't want to admit it, but it's becoming natural to think of her as the culprit."
+    },
+    {
+        "message": "Unfortunately, yes."
+    },
+    {
+        "message": "What on earth is she doing this for?"
+    },
+    {
+        "message": "If the culprit is Jennifer, then the Decoy House might be clean by now."
+    },
+    {
+        "message": "Why?"
+    },
+    {
+        "message": "I don't know why, but I feel like she's completely aware of our information."
+    },
+    {
+        "message": "It might just be your imagination."
+    },
+    {
+        "message": "When I asked the detective, he said the Decoy House was completely empty."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "That's disappointing, but in that case, it looks like Jennifer was indeed the culprit."
+    },
+    {
+        "message": "It could be."
+    },
+    {
+        "message": "I wish we knew where she was headed."
+    },
+    {
+        "message": "Well, with this, we can’t help but think she’s the culprit."
+    },
+    {
+        "message": "That’s right. There is a possibility."
+    },
+    {
+        "message": "We can't rule out the chance that something might happen to her. We need to find her location quickly."
+    },
+    {
+        "message": "I know."
+    },
+    {
+        "message": "I get that, but how are we supposed to investigate?"
+    },
+    {
+        "message": "We need to find out where Jennifer is."
+    },
+    {
+        "message": "The police are considering Meryl separately from the serial murder case. In reality, it’s suspicious that she could have killed Guy and Kristy."
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "I don’t think Meryl did anything."
+    },
+    {
+        "message": "Then why?"
+    },
+    {
+        "message": "Why hasn’t she been arrested yet?"
+    },
+    {
+        "message": "Who knows?"
+    },
+    {
+        "message": "That's something only she herself would know."
+    },
+    {
+        "message": "Unfortunately, the one currently considered the culprit is..."
+    },
+    {
+        "message": "I think Jennifer is the culprit. After seeing that scene, it's not surprising that it's her room."
+    },
+    {
+        "message": "I know it's pointless to think about, but hearing the truth from Jennifer's mouth is terrifying."
+    },
+    {
+        "message": "Right before the police raided the Decoy House, she vacated the hotel. It seems too coincidental."
+    },
+    {
+        "message": "Where could she have gone?"
+    },
+    {
+        "message": "Is there anyone who knows where Jennifer went?"
+    },
+    {
+        "message": "The culprit brought the victim into that room and dismembered the body while she was still alive. Didn't the neighbors notice that at all?"
+    },
+    {
+        "message": "They're indifferent to everyone else, showing no curiosity even when something happens next door."
+    },
+    {
+        "message": "Is that how it is?"
+    },
+    {
+        "message": "Even if that dreadful creation made from the victim's body is gone, it’s certain the Decoy House is the crime scene."
+    },
+    {
+        "message": "How did the culprit manage to get ahead of the police and move that coffin?"
+    },
+    {
+        "message": "By fleeing the hotel, Jennifer's position has worsened. Even I can't help but doubt her."
+    },
+    {
+        "message": "In any case, I hope there won't be any more victims. I have a feeling."
+    },
+    {
+        "message": "Knowing we witnessed that in the Decoy House, she moved the coffin before the police arrived."
+    },
+    {
+        "message": "Could she really have done something like that?"
+    },
+    {
+        "message": "If Jennifer is the culprit, I wonder why she had to do such a thing. I'll have to hear it from her."
+    },
+    {
+        "message": "※※※ Bug detected ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

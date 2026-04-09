@@ -1,0 +1,431 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Boss, how are you doing?"
+    },
+    {
+        "message": "Welcome back."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "　　Guy　　"
+    },
+    {
+        "message": "　Kristy　"
+    },
+    {
+        "message": "　　Meryl　　"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Director Fabar"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "　　Guy　　"
+    },
+    {
+        "message": "　Kristy　"
+    },
+    {
+        "message": "　　Meryl　　"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Director Fabar"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "End the game"
+    },
+    {
+        "message": "What I can hear is"
+    },
+    {
+        "message": "the voice and the faint sound of the air conditioning. It’s eerily quiet, like the outside commotion is a lie."
+    },
+    {
+        "message": "There’s no sign of anyone visiting, and the phone remains silent. But for me right now, that’s actually convenient."
+    },
+    {
+        "message": "It’s the usual dim office with the evening sun shining in. The flickering fluorescent light is painful to the eyes."
+    },
+    {
+        "message": "I’m not as shocked as I thought I would be. In fact, I feel somewhat more energized than usual. Are they trying to cheer me up?"
+    },
+    {
+        "message": "Those mischievous, lively black eyes are glued to my face. It’s as if they’re keeping a watchful eye on me, worried I might just off myself."
+    },
+    {
+        "message": "It's great to see you lively. However,"
+    },
+    {
+        "message": "in those cases, it tends to be more efficient to work when feeling a bit unwell."
+    },
+    {
+        "message": "Boss, you surprisingly look pretty good."
+    },
+    {
+        "message": "It's because I'm eating properly."
+    },
+    {
+        "message": "Alright, that's good. You need to eat; otherwise, your body won't hold up."
+    },
+    {
+        "message": "I was a bit worried you might feel more down, but,"
+    },
+    {
+        "message": "it seems your little reprimand worked."
+    },
+    {
+        "message": "Thanks to that,"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "please express your gratitude with a cheerful smile."
+    },
+    {
+        "message": "Hey."
+    },
+    {
+        "message": "There's no time to be feeling down. Boss still has things to do."
+    },
+    {
+        "message": "Boss, you're okay, right?"
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Let's tighten our feelings and catch the murderer of Guy."
+    },
+    {
+        "message": "They say Guy's death was either an accident or a love-suicide."
+    },
+    {
+        "message": "We still don't know that. Also, I hate to say this, but he could be the person behind previous incidents."
+    },
+    {
+        "message": "!"
+    },
+    {
+        "message": "I understand, I know how you feel, Boss, but we can’t dismiss the possibility."
+    },
+    {
+        "message": "Boss, let’s do our best now to find the truth."
+    },
+    {
+        "message": "Tony says it’s weird that Guy and Kristy went on a trip together and are getting married."
+    },
+    {
+        "message": "Oh really? Why's that? Even with some complications, they're engaged; it’s a natural progression, right?"
+    },
+    {
+        "message": "No, apparently it seems Guy himself said something like that."
+    },
+    {
+        "message": "If that's the case, then why did they go on a trip together?"
+    },
+    {
+        "message": "Boss, it must have just been the mood at that time. Maybe Guy was just feeling that way back then?"
+    },
+    {
+        "message": "And did he feel differently later?"
+    },
+    {
+        "message": "It's probably just a little lovers' quarrel. Don’t overthink it."
+    },
+    {
+        "message": "Boss, you shouldn't be swayed."
+    },
+    {
+        "message": "I think Kristy was probably happy."
+    },
+    {
+        "message": "You mean because you were with Gai, right?"
+    },
+    {
+        "message": "That's right! You must have been absolutely happy."
+    },
+    {
+        "message": "There were a lot of things, right, Kristy?"
+    },
+    {
+        "message": "It was tough going through counseling, but it was good that Gai was next to you in the end."
+    },
+    {
+        "message": "Yeah, he must have been really happy."
+    },
+    {
+        "message": "Sure. Besides, you were properly married to Gai."
+    },
+    {
+        "message": "It’s a silver lining in misfortune."
+    },
+    {
+        "message": "Kristy, you could have been even happier from now on."
+    },
+    {
+        "message": "I haven't seen her since the party."
+    },
+    {
+        "message": "I wonder if Meryl is feeling better now? She was saying she wanted to kill Gai back then."
+    },
+    {
+        "message": "I think by now, her feelings should have settled down."
+    },
+    {
+        "message": "That’s true."
+    },
+    {
+        "message": "Meryl hasn't died or anything, right?"
+    },
+    {
+        "message": "It’s been a while since I saw Meryl."
+    },
+    {
+        "message": "Could it be since the party incident?"
+    },
+    {
+        "message": "Yeah. Apparently, she went on a healing trip."
+    },
+    {
+        "message": "A trip, huh?"
+    },
+    {
+        "message": "I’m glad Meryl is safe."
+    },
+    {
+        "message": "I wonder how Meryl feels about Gai’s death?"
+    },
+    {
+        "message": "You made up with Jennifer, right?"
+    },
+    {
+        "message": "What’s that? Mind your own business."
+    },
+    {
+        "message": "Come on, that’s not a line for someone blushing."
+    },
+    {
+        "message": "You need to protect Jennifer, you know."
+    },
+    {
+        "message": "Does Günter do counseling for things other than mental issues?"
+    },
+    {
+        "message": "What’s that about? Counseling is just dealing with simple stress."
+    },
+    {
+        "message": "Jennifer must be under a lot of stress, too."
+    },
+    {
+        "message": "She’s an actress, so she probably deals with fierce competition and is friends with stress."
+    },
+    {
+        "message": "It’s not that rare to go through counseling."
+    },
+    {
+        "message": "I wonder if the director has made up with Patricia?"
+    },
+    {
+        "message": "Speaking of which, that was the story. But, you know, father-daughter relationships are tough."
+    },
+    {
+        "message": "Even the great Director Fabar was just a normal dad."
+    },
+    {
+        "message": "Director, it seems we can't get in touch with Patricia. She's been really worried."
+    },
+    {
+        "message": "Could it be that the fight escalated?"
+    },
+    {
+        "message": "Yeah, that might be part of it."
+    },
+    {
+        "message": "Supposedly, Guy and the others are in Colorado Springs where the accident happened, which makes it worse."
+    },
+    {
+        "message": "Huh."
+    },
+    {
+        "message": "Hmm, it's the same place, huh."
+    },
+    {
+        "message": "I have a bad feeling about this."
+    },
+    {
+        "message": "I'm sure everything will be okay, Patricia. They might be in Boston by now."
+    },
+    {
+        "message": "I was suspicious that either Guy or Kristy was the culprit. But that was a misunderstanding."
+    },
+    {
+        "message": "I can't say for sure whether it was a misunderstanding. Just because Guy and the others are dead doesn't mean that."
+    },
+    {
+        "message": "Even if they were the culprits, if this accident was a suicide..."
+    },
+    {
+        "message": "That would mean I pulled the trigger."
+    },
+    {
+        "message": "So what are you getting at?　"
+    },
+    {
+        "message": "Stop acting like a tragic hero. I really don't want to see that side of you, Boss."
+    },
+    {
+        "message": "The culprit is still alive and well, while Guy and the others might have been killed by that culprit."
+    },
+    {
+        "message": "That's just..."
+    },
+    {
+        "message": "As long as there's a possibility, we have to do everything we can."
+    },
+    {
+        "message": "After all, I've got nothing but time."
+    },
+    {
+        "message": "Time is the least of our worries."
+    },
+    {
+        "message": "Hehe, sorry."
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "Boss, please do your best."
+    },
+    {
+        "message": "As a professional athlete, you could still make it, and even married the woman you love. If it's an accident, that's one thing, but suicide just doesn't sit right with me."
+    },
+    {
+        "message": "If Guy is a serial killer, that would mean there will never be another incident."
+    },
+    {
+        "message": "Was it an accident or a suicide?"
+    },
+    {
+        "message": "Or is it possible that someone killed them, making it look like an accident?"
+    },
+    {
+        "message": "She was able to marry the man she loved, whom she protected at the cost of her own life. Surely, she was happy until the moment of her death."
+    },
+    {
+        "message": "What if the deaths of the two were accidental and the cause lay in Kristy's illness? Suddenly struck by a seizure,"
+    },
+    {
+        "message": "wouldn’t it be a desecration of Kristy to imagine more about her death?"
+    },
+    {
+        "message": "I haven't seen Meryl in a while. Even if I did see her, I'd probably be at a loss for words."
+    },
+    {
+        "message": "Were Meryl and the director in contact with each other?"
+    },
+    {
+        "message": "It seems somewhat surprising, but given their long relationship, it makes sense."
+    },
+    {
+        "message": "Meryl appeared to have a look of resolution on her face."
+    },
+    {
+        "message": "Meryl didn’t even try to hide her animosity towards Guy. That attitude she had when I brought up Guy."
+    },
+    {
+        "message": "It annoyed me a bit."
+    },
+    {
+        "message": "I can’t help but think it wouldn't be strange if Meryl was behind Guy's accident."
+    },
+    {
+        "message": "Jennifer had previously been consulted by the director regarding Patricia, but this time she hasn’t given any advice?"
+    },
+    {
+        "message": "Kristy and Jennifer must have crossed paths a few times. I wonder if Jennifer is in shock."
+    },
+    {
+        "message": "Indeed, in today's world, seeing a psychiatrist is completely normal."
+    },
+    {
+        "message": "I wonder what diagnosis was given?"
+    },
+    {
+        "message": "Is Jennifer suffering from a serious illness? Or maybe it’s really nothing at all?"
+    },
+    {
+        "message": "I have no experience of having a daughter, so I can’t say, but it seems utterly ridiculous to see the director being tossed around by Patricia."
+    },
+    {
+        "message": "Compared to murder or work issues, a daughter's behavior doesn't seem like a big deal."
+    },
+    {
+        "message": "It seems I've been quite worried about Patricia, so maybe I should check on her."
+    },
+    {
+        "message": "If Guy and Kristy are dead, does that mean the murders are over and they were indeed the culprits?"
+    },
+    {
+        "message": "Since Cindy's death, there have been no new victims. Instead, there are absolutely no clues regarding the culprit or any leads on solving the case."
+    },
+    {
+        "message": "I wonder if this will put an end to the murders."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

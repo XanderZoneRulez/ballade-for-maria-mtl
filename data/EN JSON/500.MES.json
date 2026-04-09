@@ -1,0 +1,296 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Cosner"
+    },
+    {
+        "message": "Heh, I'm finally happy I get to interrogate you."
+    },
+    {
+        "message": "I'm glad, too. It's not often I'm called into places like this."
+    },
+    {
+        "message": "You can keep up the bravado while it lasts."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "　About　the　suspect　"
+    },
+    {
+        "message": "　About Veneta　"
+    },
+    {
+        "message": "　　About Eva　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　　About Ginny　　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "Cut it out. I’m not here to teach you anything!"
+    },
+    {
+        "message": "I'm sorry, too."
+    },
+    {
+        "message": "Oh, come on! Someone take this clueless idiot to the special room!"
+    },
+    {
+        "message": "Wait, I can't go home yet?!"
+    },
+    {
+        "message": "Listen, you’re a suspect. Keep that in mind!"
+    },
+    {
+        "message": "The room feels cramped and stifling. No, it might be Cosner's intimidating presence making it that way."
+    },
+    {
+        "message": "I never imagined I’d find myself in a place like this."
+    },
+    {
+        "message": "He interacts with me confidently, like a fish back in water. This is his domain, and he sees himself as the king of this place."
+    },
+    {
+        "message": "I don’t think there’s any need to raise your voice in this cramped room."
+    },
+    {
+        "message": "Now, let's hear you confess everything you did."
+    },
+    {
+        "message": "Even if you say that, I have nothing to talk about since I haven't done anything."
+    },
+    {
+        "message": "You... even at this point, you're still"
+    },
+    {
+        "message": "Mocking me?"
+    },
+    {
+        "message": "Maybe it really was you from the start. Considering the parts that are missing, it feels that way."
+    },
+    {
+        "message": "I've said it a million times, I didn't do anything."
+    },
+    {
+        "message": "No way, I won't be fooled by such a lie. Left leg, both arms, both hands, lower abdomen, upper body."
+    },
+    {
+        "message": "Just the head left, huh?"
+    },
+    {
+        "message": "I really didn't do anything."
+    },
+    {
+        "message": "No, you did it. I get it now, you intended to make mannequins out of the victims' bodies."
+    },
+    {
+        "message": "If you confess quickly, it'll be easier on you."
+    },
+    {
+        "message": "What exactly am I being accused of?"
+    },
+    {
+        "message": "What are you pretending not to know now? Of course, it's for murder."
+    },
+    {
+        "message": "I don't remember doing anything like that."
+    },
+    {
+        "message": "I've thought you did it since the first time I met you."
+    },
+    {
+        "message": "For now, it's about Veneta Skakki, Eva Courtney, Cindy, and Annette Wheaton."
+    },
+    {
+        "message": "Your accusation is regarding the murder of these four."
+    },
+    {
+        "message": "Do I look like the kind of person who could do something like that?"
+    },
+    {
+        "message": "You were a junkie. If you're still involved with drugs."
+    },
+    {
+        "message": "Heh, that's probably it, right?"
+    },
+    {
+        "message": "Are you the type who can't get turned on unless you kill a woman during sex?"
+    },
+    {
+        "message": "Who is Veneta?"
+    },
+    {
+        "message": "Well, you wouldn't just kill people you know, right? Fine, I'll be kind and tell you."
+    },
+    {
+        "message": "Veneta Skakki is a streetwalker. She stands in the same spot every night and picks up clients."
+    },
+    {
+        "message": "Such professions are easy targets."
+    },
+    {
+        "message": "They're easy targets."
+    },
+    {
+        "message": "Isn't that right? You sure say it like it's not your problem."
+    },
+    {
+        "message": "You picked up Veneta and went into some cheap inn. Or maybe a warehouse. That's where you killed her, right?"
+    },
+    {
+        "message": "I didn't do anything like that."
+    },
+    {
+        "message": "Tch, it's only a matter of time before you can't say that anymore."
+    },
+    {
+        "message": "If you just admit you did it, it would make things easier."
+    },
+    {
+        "message": "I'm curious, why did you only dismember Eva Courtney?"
+    },
+    {
+        "message": "You should ask the culprit about that."
+    },
+    {
+        "message": "That's why I'm asking you."
+    },
+    {
+        "message": "Unfortunately, I'm not the culprit."
+    },
+    {
+        "message": "Hmph."
+    },
+    {
+        "message": "Oh, didn’t your mom teach you that lying is bad?"
+    },
+    {
+        "message": "You killed her because Eva started digging into your past, right?"
+    },
+    {
+        "message": "I’m innocent."
+    },
+    {
+        "message": "Did you dismember her out of pent-up hatred?"
+    },
+    {
+        "message": "You're a scary guy too. You're a classic example of how people are not what they seem."
+    },
+    {
+        "message": "Poor Eva, being killed by such a nice-looking guy."
+    },
+    {
+        "message": "Cindy was so cute."
+    },
+    {
+        "message": "Why did you go and kill her?"
+    },
+    {
+        "message": "I didn’t do it."
+    },
+    {
+        "message": "No way, you did it. Chopping off a left leg is a sick hobby. To top it off, you even sent the ankle to the agent."
+    },
+    {
+        "message": "Did you only give Cindy sleeping pills because you didn’t want to see her suffer?"
+    },
+    {
+        "message": "Talking to you is pointless."
+    },
+    {
+        "message": "If you tell me what you did, I’ll actually listen."
+    },
+    {
+        "message": "Just admit it! I’m not here twiddling my thumbs!"
+    },
+    {
+        "message": "Annette was a woman from the Escort Service, huh? Speaking of which, the owner of the company was caught."
+    },
+    {
+        "message": "Wait!? Gabriela got arrested?"
+    },
+    {
+        "message": "Apparently, it's turning into a huge scandal involving politicians and big shots."
+    },
+    {
+        "message": "I hear Annette was a good woman. Rumor has it she was being kept by a celebrity, so the other side must have been quite something too?"
+    },
+    {
+        "message": "I don't know about that."
+    },
+    {
+        "message": "You really have a knack for making people irritated."
+    },
+    {
+        "message": "Hurry up and confess! Then we can both be at ease."
+    },
+    {
+        "message": "That's what I want to know too. You copied the past incidents, didn’t you?"
+    },
+    {
+        "message": "I have no idea what you’re talking about."
+    },
+    {
+        "message": "Where are you hiding the chopped-up stuff?"
+    },
+    {
+        "message": "I can’t know that unless I ask the culprit."
+    },
+    {
+        "message": "That's exactly what I'm doing. Damn, you're such a stubborn guy."
+    },
+    {
+        "message": "N-no way."
+    },
+    {
+        "message": "You didn't eat the chopped-up stuff, did you?"
+    },
+    {
+        "message": "I have no such hobbies."
+    },
+    {
+        "message": "Ugh, you disgusting perverted bastard! You’re definitely not going to heaven."
+    },
+    {
+        "message": "Ugh, no way."
+    },
+    {
+        "message": "Perverts deserve the death penalty."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

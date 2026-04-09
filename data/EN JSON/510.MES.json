@@ -1,0 +1,404 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Ash"
+    },
+    {
+        "message": "Sorry to keep you waiting. The boss is messing around with some strange guy."
+    },
+    {
+        "message": "Maybe we could have gotten some important information."
+    },
+    {
+        "message": "With that attitude, it seems you tangled with a homeless person. Luckily, this key works, so let's get inside."
+    },
+    {
+        "message": "Did you try the key?"
+    },
+    {
+        "message": "Yeah. It would be a big deal if it were a trap from the key's owner."
+    },
+    {
+        "message": "That's true."
+    },
+    {
+        "message": "Ah, what a difference from a fool like the boss."
+    },
+    {
+        "message": "I'm sorry for being a fool."
+    },
+    {
+        "message": "Anyway."
+    },
+    {
+        "message": "Oh, look, we've arrived. This is the room in question."
+    },
+    {
+        "message": "I don't know..."
+    },
+    {
+        "message": "This room is surprisingly small."
+    },
+    {
+        "message": "But wow, the smell is really strong."
+    },
+    {
+        "message": "It feels like the smell will cling to my clothes."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Staying here too long might give me a headache. I thought this room would feel a bit larger."
+    },
+    {
+        "message": "There's a door, but unfortunately, it's locked."
+    },
+    {
+        "message": "I wonder if there's something in there?"
+    },
+    {
+        "message": "Still, staying here too long might give me a headache. Can't we do something about this smell?"
+    },
+    {
+        "message": "Is there something behind that locked door causing this strong scent?"
+    },
+    {
+        "message": "Sniff sniff."
+    },
+    {
+        "message": "Not perfume, but room cologne? But it’s super intense!"
+    },
+    {
+        "message": "Should we hurry and check the room? But is it really okay to do this?"
+    },
+    {
+        "message": "What are you talking about? If you’re acting all innocent while the key is right in front of you, it clearly means you have something to hide."
+    },
+    {
+        "message": "Right? The boss really doesn't get it at all. Well then, let's investigate!"
+    },
+    {
+        "message": "　　Investigate　　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　《"
+    },
+    {
+        "message": "Please left-click on the spot you want to investigate."
+    },
+    {
+        "message": "》"
+    },
+    {
+        "message": "　　《"
+    },
+    {
+        "message": "　Right-click to return to command selection."
+    },
+    {
+        "message": "　》"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "　　《"
+    },
+    {
+        "message": "Please left-click on the place you want to investigate."
+    },
+    {
+        "message": "》"
+    },
+    {
+        "message": "　　《"
+    },
+    {
+        "message": "　Right-click to return to command selection."
+    },
+    {
+        "message": "　》"
+    },
+    {
+        "message": "It's a beautifully patterned sofa. Wasn't this made by some famous brand?"
+    },
+    {
+        "message": "No, this isn't the time to be impressed."
+    },
+    {
+        "message": "At first glance, there are no stains or anything particularly concerning."
+    },
+    {
+        "message": "Since there's no dust, this sofa might have been used."
+    },
+    {
+        "message": "It doesn't look like there's anything wrong with the sofa itself."
+    },
+    {
+        "message": "This room doesn’t really give off the vibe of someone living here. The surface of the mirror is faintly covered in dust."
+    },
+    {
+        "message": "Normally, mirrors should be kept polished. Is the owner of this room someone who doesn't want to look in the mirror?"
+    },
+    {
+        "message": "The fact that it’s this dusty probably means it doesn’t lead to a hidden door."
+    },
+    {
+        "message": "The bookshelf is lined with the complete works of famous authors, but have these books ever actually been read?"
+    },
+    {
+        "message": "Boss, please don't interrupt. I'm currently looking for some clues."
+    },
+    {
+        "message": "A clue among the bookshelves?"
+    },
+    {
+        "message": "There could be a code wedged between the books, or a key hidden by hollowing out the book."
+    },
+    {
+        "message": "Here,"
+    },
+    {
+        "message": "she is carefully investigating. It's probably best to leave it to her."
+    },
+    {
+        "message": "There's a carpet laid on the wooden floor."
+    },
+    {
+        "message": "It seems there aren't any stains that I can see,"
+    },
+    {
+        "message": "but with such a dark color, you wouldn't find stains unless you look very closely."
+    },
+    {
+        "message": "Interestingly, this carpet looks clean as if it has been recently cleaned. There's not a single piece of garbage lying around."
+    },
+    {
+        "message": "This must have been bought recently, or it’s likely been taken for cleaning."
+    },
+    {
+        "message": "Cushions of the same size and cover are lined up on the sofa."
+    },
+    {
+        "message": "Given the feel of the fabric, they seem to be relatively new."
+    },
+    {
+        "message": "When I picked one up and smelled it, the scent of the room was absorbed into it."
+    },
+    {
+        "message": "Then, it seems like it’s not exactly new."
+    },
+    {
+        "message": "I can't find anything particularly unusual."
+    },
+    {
+        "message": "A thin layer of dust has settled on the lampshade. Other than a strange smell, there's no sense of human life."
+    },
+    {
+        "message": "On closer inspection, this lamp's bulb is also quite dirty. Has it not been used for a long time?"
+    },
+    {
+        "message": "This room is odd. It contains a mix of unused and brand new items."
+    },
+    {
+        "message": "On the fireplace, an empty photo frame, incense, and a small bottle are lined up."
+    },
+    {
+        "message": "Is the source of the scent drifting throughout the room this incense?"
+    },
+    {
+        "message": "I smelled it, but it's a faint scent."
+    },
+    {
+        "message": "It seems that this scent is mingling with another strong smell, creating a strange odor."
+    },
+    {
+        "message": "The incense on the fireplace is just a long stick inserted into a stand that burns it without lighting it."
+    },
+    {
+        "message": "Other than the incense, there's dust piled up, making me wonder if the resident of this room is averse to cleaning."
+    },
+    {
+        "message": "The fireplace itself seems to be unused."
+    },
+    {
+        "message": "I tried to peek into the gap between the sofa and the carpet, but it was impossible, so I reached my hand in to search."
+    },
+    {
+        "message": "For now, no dust or trash stuck to my hand."
+    },
+    {
+        "message": "It seems like there’s nothing else."
+    },
+    {
+        "message": "I conducted another search by touch."
+    },
+    {
+        "message": "While I was stroking the nice carpet, I felt something with my hand. What I pulled out was a bear-shaped brooch."
+    },
+    {
+        "message": "What is that?"
+    },
+    {
+        "message": "It seems to be a brooch, but..."
+    },
+    {
+        "message": "It’s not the key to a locked door."
+    },
+    {
+        "message": "For now, I stuffed the brooch into my pocket."
+    },
+    {
+        "message": "The carpet is suspiciously clean."
+    },
+    {
+        "message": "I had a feeling there might be something here."
+    },
+    {
+        "message": "But so far, there's nothing."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "It would be nice if there was a key for the door that won't open in this room."
+    },
+    {
+        "message": "This room is strange. Some things look like they haven't been used in ages, while others seem oddly new."
+    },
+    {
+        "message": "I’m starting to get a headache."
+    },
+    {
+        "message": "I usually think there’s something in places like this."
+    },
+    {
+        "message": "Isn't that just from reading too many detective stories?"
+    },
+    {
+        "message": "Not at all!"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Hmm, it’s strange that there’s nothing."
+    },
+    {
+        "message": "Oh! Found it! Boss, I found the key! This has to be the key to the door that won't open."
+    },
+    {
+        "message": "Look, it’s exactly the same design as this door."
+    },
+    {
+        "message": "Where on earth was this?"
+    },
+    {
+        "message": "There was a book on the shelf, hollowed out in the shape of a key, and it was neatly tucked inside."
+    },
+    {
+        "message": "I hope this really is the key to the door that won’t open."
+    },
+    {
+        "message": "What if it turns out to be a duplicate key to the door?"
+    },
+    {
+        "message": "Wouldn't that be too much of a hassle to hide it in a book?"
+    },
+    {
+        "message": "I’m a little curious, though."
+    },
+    {
+        "message": "Can I sprinkle some luminol?"
+    },
+    {
+        "message": "Did you bring it?"
+    },
+    {
+        "message": "Yeah, just to be safe."
+    },
+    {
+        "message": "Saying that,"
+    },
+    {
+        "message": "(he) drew the curtains and began to sprinkle luminol in the areas that caught his attention."
+    },
+    {
+        "message": "After a while,"
+    },
+    {
+        "message": "some reactions appeared in the room as if to prove that a murder had taken place here."
+    },
+    {
+        "message": "This is blood, right?"
+    },
+    {
+        "message": "Wow."
+    },
+    {
+        "message": "Did a murder happen here? But whether it’s related to the series of incidents is..."
+    },
+    {
+        "message": "Y-yeah, that's true."
+    },
+    {
+        "message": "I don't understand, right?"
+    },
+    {
+        "message": "For a while, I stared blankly at the room."
+    },
+    {
+        "message": "Should we try the key together?"
+    },
+    {
+        "message": "Y-yes! That’s right, isn’t it?"
+    },
+    {
+        "message": "We can't forget, can we?"
+    },
+    {
+        "message": "The key we found fit perfectly into the unyielding door's keyhole."
+    },
+    {
+        "message": "After all, it was the key for this place."
+    },
+    {
+        "message": "But I have a bad feeling."
+    },
+    {
+        "message": "I feel like I might regret going inside."
+    },
+    {
+        "message": "That's true. I hesitate to go in somehow."
+    },
+    {
+        "message": "O-please don't scare me like that!"
+    },
+    {
+        "message": "W-Well then, I'll open the door, okay?"
+    },
+    {
+        "message": "With a click, the key turned, and now, the unyielding door has opened."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

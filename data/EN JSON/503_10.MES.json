@@ -1,0 +1,410 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Meryl"
+    },
+    {
+        "message": "Hey there."
+    },
+    {
+        "message": "Front Desk"
+    },
+    {
+        "message": "Welcome. Miss Kline is out."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "You don't know when she'll be back, do you?"
+    },
+    {
+        "message": "Front Desk"
+    },
+    {
+        "message": "I'm sorry."
+    },
+    {
+        "message": "I'll come back later."
+    },
+    {
+        "message": "Front Desk"
+    },
+    {
+        "message": "She hasn't returned yet."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "I wonder where she went."
+    },
+    {
+        "message": "Front Desk"
+    },
+    {
+        "message": "Welcome, are you here for Miss Kline?"
+    },
+    {
+        "message": "Yeah, that's right."
+    },
+    {
+        "message": "Is she in her room?"
+    },
+    {
+        "message": "Front Desk"
+    },
+    {
+        "message": "No, she is currently unavailable."
+    },
+    {
+        "message": "Oh, she's not here? Do you know when she left?"
+    },
+    {
+        "message": "Front Desk"
+    },
+    {
+        "message": "Well..."
+    },
+    {
+        "message": "I’m not sure. I can’t be of much help."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "So she isn't here."
+    },
+    {
+        "message": "Front Desk"
+    },
+    {
+        "message": "She hasn't returned yet."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "I wonder where she went."
+    },
+    {
+        "message": "Oh, long time no see!"
+    },
+    {
+        "message": "It sounds like you've had a lot going on, I've heard from Martin."
+    },
+    {
+        "message": "Oh, welcome."
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "　　Guy　　"
+    },
+    {
+        "message": "　Cindy　"
+    },
+    {
+        "message": "Director Fabar"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "About　　"
+    },
+    {
+        "message": "　　Guy　　"
+    },
+    {
+        "message": "　Cindy　"
+    },
+    {
+        "message": "Director Fabar"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "From the window, you should be able to overlook one of the most glamorous streets in Manhattan, but the curtains block the view."
+    },
+    {
+        "message": "On the large leather sofa,"
+    },
+    {
+        "message": "someone is sprawled out. The smell of alcohol seems to be coming from"
+    },
+    {
+        "message": "their body."
+    },
+    {
+        "message": "On the table, there are remnants of room service food and a nearly empty bottle. I wonder when they started drinking."
+    },
+    {
+        "message": "They don't seem that drunk, but it looks like they can't stop relying on alcohol."
+    },
+    {
+        "message": "Compared to the worst times, things seem to have improved somewhat. Their complexion isn't bad, and their behavior is within the realm of normal."
+    },
+    {
+        "message": "They're dressed just like usual, with a thin gown over their bare skin."
+    },
+    {
+        "message": "Is this normal for them?"
+    },
+    {
+        "message": "Have you been away from New York for a while?"
+    },
+    {
+        "message": "Yeah, just a little getaway for some fresh air. I still can't believe about Ariana."
+    },
+    {
+        "message": "I was relieved to see that you look well."
+    },
+    {
+        "message": "What? Did you think I was going to commit suicide or something?"
+    },
+    {
+        "message": "No way, not at all."
+    },
+    {
+        "message": "I can't just keep feeling down forever."
+    },
+    {
+        "message": "By the way, you must have gone through a lot, right? I heard you were taken in by the police."
+    },
+    {
+        "message": "Actually, I was suspected of being the perpetrator in a serial murder case."
+    },
+    {
+        "message": "Oh really?"
+    },
+    {
+        "message": "You were the culprit?"
+    },
+    {
+        "message": "N-No, that's not true!"
+    },
+    {
+        "message": "Right?"
+    },
+    {
+        "message": "Innocent until proven guilty, after all."
+    },
+    {
+        "message": "Cheer up! Want to have a drink?"
+    },
+    {
+        "message": "That guy was the culprit. I bet he committed suicide to atone for his sins."
+    },
+    {
+        "message": "I believe he's not the perpetrator."
+    },
+    {
+        "message": "That's fine, you were friends after all."
+    },
+    {
+        "message": "I'm actually relieved that guy is dead. Is it bad to say that? But that's the honest truth."
+    },
+    {
+        "message": "If Gai wasn't the perpetrator, would you take back what you just said? As a friend, I don’t want to believe he could be the one."
+    },
+    {
+        "message": "Then bring in the real culprit! If you do, I'll stop saying bad things."
+    },
+    {
+        "message": "Prove Gai's innocence."
+    },
+    {
+        "message": "I had many discussions about that kid with Gloria. It's too late now, but I wonder why I acted like I wanted to let him go back then."
+    },
+    {
+        "message": "Hehe, it's too late to regret, though."
+    },
+    {
+        "message": "I should have told you sooner that Cindy is your daughter."
+    },
+    {
+        "message": "It's okay. I wonder how I would have reacted if I found out right away."
+    },
+    {
+        "message": "At least I didn't think well of Cindy."
+    },
+    {
+        "message": "But it's strange. Even though I talked to that kid several times, I never realized she was my daughter. I couldn't say I'm her mother."
+    },
+    {
+        "message": "It's understandable after being apart for 16 years."
+    },
+    {
+        "message": "Hmm, I feel like I should have sensed something if it were true. Yet I didn't feel anything."
+    },
+    {
+        "message": "I couldn't feel anything."
+    },
+    {
+        "message": "I wanted to be called her mother. That's my only regret, I wonder."
+    },
+    {
+        "message": "It seems like Martin has something bothering him. Is it about Patricia?"
+    },
+    {
+        "message": "Apparently, it seems so."
+    },
+    {
+        "message": "That father and daughter are too close, and they fight a lot. They probably interfere with each other way too much."
+    },
+    {
+        "message": "It's over between him and me."
+    },
+    {
+        "message": "After the party, I got really angry, and since then, we've been in touch, but we can’t go back."
+    },
+    {
+        "message": "Still, doesn't it mean it’s not decided yet?"
+    },
+    {
+        "message": "It's fine, there's no need for comfort."
+    },
+    {
+        "message": "It's really okay, I've come to genuinely feel that way, not just out of stubbornness."
+    },
+    {
+        "message": "It's really over between Martin and me."
+    },
+    {
+        "message": "In the end, is it decided that Ariana's death was the work of that culprit?"
+    },
+    {
+        "message": "It seems that's how the police see it, but apparently, there hadn't been a pattern of crimes committed in the same place before."
+    },
+    {
+        "message": "I really want them to catch the culprit soon."
+    },
+    {
+        "message": "I can't escape from New York until I see the culprit's face. I really don't want to be in a place like this."
+    },
+    {
+        "message": "Do you really hate the culprit that much?　"
+    },
+    {
+        "message": "Of course."
+    },
+    {
+        "message": "That's right. But I've been getting calmer lately. Rather than hatred, I feel like this is my duty."
+    },
+    {
+        "message": "Cindy."
+    },
+    {
+        "message": "Do you feel guilty about Ariana being killed?"
+    },
+    {
+        "message": "That's right."
+    },
+    {
+        "message": "I really want them to catch the culprit."
+    },
+    {
+        "message": "A little trip, huh?"
+    },
+    {
+        "message": "I wonder if it's like a heartbroken journey after losing my daughter."
+    },
+    {
+        "message": "Why would I know that I was taken to the police?"
+    },
+    {
+        "message": "It's reasonable to think I heard it from the director."
+    },
+    {
+        "message": "I'm calmer than I imagined. Have I sorted out my feelings?"
+    },
+    {
+        "message": "Guy died leaving a mystery behind."
+    },
+    {
+        "message": "It seems like she feels somewhat relieved due to believing that Guy is the culprit."
+    },
+    {
+        "message": "Could it really be that Guy killed Cindy? No way, I can’t believe such a thing."
+    },
+    {
+        "message": "I find it hard to believe it was a suicide."
+    },
+    {
+        "message": "Before Cindy died,"
+    },
+    {
+        "message": "the only regret I have is that I couldn’t tell her that she was my mother."
+    },
+    {
+        "message": "If Cindy were alive,"
+    },
+    {
+        "message": "would they have become a close mother-daughter pair, or would they have been at odds?"
+    },
+    {
+        "message": "It was a well-known fact about the director and"
+    },
+    {
+        "message": "the atmosphere suggests that Jennifer had taken her place when thinking about the party."
+    },
+    {
+        "message": "Is her relationship still strained with her daughter Patricia?"
+    },
+    {
+        "message": "It’s still unclear if Cindy and Eva's cases are one of the serial murder cases."
+    },
+    {
+        "message": "Simply considering the method, it seems likely they could be the work of the same perpetrator,"
+    },
+    {
+        "message": "but to be mistaken for the culprit myself is absurd."
+    },
+    {
+        "message": "Is the police just randomly suspecting related individuals without any real evidence?"
+    },
+    {
+        "message": "It’s still hard to say it’s completely resolved."
+    },
+    {
+        "message": "※※※ It’s a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]
