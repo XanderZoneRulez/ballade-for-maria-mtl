@@ -1,6 +1,6 @@
-# Ballade for Maria Translation Tool
+# Ballade for Maria Translation Workflow
 
-A tool for translating Ballade for Maria PC-98 game scripts from Japanese to English.
+A workflow for translating Ballade for Maria PC-98 game scripts from Japanese to English.
 
 ## Quick Start
 
@@ -29,7 +29,7 @@ data/
 ├── EN JSON/                  # English translations (JSON format)
 ├── EN RKT/                   # Injected English scripts (Racket format)
 └── EN MES/                   # Compiled English MES files (for game)
-Maria(EN).hdi          # Game HDI file (output)
+Maria(EN).hdi                 # Game HDI file (output)
 Workflow.bat                  # Interactive menu
 ```
 
