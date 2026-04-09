@@ -1,0 +1,329 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Tim"
+    },
+    {
+        "message": "Hey, Detective."
+    },
+    {
+        "message": "I’m glad, I thought I was"
+    },
+    {
+        "message": "going to die."
+    },
+    {
+        "message": "I’m still alive, somehow."
+    },
+    {
+        "message": "Hey, Detective. Are you back again?"
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　About Ariana.　"
+    },
+    {
+        "message": "　　About Meryl.　　"
+    },
+    {
+        "message": "　About Kristy.　"
+    },
+    {
+        "message": "　About　the　future.　"
+    },
+    {
+        "message": "About.　　"
+    },
+    {
+        "message": "　　About Meryl.　　"
+    },
+    {
+        "message": "　About Kristy.　"
+    },
+    {
+        "message": "　　To another place.　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game."
+    },
+    {
+        "message": "He seems to have already finished preparing to leave this room. There’s hardly anything here that tells of his having lived in this room."
+    },
+    {
+        "message": "It was just a short time,"
+    },
+    {
+        "message": "the room where he lived with Cindy. It will also become an unforgettable memory for me."
+    },
+    {
+        "message": "It must not have been easy for a young man like him to live in New York. There are probably memories he can’t let go of."
+    },
+    {
+        "message": "I wonder if he’s calmed down a bit; his expression maintains a tranquility that could also be interpreted as resignation."
+    },
+    {
+        "message": "From his emaciated body, the flesh has dropped even further, leaving almost just bones."
+    },
+    {
+        "message": "Even though a new life awaits him, I wonder if he’ll be okay looking so listless. I can’t help but worry."
+    },
+    {
+        "message": "Detective."
+    },
+    {
+        "message": "Humans are mysterious, aren't they?"
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "I thought I absolutely couldn't go on living if Ariana died."
+    },
+    {
+        "message": "But I'm still this full of life."
+    },
+    {
+        "message": "People can endure any sorrow. Besides, if Tim dies, Ariana will be sad."
+    },
+    {
+        "message": "No, that's not right. I'm sure."
+    },
+    {
+        "message": "You're late! I thought you would come sooner!"
+    },
+    {
+        "message": "He's getting angry."
+    },
+    {
+        "message": "By the way, you quit your part-time job, huh?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "I'm not in a state to work right now."
+    },
+    {
+        "message": "I have something I want to discuss with the detective."
+    },
+    {
+        "message": "I've been waiting."
+    },
+    {
+        "message": "I thought this town was exciting, and that dreams could be easily caught."
+    },
+    {
+        "message": "But reality wasn't that sweet."
+    },
+    {
+        "message": "Actually, a woman came to see Ariana once."
+    },
+    {
+        "message": "Do you know her?"
+    },
+    {
+        "message": "No, I've never seen her."
+    },
+    {
+        "message": "But it felt like Ariana knew her."
+    },
+    {
+        "message": "At first, I thought it might be Jennifer."
+    },
+    {
+        "message": "You know, those two get along well, right? But it was different."
+    },
+    {
+        "message": "Was it Meryl?"
+    },
+    {
+        "message": "Meryl?"
+    },
+    {
+        "message": "Actually, she was Ariana's mother. She came here the other day. It was pitiful."
+    },
+    {
+        "message": "I see, Meryl was here."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Besides Meryl, another woman named Kristy Dern came, and she visited before the mother drama."
+    },
+    {
+        "message": "Wait a minute. Did you just say Kristy Dern?"
+    },
+    {
+        "message": "Yeah! Do you know her, detective? She was talking to Ariana looking all troubled."
+    },
+    {
+        "message": "I don't know the content."
+    },
+    {
+        "message": "I'll remember her fondly. It's still tough now, but someday for sure."
+    },
+    {
+        "message": "I was surprised when Meryl came, but looking closely, she looks like Ariana."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "And you know, he said he wanted to take revenge on the guy who killed Ariana while looking really sad, so I stopped him."
+    },
+    {
+        "message": "If Ariana knew that Meryl was her mom, she'd probably be really happy. She was a fan of hers, you know."
+    },
+    {
+        "message": "Is that so? Did you tell Meryl about that?"
+    },
+    {
+        "message": "Yeah, of course. That made her smile really happily."
+    },
+    {
+        "message": "She's laughing while shedding tears, isn't that strange?"
+    },
+    {
+        "message": "Saying that,"
+    },
+    {
+        "message": "she was smiling with tears streaming down her face."
+    },
+    {
+        "message": "I wish they could have at least met as mother and daughter."
+    },
+    {
+        "message": "Do you remember what that woman, the one who called herself Kristy, was like?"
+    },
+    {
+        "message": "Hmm,"
+    },
+    {
+        "message": "her hair was about shoulder-length, and she had a lady-like vibe."
+    },
+    {
+        "message": "I wonder what those two were talking about?"
+    },
+    {
+        "message": "Something about Guy, right?"
+    },
+    {
+        "message": "I thought it was something like that. But Ariana looked really annoyed and angry."
+    },
+    {
+        "message": "Could that woman be the criminal?"
+    },
+    {
+        "message": "I'm leaving this town to help on my relative's farm."
+    },
+    {
+        "message": "I see, good luck."
+    },
+    {
+        "message": "Of course. That relative has always been kind to me, and we've been talking about this for a while."
+    },
+    {
+        "message": "I'm glad I could talk to the detective. I was leaving today. I'm happy I got to talk to you one last time."
+    },
+    {
+        "message": "I see, you're leaving already."
+    },
+    {
+        "message": "Take care and do your best."
+    },
+    {
+        "message": "Yeah, you take care too, detective."
+    },
+    {
+        "message": "Do you think I fit in on a farm?"
+    },
+    {
+        "message": "I'm a bit anxious about it."
+    },
+    {
+        "message": "More than anything, leaving New York is probably the hardest part. If I go to a new place, maybe I'll see more opportunities."
+    },
+    {
+        "message": "I wonder if I'll regret giving up my dreams so easily? But I can't say to stick around and try hard here."
+    },
+    {
+        "message": "I wonder what will happen from here on out. An enormous setback, a lover that I can never forget."
+    },
+    {
+        "message": "Reality is a cruel thing."
+    },
+    {
+        "message": "I did terrible things to Meryl."
+    },
+    {
+        "message": "I at least wanted to let Cindy see her, even just once, while she was still alive."
+    },
+    {
+        "message": "No matter how much I regret it, if I had just introduced the two of them a bit earlier, this tragedy might not have happened."
+    },
+    {
+        "message": "Meryl."
+    },
+    {
+        "message": "I had no idea she had been visiting her. Did she want to touch on her daughter's life even a little while she was alive?"
+    },
+    {
+        "message": "To Meryl, she was a daughter who shouldn't have existed in the first place, so it seems like she could have given up."
+    },
+    {
+        "message": "In theory, that's true."
+    },
+    {
+        "message": "Kristy seems to be falling deeper into madness than ever. Is it really okay to leave her like this?"
+    },
+    {
+        "message": "If her condition gets any worse, I'll have to find a way to get Günter involved. Maybe lock her up somewhere."
+    },
+    {
+        "message": "Kristy came to see Cindy? Why would she do such a thing? First of all, how did she find out about this place?"
+    },
+    {
+        "message": "No way, could it be that Kristy killed Cindy?"
+    },
+    {
+        "message": "That's ridiculous."
+    },
+    {
+        "message": "I can't believe such a thing."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

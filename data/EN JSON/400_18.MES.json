@@ -1,0 +1,395 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Boss, have you met Tony Ford?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Yay! So he really seemed like the culprit, huh?"
+    },
+    {
+        "message": "Boss!"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Welcome back, Boss."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "About him　　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "It’s so tidy that you wouldn’t think this was an office after a break-in. It might even be cleaner than before."
+    },
+    {
+        "message": "I hadn’t seen him since failing to meet Meryl and Cindy."
+    },
+    {
+        "message": "He’s back."
+    },
+    {
+        "message": "If Meryl's request ends badly, I might have to say goodbye to this office."
+    },
+    {
+        "message": "Even though I failed to meet Meryl and Cindy, he doesn’t seem guilty at all. I wish he would reflect a bit."
+    },
+    {
+        "message": "He’s facing the computer as if nothing happened."
+    },
+    {
+        "message": "He seems to have way thicker skin than I do."
+    },
+    {
+        "message": "I wonder if he’s hiding something from me?"
+    },
+    {
+        "message": "Boss, how was Tonny?"
+    },
+    {
+        "message": "Tonny is"
+    },
+    {
+        "message": "No, but before that, I have something I want to ask."
+    },
+    {
+        "message": "What is it?"
+    },
+    {
+        "message": "During the mother-daughter meeting, why didn't you go to the meeting place?"
+    },
+    {
+        "message": "Huh, huh!? I, I went there properly."
+    },
+    {
+        "message": "Then what about Meryl and Cindy?"
+    },
+    {
+        "message": "Well, neither of them showed up."
+    },
+    {
+        "message": "I waited for a long time; it was tough."
+    },
+    {
+        "message": "Where on earth were you waiting?"
+    },
+    {
+        "message": "Um, in front of MOMA."
+    },
+    {
+        "message": "Didn't you say Guggenheim Museum? Why did you go to MOMA!?"
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "What!? Was it Guggenheim Museum and not MOMA? Oh no, I thought it was the other way around."
+    },
+    {
+        "message": "I'm sorry; I spaced out."
+    },
+    {
+        "message": "Boss, are you really going to a gay club?"
+    },
+    {
+        "message": "There's no helping it; it might be a great opportunity to get leverage over Tonny."
+    },
+    {
+        "message": "But, but, if you go to such a place, Boss, you might get taken advantage of too!"
+    },
+    {
+        "message": "Taken advantage of?"
+    },
+    {
+        "message": "What do you mean?"
+    },
+    {
+        "message": "Such things."
+    },
+    {
+        "message": "I can't say it out loud!"
+    },
+    {
+        "message": "What are you even thinking?"
+    },
+    {
+        "message": "Please be careful."
+    },
+    {
+        "message": "I just think the Boss seems like the type to be popular with that kind of crowd."
+    },
+    {
+        "message": "Did anything happen with Meryl?"
+    },
+    {
+        "message": "No."
+    },
+    {
+        "message": "But if I had safely arrived at the meeting place, perhaps the situation might have changed."
+    },
+    {
+        "message": "No, it seems Cindy went missing the evening before."
+    },
+    {
+        "message": "Even if I was on time for the meeting,"
+    },
+    {
+        "message": "Yeah, that’s true."
+    },
+    {
+        "message": "It’s not like anything would change if I moved."
+    },
+    {
+        "message": "It's not there."
+    },
+    {
+        "message": "I feel bad for Meryl. She was waiting all alone for her daughter she has yet to meet."
+    },
+    {
+        "message": "Cindy still hasn't been found?"
+    },
+    {
+        "message": "Yeah, where on earth could she have gone?"
+    },
+    {
+        "message": "I mean, she might have been killed like Eva."
+    },
+    {
+        "message": "Don't say stuff like that."
+    },
+    {
+        "message": "I'm sorry, but..."
+    },
+    {
+        "message": "There's probably not that many places Cindy could go, right?"
+    },
+    {
+        "message": "That's true, but..."
+    },
+    {
+        "message": "Even so."
+    },
+    {
+        "message": "Boss, what if something happens to Cindy?"
+    },
+    {
+        "message": "What should we do?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "I just hope Cindy walks in through the door saying 'Yoohoo'."
+    },
+    {
+        "message": "Boss, what about Tonny?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Nah, the scalpel totally denied it."
+    },
+    {
+        "message": "Oh, no! So you ended up backing down after getting played, huh?!"
+    },
+    {
+        "message": "Don't yell so loud."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "Ugh, if it was going to be like this, I should have gone too!"
+    },
+    {
+        "message": "Listen, Boss. The other side is made up of actors, so we have to throw in some acting too."
+    },
+    {
+        "message": "Today, I got to go into the Kasbah club that Tony took me to before."
+    },
+    {
+        "message": "Oh?"
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Well, I met the guy who was breaking into the office there."
+    },
+    {
+        "message": "What? Did you properly beat him up, right Boss?"
+    },
+    {
+        "message": "No, we actually had a very gentlemanly transaction."
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "Stop beating around the bush and tell me plainly!"
+    },
+    {
+        "message": "Yeah, I got to hear about the gay club that Tony frequents."
+    },
+    {
+        "message": "A gay club? Oh!"
+    },
+    {
+        "message": "So that's it after all."
+    },
+    {
+        "message": "See, didn't I say Tony is that kind of guy? Hohohoho!"
+    },
+    {
+        "message": "Your personality has really changed."
+    },
+    {
+        "message": "But what about that Tony? Is he her boyfriend? Partner? I wonder if meeting him will yield any results."
+    },
+    {
+        "message": "You won't know unless you meet him."
+    },
+    {
+        "message": "Boss, do you like pretty boys? No matter how lovable they are, you shouldn't make a move, okay? Hehe."
+    },
+    {
+        "message": "Oho."
+    },
+    {
+        "message": "You don't have to look so down about it."
+    },
+    {
+        "message": "But I wonder what kind of kid he is."
+    },
+    {
+        "message": "Ah, if he’s a muscular old man, that would be scary."
+    },
+    {
+        "message": "Ozozo."
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "I need to check where she went on the day of their mother-daughter meeting."
+    },
+    {
+        "message": "What she’s saying is strange. She should have confirmed the Guggenheim Museum before going out that day."
+    },
+    {
+        "message": "Is she just that forgetful, or is she hiding something?"
+    },
+    {
+        "message": "It's a mystery."
+    },
+    {
+        "message": "I also have my faults regarding the mother-daughter meeting. I should have paid more attention until they met."
+    },
+    {
+        "message": "It’s understandable that Meryl is angry with me. If I had just kept an eye on things until the end."
+    },
+    {
+        "message": "Meryl must still be upset."
+    },
+    {
+        "message": "I ended up sleeping with her."
+    },
+    {
+        "message": "Even if it was to comfort her, was it really okay to do something like that?"
+    },
+    {
+        "message": "I don’t even have feelings for her."
+    },
+    {
+        "message": "But at that time, it might have been unavoidable."
+    },
+    {
+        "message": "Even if it was just a whim for Cindy, it’s a matter of life and death for me. I absolutely need to find Cindy."
+    },
+    {
+        "message": "There's no use in just thinking about it. I have to find Cindy and get the truth from her."
+    },
+    {
+        "message": "I'm still clueless about Cindy's whereabouts."
+    },
+    {
+        "message": "I did observe Tony's reaction to the scalpel, but since I don't have any decisive evidence, it’s only natural to dodge the issue."
+    },
+    {
+        "message": "That scalpel surely belongs to Tonny. But I can't prove it."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Hmm."
+    },
+    {
+        "message": "I have to somehow get Tonny to confess that the scalpel is his."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

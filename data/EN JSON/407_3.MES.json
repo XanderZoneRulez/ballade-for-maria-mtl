@@ -1,0 +1,662 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Hey, long time no see. How have you been?"
+    },
+    {
+        "message": "I'm amazed. That’s my line, isn’t it?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Look at me, I've been working out like crazy and I'm in great shape."
+    },
+    {
+        "message": "It feels stupid to have been running around like that."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Hey, the food here is also delicious."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Show　　"
+    },
+    {
+        "message": "End conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　　Guy　　　"
+    },
+    {
+        "message": "　　　Guy　　　"
+    },
+    {
+        "message": "About　　"
+    },
+    {
+        "message": "About the director"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "About"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　　Key　　　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "Even though it’s just a private party at the director's house, everyone is dressed up."
+    },
+    {
+        "message": "Film industry personnel are gathered. It seems like they can't truly enjoy themselves since the shoot has been canceled."
+    },
+    {
+        "message": "With a face that looks like nothing happened, they're drinking from a glass and chatting with a nearby guest."
+    },
+    {
+        "message": "Most people seem somehow uncomfortable."
+    },
+    {
+        "message": "He looks surprisingly healthy and has good skin, hard to believe he was under house arrest until just recently."
+    },
+    {
+        "message": "He looks a lot healthier than me. Does Guy have no stress?"
+    },
+    {
+        "message": "He probably has never experienced having a knife held to him. He seems unable to hide his agitation."
+    },
+    {
+        "message": "His body still feels stiff from fear."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "It was right after the party; he got into trouble with the baseball team and was put under house arrest."
+    },
+    {
+        "message": "I see, that was it. You wouldn't run off again after this, would you?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Come on, stop with the bad jokes."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I must have caused you a lot of trouble, huh? I’m sorry."
+    },
+    {
+        "message": "I don't really mind."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Thanks. I’m glad you're my friend."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I feel bad for what I did to you. I’ll make it up to you, I promise."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I’m at my wit's end. Why did she target me? You must know something!"
+    },
+    {
+        "message": "Guy is tight-lipped, so he won't tell."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Hey, I'm the victim here!? I think I'm in a position to ask for a reason."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "If you know something, just tell me."
+    },
+    {
+        "message": "Though you might also have circumstances that prevent you from saying anything."
+    },
+    {
+        "message": "So, how about we talk properly on another occasion?"
+    },
+    {
+        "message": "Would that work?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Hmm."
+    },
+    {
+        "message": "So you really want me to tell you now."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Why do I have to be resented by Meryl?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I never would have guessed that Meryl and Cindy were mother and daughter."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Still alone as usual, huh."
+    },
+    {
+        "message": "Aren't you the type who likes being alone?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I heard Ginny is still missing."
+    },
+    {
+        "message": "Oh, yeah."
+    },
+    {
+        "message": "That's right."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Maybe that's why you look a bit worn out."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Actually, I heard that he..."
+    },
+    {
+        "message": "I wouldn't be surprised if that's true."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "...was just watching me when I was attacked,"
+    },
+    {
+        "message": "and couldn't move because he was so shocked."
+    },
+    {
+        "message": "Was he frozen in shock?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Could be, maybe there’s something more to it."
+    },
+    {
+        "message": "Something more?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "He might think I'm involved in Ginny's case."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "The relationship between me and him is pretty delicate, you know."
+    },
+    {
+        "message": "I already didn't like him from the start."
+    },
+    {
+        "message": "I think we're pretty different types, but thinking there's something going on because of Ginny might be overthinking it."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "You can say that because you don't know him well."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "That guy thinks I'm involved in Ginny's incident."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "The director has really aged a bit since I last saw him."
+    },
+    {
+        "message": "He must have had a lot going on with the movie and Cindy."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Seems like a lot happened while I was away. You must have had it rough too, huh?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "The director had a rough time too."
+    },
+    {
+        "message": "But that's not something I should be saying."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "The one Meryl was actually going after was,"
+    },
+    {
+        "message": "the director, wasn’t it?"
+    },
+    {
+        "message": "So why's that?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I got mad at the director for his wishy-washy attitude. But he was so drunk that he accidentally attacked me."
+    },
+    {
+        "message": "Isn't that a bit off? Mistaking Guy for the director is a stretch."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Come on, when a person is drunk, you can't predict how they'll act."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Meryl's in serious trouble. She's gone crazy from the drink."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "is doing fine, huh? I thought he'd be a bit more gloomy."
+    },
+    {
+        "message": "Look, she was really struggling. It was really tough on her because of you."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Really? When I saw her face, it was like she completely forgot about all the mess up to that point and had a carefree expression."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I'm talking about you; you've probably caused her quite a bit of trouble."
+    },
+    {
+        "message": "I wouldn't say it was a bother, but she really was pitiful, you know? From now on, make sure to take care of her."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Alright, alright, I'll take it to heart."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Sorry, my bad."
+    },
+    {
+        "message": "I'll make it up to you."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I got saved by him earlier."
+    },
+    {
+        "message": "You must have really understood the depth of his love, right?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Yeah, well."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "But, hasn't he changed a bit since we last met?"
+    },
+    {
+        "message": "Hasn't he?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Yeah. I kinda feel that way."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "No way."
+    },
+    {
+        "message": "I can't believe he would do something so reckless."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "He seems less energetic than when I last saw him. It’s like he's being chased by something."
+    },
+    {
+        "message": "Being chased by something?　"
+    },
+    {
+        "message": "It might just be an illusion."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Really?"
+    },
+    {
+        "message": "I don’t really know him well, so it could just be my imagination."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "But he definitely feels different from when I met him before."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "If only you had been there to back me up."
+    },
+    {
+        "message": "Hey, asking an actress to do that is a bit harsh, don’t you think? Plus, it’d be bad if she got hurt."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Tch, we were lovers in the movie, but you’re cold."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "After all, it’s just a relationship in the role. Reality isn’t that sweet."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I don't remember doing anything to be attacked by her. I really can't think of any other reason for this mistake, can you?"
+    },
+    {
+        "message": "Mm."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "you know the reason, right? You could tell me."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Why do I have to be put through this when I'm such a well-behaved person?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "! I think it’s about time you tell me what's going on."
+    },
+    {
+        "message": "Well, the truth is, to make a long story short, Meryl's daughter was murdered, and the culprit was reported to be you, Guy, so she came to seek revenge."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Cut out your weird stories. Meryl is single, and she doesn't have a daughter."
+    },
+    {
+        "message": "No way, could Cindy be her daughter?"
+    },
+    {
+        "message": "That's exactly right. Just when she finally gets to call herself a mother, Cindy gets killed and she's in complete shock."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Is it really okay to tell someone something like this?"
+    },
+    {
+        "message": "I'd prefer if you kept it quiet until it goes public."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Mm, yeah."
+    },
+    {
+        "message": "Got it."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Still, I can't believe Meryl and Cindy were mother and daughter."
+    },
+    {
+        "message": "I find that hard to believe."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I think you already know, but I didn't do it."
+    },
+    {
+        "message": "I know that without being told. First off, you were under house arrest, right?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Why the hell would I be the criminal? The media are all idiots."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "In just a short time, two celebrities have died, and New York has become an even more dangerous city."
+    },
+    {
+        "message": "Yeah, lately there have been a lot of unpleasant incidents nearby."
+    },
+    {
+        "message": "I feel really worn out."
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "See, I should have just been an ordinary businessman. Being a detective is a shady business that gets you wrapped up in weird stuff."
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "You should just quit being a detective."
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "So, Meryl thought I was a murderer and attacked me?"
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "In the end, I was misunderstood by Meryl and almost got my revenge taken on me."
+    },
+    {
+        "message": "Yeah, that's how it turned out."
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "Oh man."
+    },
+    {
+        "message": "Am I a bad guy?"
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "You better clear up Meryl's misunderstanding quickly. I can't handle being targeted again."
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "What’s up with this key? When did you start carrying a key like this?"
+    },
+    {
+        "message": "It's not mine."
+    },
+    {
+        "message": "So it’s not yours either."
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "I don't like gaudy designs."
+    },
+    {
+        "message": "Guy."
+    },
+    {
+        "message": "I have no clue whose key this is."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Tony"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Long time no see, Detective."
+    },
+    {
+        "message": "Hello."
+    },
+    {
+        "message": "The view from here is fantastic, but don’t you think my place is prettier?"
+    },
+    {
+        "message": "Both look equally wonderful to me."
+    },
+    {
+        "message": "Oh, what a straight-A student answer."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Show　　"
+    },
+    {
+        "message": "End conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "About the director"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "About it"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　　Key　　　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "The sun is setting, and the scenery dyed in crimson is beautiful. Leaving the curtains open was a good call."
+    },
+    {
+        "message": "In the spacious room, small groups of people have formed. Compared to the party before the crank in, this place is terribly sparse."
+    },
+    {
+        "message": "He raises his glass to his lips with a face as if nothing happened, chatting with the customer next to him."
+    },
+    {
+        "message": "At least he's maintaining a calm demeanor on the surface. I wonder if this is a trait of city dwellers."
+    },
+    {
+        "message": "He looks a bit thinner and older compared to the first time we met at the director’s party."
+    },
+    {
+        "message": "He doesn’t change his expression at all when he sees me. His former timid attitude seems to have completely faded away."
+    },
+    {
+        "message": "Even seeing Meryl with a knife, he didn't change his expression. Not even a little."
+    },
+    {
+        "message": "Why is that?"
+    },
+    {
+        "message": "It's as if he had predicted everything Meryl would do; his calm attitude hasn't changed at all."
+    },
+    {
+        "message": "Don't you think it's pretty sparse compared to Boston?"
+    },
+    {
+        "message": "That's true. It's sad that some people haven't compared it to before."
+    },
+    {
+        "message": "Absolutely. Let me put this out there from the start, let's skip the awkward topics today."
+    },
+    {
+        "message": "So what about afterwards? Did you cut ties with Gordon?"
+    },
+    {
+        "message": "It's a party today, right? I don't want to hear any unnecessary talk."
+    },
+    {
+        "message": "You don't seem anxious like before. It looks like you've managed to get through it somehow."
+    },
+    {
+        "message": "Can't you hear? I'm saying I don't want to hear that kind of talk."
+    },
+    {
+        "message": "With this, it’s goodbye to the bad luck of filming. Do you think anyone was the jinx?"
+    },
+    {
+        "message": "I thought it was a good performance, but that was a serious act, huh."
+    },
+    {
+        "message": "Is that about Meryl's interruption?"
+    },
+    {
+        "message": "That's right. Nothing else really happened."
+    },
+    {
+        "message": "I thought he would do something cool."
+    },
+    {
+        "message": "He’s not that thoughtful of a guy."
+    },
+    {
+        "message": "You're not surprised at all, huh? So you’re used to this kind of thing."
+    },
+    {
+        "message": "Is that a sarcastic remark about me having endless arguments with women while being brandished with knives?"
+    },
+    {
+        "message": "Not really."
+    },
+    {
+        "message": "I don't mean anything by it."
+    },
+    {
+        "message": "Women are scary, huh? Who knows what they might do."
+    },
+    {
+        "message": "Today's..."
+    },
+    {
+        "message": "...feels a bit low energy. Maybe the movie getting shelved is hitting hard?"
+    },
+    {
+        "message": "You seem a bit tired, huh. Is it really because of the movie?"
+    },
+    {
+        "message": "If it’s not about the movie, it might be about... women's troubles."
+    },
+    {
+        "message": "Well, he seems to have a lot of energy for his age. It's not surprising if it’s about a woman."
+    },
+    {
+        "message": "By the way,"
+    },
+    {
+        "message": "what do you think happened between him and Meryl?"
+    },
+    {
+        "message": "Aren't they still dating?"
+    },
+    {
+        "message": "It's hard to tell from how things looked earlier."
+    },
+    {
+        "message": "The reason Meryl is upset might be due to her conflict with Fabar."
+    },
+    {
+        "message": "Absolutely."
+    },
+    {
+        "message": "That old man is something else."
+    },
+    {
+        "message": "Hmph, for someone who was supposedly under house arrest, he looks strangely healthy."
+    },
+    {
+        "message": "I don't think the Nets Corporation would confine their players in a way that makes them sluggish."
+    },
+    {
+        "message": "That's true, but there’s just something about him I don't like."
+    },
+    {
+        "message": "Was he really under house arrest? Or was it all an act to create an alibi?"
+    },
+    {
+        "message": "Goodness, it was like watching a play, wasn't it?"
+    },
+    {
+        "message": "Such a thing."
+    },
+    {
+        "message": "Aren't you shocked that Meryl has turned out this way?"
+    },
+    {
+        "message": "Feel shock? I'm sure nothing as shocking as my life exists in this world."
+    },
+    {
+        "message": "Gai isn't someone to underestimate either, what did he do to Meryl?"
+    },
+    {
+        "message": "Wow, she seems to have an abundance of energy today. She's practically a female version of Gai."
+    },
+    {
+        "message": "I'm sure Gai came back, repaired their relationship, and now she's happy."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "But that beaming smile is a far cry from an intellectual impression. Not my type."
+    },
+    {
+        "message": "Why are women like that?"
+    },
+    {
+        "message": "Making a big fuss over just one man."
+    },
+    {
+        "message": "It was amazing. She jumped right in between Gai and Meryl. I felt a maternal instinct from her protecting Gai."
+    },
+    {
+        "message": "She must have acted on impulse. For her, getting hurt probably didn't matter one bit."
+    },
+    {
+        "message": "Are you feeling jealous? As her ex."
+    },
+    {
+        "message": "You shouldn't push yourself too hard, you know. Enduring isn't good."
+    },
+    {
+        "message": "Seems like today's princess is in a foul mood. Even without that dog-and-cat Meryl around, she looks down in the dumps."
+    },
+    {
+        "message": "It does seem that way."
+    },
+    {
+        "message": "Is it okay for you to make that face? I thought you were supposed to be the princess's knight."
+    },
+    {
+        "message": "The next movie is"
+    },
+    {
+        "message": "probably set in stone."
+    },
+    {
+        "message": "I wonder, that gloomy face looks like she's more depressed watching Meryl's disgrace."
+    },
+    {
+        "message": "It's sinking along with her."
+    },
+    {
+        "message": "Do you know why those two are down?"
+    },
+    {
+        "message": "I have no idea. Maybe they have some common worries between them."
+    },
+    {
+        "message": "Do those two feel guilty about what happened to Meryl?"
+    },
+    {
+        "message": "I never thought she would turn out to be such an embarrassment. Life, you never know where the fall begins."
+    },
+    {
+        "message": "Poor her."
+    },
+    {
+        "message": "Isn't 'falling in life' a bit over the top?"
+    },
+    {
+        "message": "It's not. She walked down 5th Avenue looking like that. The press won't miss that, right?"
+    },
+    {
+        "message": "From now on, her former status will turn to dust, and she'll either end up as a laughingstock or be blacklisted."
+    },
+    {
+        "message": "No way."
+    },
+    {
+        "message": "There's no way that could happen."
+    },
+    {
+        "message": "Nothing's impossible in this world, you know."
+    },
+    {
+        "message": "It's really unfortunate. A talented actress has gone to waste."
+    },
+    {
+        "message": "Whether Guy is the serial killer or not, now they say Cindy's incident is also the work of a serial killer."
+    },
+    {
+        "message": "These days, the media links everything to serial murder."
+    },
+    {
+        "message": "That's just how things are in any era."
+    },
+    {
+        "message": "Just so you know, I have nothing to do with it."
+    },
+    {
+        "message": "Who is this Ariana that Meryl was talking about?"
+    },
+    {
+        "message": "Uh, I don’t know."
+    },
+    {
+        "message": "Who do you think it is?"
+    },
+    {
+        "message": "I don’t understand why he would attack Guy. What on earth happened?"
+    },
+    {
+        "message": "Ugh, New York is such a terrible city."
+    },
+    {
+        "message": "That's a rare key; its shape is artistic."
+    },
+    {
+        "message": "Isn't this yours?"
+    },
+    {
+        "message": "Unfortunately, I've never seen it before."
+    },
+    {
+        "message": "No matter how many times I see it, I don't know what it is."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

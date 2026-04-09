@@ -1,0 +1,593 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Gordon"
+    },
+    {
+        "message": "Miles"
+    },
+    {
+        "message": "It's unusual that it had always been closed every time I came."
+    },
+    {
+        "message": "Kasbah"
+    },
+    {
+        "message": "was open."
+    },
+    {
+        "message": "Even though I wasn’t a member, I decided to just go inside for now."
+    },
+    {
+        "message": "Oh, it’s you again."
+    },
+    {
+        "message": "Receptionist."
+    },
+    {
+        "message": "Welcome. Do you have a reservation today, or do you need something from the owner?"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Well, I guess I need something from the owner."
+    },
+    {
+        "message": "Receptionist."
+    },
+    {
+        "message": "Understood. Please wait a moment."
+    },
+    {
+        "message": "When the receptionist pressed the button at her desk, a tough-looking man came from the back."
+    },
+    {
+        "message": "Welcome."
+    },
+    {
+        "message": "I don't recognize your face. I am the owner of this establishment."
+    },
+    {
+        "message": "What may I ask is your name?"
+    },
+    {
+        "message": "Snipes."
+    },
+    {
+        "message": "Mr. Snipes, I'm afraid we cannot accept new members at this time. May I kindly ask you to leave?"
+    },
+    {
+        "message": "Receptionist."
+    },
+    {
+        "message": "Welcome."
+    },
+    {
+        "message": "Oh, it’s you."
+    },
+    {
+        "message": "Do you need something from the owner?"
+    },
+    {
+        "message": "Right, can I get someone to call him?"
+    },
+    {
+        "message": "Is it you again? This is a members-only place, and we prefer it if you don’t come here frequently."
+    },
+    {
+        "message": "A personal welcome from the owner? I'm flattered."
+    },
+    {
+        "message": "I believe I told you it would be a nuisance if you kept coming here, didn't I?"
+    },
+    {
+        "message": "Receptionist."
+    },
+    {
+        "message": "Welcome."
+    },
+    {
+        "message": "Oh, it’s you."
+    },
+    {
+        "message": "Do you need something from the owner?"
+    },
+    {
+        "message": "I see, could you call me?"
+    },
+    {
+        "message": "Receptionist"
+    },
+    {
+        "message": "I'm very sorry. The owner is currently out but"
+    },
+    {
+        "message": "Got it. I'll come back later then."
+    },
+    {
+        "message": "I asked the receptionist, but"
+    },
+    {
+        "message": "it seems he still hasn't returned. I'll decide to come back later."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Show　　"
+    },
+    {
+        "message": "　　Show　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "　　About Ginny　　"
+    },
+    {
+        "message": "　About the Gay Club　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　A photo of Ginny　"
+    },
+    {
+        "message": "　　　Cufflinks　　　"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "This is a place where New York's prominent figures are members. It has an elegant and refined appearance."
+    },
+    {
+        "message": "The receptionist, with her cleavage exposed, is looking at me. It must be extremely rare for someone like me to come to this place."
+    },
+    {
+        "message": "Unlike ordinary nightclubs, the inside is brightly lit. Are there really no people in this bar who wish to hide their faces from others?"
+    },
+    {
+        "message": "It's giving off a shady vibe. He’s probably a man who’s used to intimidating others and doing rough work, living in the underworld."
+    },
+    {
+        "message": "With a flashy red suit and sunglasses so dark you can't see through, he exudes a suspicious aura from head to toe."
+    },
+    {
+        "message": "With his tasteless fashion and the dubious aura he gives off, he’s a man who is utterly unsuitable for this high-class club."
+    },
+    {
+        "message": "At first glance, he seems like a good-natured club owner, but this guy is something else. He's a tough guy who's lived in the underworld."
+    },
+    {
+        "message": "Dressed in expensive clothes, with soft and clean hands that are far removed from hard labor. He gives off the vibe of a born rich."
+    },
+    {
+        "message": "With a face that seems kind-hearted, he’s always scheming behind the scenes to find people's weaknesses."
+    },
+    {
+        "message": "But you’ve really figured this place out, huh? You really live up to your reputation as a detective."
+    },
+    {
+        "message": "What do you mean by that?"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "No, it’s nothing. Just forget it, okay?"
+    },
+    {
+        "message": "I had no idea your office was in Chinatown. No way I could know that."
+    },
+    {
+        "message": "So, you’re the one who ransacked my office?"
+    },
+    {
+        "message": "That’s not a joke. Who would go to a dump like that? I’m innocent, you know!"
+    },
+    {
+        "message": "I don’t know anything!"
+    },
+    {
+        "message": "Office burglar."
+    },
+    {
+        "message": "That's me, that's right. I confess."
+    },
+    {
+        "message": "I knew it."
+    },
+    {
+        "message": "But why would you do something like that?"
+    },
+    {
+        "message": "I was asked by Mr. Ford to find a scalpel."
+    },
+    {
+        "message": "Find a scalpel, you say?"
+    },
+    {
+        "message": "Yeah, but there wasn’t one, so I got frustrated and rummaged through the room before I left."
+    },
+    {
+        "message": "That's terrible."
+    },
+    {
+        "message": "Things got pretty rough after that."
+    },
+    {
+        "message": "You really should replace the key to your office with a better one. That lock..."
+    },
+    {
+        "message": "...would let a thief in easily. Consider this my advice."
+    },
+    {
+        "message": "I’m just a naturally good person, so I can't do bad things."
+    },
+    {
+        "message": "No, actually, I didn’t come here today to become a member."
+    },
+    {
+        "message": "What do you mean by that?"
+    },
+    {
+        "message": "I actually wanted to ask about the stage director, Mr. Tony Ford."
+    },
+    {
+        "message": "Sure, he is a customer of this store,"
+    },
+    {
+        "message": "but what exactly do you want to know?"
+    },
+    {
+        "message": "I'm busy with errands myself, so I'd like to keep this brief."
+    },
+    {
+        "message": "Did I cause you any trouble?"
+    },
+    {
+        "message": "It’s regarding Tony Ford."
+    },
+    {
+        "message": "Just a bit."
+    },
+    {
+        "message": "I'd like you to tell me exactly what he did."
+    },
+    {
+        "message": "Actually, my office was ransacked."
+    },
+    {
+        "message": "However, it seems this was all orchestrated by Tony."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "Indeed, I didn’t instruct such a thing, and he has no personal grudge against you."
+    },
+    {
+        "message": "I apologize for the inconvenience. However, I would like to return to work soon."
+    },
+    {
+        "message": "Actually, I came to this store a few weeks ago, you know, with Tony."
+    },
+    {
+        "message": "Oh, now that you mention it, there was a sudden reservation that day. You brought a man with you, which was quite rare."
+    },
+    {
+        "message": "So, that partner from that day was you, huh?"
+    },
+    {
+        "message": "You just said you brought a man with you."
+    },
+    {
+        "message": "That means Tony is usually with women, right?"
+    },
+    {
+        "message": "That’s a foolish question. Don’t you think it’s preferable to come to a serene place like this with a woman?"
+    },
+    {
+        "message": "Wouldn’t it be better to ask him directly?"
+    },
+    {
+        "message": "I think it’s time for me to—"
+    },
+    {
+        "message": "A man's voice."
+    },
+    {
+        "message": "San."
+    },
+    {
+        "message": "Someone seems to be calling, excuse me for a moment."
+    },
+    {
+        "message": "Oh, the guy with the hat."
+    },
+    {
+        "message": "Isn’t he the guy who was waiting for me when I came out of Günter’s office before?"
+    },
+    {
+        "message": "Looks like he’s noticed me too,"
+    },
+    {
+        "message": "and as I greeted him, he approached."
+    },
+    {
+        "message": "The guy in the red suit."
+    },
+    {
+        "message": "Hey, we meet again."
+    },
+    {
+        "message": "—Snipes."
+    },
+    {
+        "message": "Who the hell are you?"
+    },
+    {
+        "message": "I’m—"
+    },
+    {
+        "message": "You know what? Cool name, right?"
+    },
+    {
+        "message": "Does what he did have anything to do with Tony?"
+    },
+    {
+        "message": "Tony is really a handful."
+    },
+    {
+        "message": "As an apology, I'll tell you about a shop he frequently visits."
+    },
+    {
+        "message": "Is that true?"
+    },
+    {
+        "message": "It's a shop where his boyfriend hangs out. If all goes well, you should be able to find out a lot about Tony. It's called SO WHAT?, a gay club."
+    },
+    {
+        "message": "Gay Club"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "There's a boy who looks like a girl named Anju there. That was supposed to be Tony's boyfriend."
+    },
+    {
+        "message": "Anju's actually into people like you, so if you go, he might approach you."
+    },
+    {
+        "message": "Do you happen to recall the name Ginny? She's a lady who accompanies Tony."
+    },
+    {
+        "message": "I can't remember every customer's companion's name, you know."
+    },
+    {
+        "message": "I apologize, but I can't answer questions about things I truly don't know."
+    },
+    {
+        "message": "You'll find out if you go. It's more of a place with a lot of men."
+    },
+    {
+        "message": "I'm not really interested in that."
+    },
+    {
+        "message": "Then you should be careful with the back."
+    },
+    {
+        "message": "W-wait."
+    },
+    {
+        "message": "Just kidding. Hahaha!"
+    },
+    {
+        "message": "I've seen Anju once, and he's really beautiful like a woman."
+    },
+    {
+        "message": "He works for me. If there's any trouble, please let me know right away."
+    },
+    {
+        "message": "I'm sorry, due to my inadequate supervision, I've caused you trouble."
+    },
+    {
+        "message": "No, it wasn't a big issue."
+    },
+    {
+        "message": "Honestly,"
+    },
+    {
+        "message": "that guy."
+    },
+    {
+        "message": "Seriously, that one is a real headache. We need to educate him properly about who the boss is."
+    },
+    {
+        "message": "Are you close with Tony?"
+    },
+    {
+        "message": "No, Mr. Ford is important to me. So I'll do whatever he asks."
+    },
+    {
+        "message": "Huff."
+    },
+    {
+        "message": "Yeah, that's the kind of relationship."
+    },
+    {
+        "message": "Yup, I’m a loyal servant."
+    },
+    {
+        "message": "Mr. Ford is quite something."
+    },
+    {
+        "message": "Why don't you cut it out,"
+    },
+    {
+        "message": "!"
+    },
+    {
+        "message": "Oh,"
+    },
+    {
+        "message": "San"
+    },
+    {
+        "message": "Excuse me, but,"
+    },
+    {
+        "message": "did something happen?"
+    },
+    {
+        "message": "What is your relationship with him?"
+    },
+    {
+        "message": "San is someone who picked me up, a very important person. By the way, just to be clear,"
+    },
+    {
+        "message": "it wasn't me who messed up your office, so remember that."
+    },
+    {
+        "message": "This guy is the real culprit behind the office mess."
+    },
+    {
+        "message": "A lowly detective like you shouldn't be poking your nose in this. It would be wise for you to back off before you get burned, right?"
+    },
+    {
+        "message": "Can I take that as a threat?"
+    },
+    {
+        "message": "Not at all! It’s just a piece of advice, as a friend."
+    },
+    {
+        "message": "A friend? Who became that at any point? At least, I don't remember extending a handshake!"
+    },
+    {
+        "message": "You really are a stubborn little brat. Engaging with someone like you brings no good whatsoever!"
+    },
+    {
+        "message": "Let’s wrap up this detective play and go home."
+    },
+    {
+        "message": "Wasn't this woman who came with Tony?"
+    },
+    {
+        "message": "What do you think? This woman might have been here too,"
+    },
+    {
+        "message": "but it’s not like I always come with the same woman."
+    },
+    {
+        "message": "Do you recognize"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "all beautiful women shine similarly. I can't distinguish them at all."
+    },
+    {
+        "message": "No matter how many times I see it, the answer remains the same."
+    },
+    {
+        "message": "Do you recognize this?"
+    },
+    {
+        "message": "Th-That's!"
+    },
+    {
+        "message": "Why do you have that!?!"
+    },
+    {
+        "message": "You see, I found this at my office."
+    },
+    {
+        "message": "W-Wow!"
+    },
+    {
+        "message": "Why would it be dropped in your office?"
+    },
+    {
+        "message": "Ah, I see! When we met the other day, it must have snagged on your clothes and ended up at my office! Yes, that's it!"
+    },
+    {
+        "message": "That can’t possibly be true."
+    },
+    {
+        "message": "No way, that's for sure! Anyway, thanks for delivering it!"
+    },
+    {
+        "message": "I missed it, you know. I was feeling lonely without it."
+    },
+    {
+        "message": "Please give it back, it's a custom item!"
+    },
+    {
+        "message": "If you tell me the truth, I'll give it back."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "No way!"
+    },
+    {
+        "message": "Please, I beg you, give it back."
+    },
+    {
+        "message": "I've been searching for it everywhere."
+    },
+    {
+        "message": "Well, it's not really my style, so I'll return this."
+    },
+    {
+        "message": "Oh, thank you so much!"
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

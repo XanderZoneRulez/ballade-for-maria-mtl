@@ -1,0 +1,458 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Tim"
+    },
+    {
+        "message": "Wow, the police!? Detective"
+    },
+    {
+        "message": "!?"
+    },
+    {
+        "message": "Hello, what a perfect timing."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "You're right about that too, Snipes. Since this boy is here, I guess you’ve heard the news about the talent, Cindy."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surrounding situation　　"
+    },
+    {
+        "message": "　Detective Maurice　"
+    },
+    {
+        "message": "　Detective Cosner　"
+    },
+    {
+        "message": "　Detective Maurice　"
+    },
+    {
+        "message": "　Detective Cosner　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　　About Eva　　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "In this already cramped room, there are five people, all clustered around my desk. It's so cramped it's unbearable."
+    },
+    {
+        "message": "With the appearance of the detectives,"
+    },
+    {
+        "message": "the boy seems to be getting even more timid. He's ready to flee at the slightest chance."
+    },
+    {
+        "message": "Hiding behind Detective Maurice,"
+    },
+    {
+        "message": "he's out of sight. Is he scared or excited to see real detectives?"
+    },
+    {
+        "message": "He's still that carefree old detective. Despite his constant smile, he's surely thinking of how to trap me."
+    },
+    {
+        "message": "He's positioned himself so he can observe both me and Detective Maurice at the same time. He's not just an old man after all."
+    },
+    {
+        "message": "Even though it's not the first time seeing him, I can’t help but feel an indescribable intimidation. I guess it's the wisdom that comes with age."
+    },
+    {
+        "message": "Standing behind, he's making sure he can catch me if I try to flee."
+    },
+    {
+        "message": "Using his towering height of nearly seven feet to intimidate us. Unfortunately,"
+    },
+    {
+        "message": "I’m no match for someone like that."
+    },
+    {
+        "message": "He's still the same condescending guy as ever. Quite different from Detective Maurice, who is humble for his age."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "I never thought I'd have to come back again."
+    },
+    {
+        "message": "Me neither."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "You really seem to be connected to this case, don't you?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Still, what's strange is you. Why are you acquainted with two women who were brutally murdered in this town?"
+    },
+    {
+        "message": "I'm surprised too."
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "Hey, didn't you do the killing yourself?"
+    },
+    {
+        "message": "That's not true."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "That's right, you shouldn't say such rude things."
+    },
+    {
+        "message": "Are you planning to visit Meryl too?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "I think I'll have to speak with those involved."
+    },
+    {
+        "message": "She still doesn't know that her daughter was Cindy."
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "What's up, haven't you told her?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Got it, I'll talk to her keeping that in mind."
+    },
+    {
+        "message": "Thank you."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Excuse me for bothering you this morning, Mr. Snipes."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "I didn’t think I'd be bothering you this many times."
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "I think you smell."
+    },
+    {
+        "message": "You're a rude person, aren't you?"
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "Hmph, I trust my instincts."
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "Make sure you listen carefully to the old man’s story."
+    },
+    {
+        "message": "Is it true that Cindy is dead?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Unfortunately. My son was a fan of hers."
+    },
+    {
+        "message": "It’s such a sad thing."
+    },
+    {
+        "message": "I heard that an ankle was sent to her house?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Ah, that’s right."
+    },
+    {
+        "message": "You heard it from me. Apparently, the right ankle was the first to arrive."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "We received word that the ankle arrived, and secretly sent out a search team for Cindy."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Sadly, she was found among the garbage. Such a tragic end for someone who was so popular."
+    },
+    {
+        "message": "Among the garbage?"
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "It was found at the Greenwich Village dump."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "I hear she also came here. If you know anything, I’d like to hear about it."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "You seemed to be close with Cindy, was something going on?"
+    },
+    {
+        "message": "Well, between the two of them—"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "She was—"
+    },
+    {
+        "message": "She was someone involved with my work."
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "More accurately, she used to be."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "You probably have your client’s interests in mind, but I’d like to know if possible."
+    },
+    {
+        "message": "A woman came to me asking to find her daughter she put up for adoption. That daughter is Cindy, also known as Ariana."
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "Hu—"
+    },
+    {
+        "message": "What, Cindy had such a past!?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "I'd like to hear from her mother."
+    },
+    {
+        "message": "Promise me you won't leak it to the press?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Alright. I promise."
+    },
+    {
+        "message": "She's actress Meryl Ann Kline."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Meryl Ann Kline"
+    },
+    {
+        "message": "She has such a past?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Actress Meryl is her mother, huh?"
+    },
+    {
+        "message": "What happened to the Eva Courtney case after that?"
+    },
+    {
+        "message": "Detective Cosner"
+    },
+    {
+        "message": "That's something you don't need to know, right? Or are you worried about the investigation because you did the killing?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "That's a rude way to put it."
+    },
+    {
+        "message": "As of now, there’s no suspect, Mr. Snipes."
+    },
+    {
+        "message": "I heard it’s the same perpetrator as the serial murder case."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Well,"
+    },
+    {
+        "message": "it's definitely plausible. But where did you hear that?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "I think it's a stretch to assume Eva Courtney was killed by the serial murder case perpetrator."
+    },
+    {
+        "message": "Why is that?"
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "She was dismembered completely. Sure, dismemberment is a commonality."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "But being completely dismembered is clearly irregular."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "Don't worry; the police are doing their utmost to catch the culprit."
+    },
+    {
+        "message": "Detective Maurice"
+    },
+    {
+        "message": "When we had Cindy’s body confirmed, she just stayed silent without saying anything. It must have really hit her hard."
+    },
+    {
+        "message": "She was very important to her."
+    },
+    {
+        "message": "Detective Cosner."
+    },
+    {
+        "message": "I thought she might be the culprit, but it seems that’s not the case."
+    },
+    {
+        "message": "There’s no way Gloria could be the culprit."
+    },
+    {
+        "message": "Detective Cosner."
+    },
+    {
+        "message": "You’re an idiot, you never know what a jealous woman might do."
+    },
+    {
+        "message": "Detective Maurice."
+    },
+    {
+        "message": "How did you come to know them?"
+    },
+    {
+        "message": "I may have mentioned it before, but I was invited to Director Fabar's home party."
+    },
+    {
+        "message": "Detective Cosner."
+    },
+    {
+        "message": "Why would you go to something like that?"
+    },
+    {
+        "message": "I was invited as Guy's friend."
+    },
+    {
+        "message": "Detective Cosner."
+    },
+    {
+        "message": "Guy, the NETS player?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Detective Cosner."
+    },
+    {
+        "message": "Old man."
+    },
+    {
+        "message": "Detective Maurice."
+    },
+    {
+        "message": "I might ask you more about it later."
+    },
+    {
+        "message": "※※※ It’s a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

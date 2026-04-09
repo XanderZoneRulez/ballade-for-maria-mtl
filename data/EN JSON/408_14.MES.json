@@ -1,0 +1,347 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Welcome."
+    },
+    {
+        "message": "Hello."
+    },
+    {
+        "message": "You seem a bit tired, don’t you? Is it because of the party?"
+    },
+    {
+        "message": "No, it's not just that party. It’s been a combination of the movie cancellation and several other things."
+    },
+    {
+        "message": "Hey, welcome."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "About the director"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "The director probably doesn't spend many days in this room a year. It's simple enough to be called more of a hotel."
+    },
+    {
+        "message": "No one except the director should be living in this room. It's tidier than you'd expect from a man's single living space. Is someone coming to clean up?"
+    },
+    {
+        "message": "It really feels like a temporary dwelling, and I have hardly any belongings other than what I need."
+    },
+    {
+        "message": "They're not placed here at all."
+    },
+    {
+        "message": "I’m just wearing a sweater over my usual shirt. I haven’t met any other directors, but I wonder if they’re all like this?"
+    },
+    {
+        "message": "Looking at his white hair and white beard, and the wrinkles etched on his forehead, he seems like someone who has led a life full of hardships."
+    },
+    {
+        "message": "Maybe it’s the fatigue lingering from the party, but his face looks worn out like an old man."
+    },
+    {
+        "message": "You've really gone through a lot."
+    },
+    {
+        "message": "That’s something I should be saying. I can understand how the director feels."
+    },
+    {
+        "message": "No, it’s fine now. I might have just been a bit tired, both physically and mentally."
+    },
+    {
+        "message": "How long are you staying in New York?"
+    },
+    {
+        "message": "Well, I’ll head back to Boston as soon as the cleanup is done. At my age, I might not fit in such a city anymore."
+    },
+    {
+        "message": "That’s true, New York is noisy."
+    },
+    {
+        "message": "Or rather, it’s not comfortable. It might be good for work, but if I were to live somewhere, I’d prefer Boston."
+    },
+    {
+        "message": "That might be true."
+    },
+    {
+        "message": "I’ll go back when the cleanup is done; I probably won’t come back here for a while."
+    },
+    {
+        "message": "She’s really a poor woman, you know. I have no idea where she went after that, and I can't get in touch."
+    },
+    {
+        "message": "Maybe she went home?"
+    },
+    {
+        "message": "No way. She’s been living in a hotel for about a year now."
+    },
+    {
+        "message": "Really!? Is that so?"
+    },
+    {
+        "message": "Yeah. So I think she might be traveling. But, I didn't want her to be alone right now."
+    },
+    {
+        "message": "It seems like she’s opened up to you. If possible, could you keep an eye on her?"
+    },
+    {
+        "message": "Sure, if I can help."
+    },
+    {
+        "message": "I’m sorry. I keep asking you for favors."
+    },
+    {
+        "message": "By the way, doesn't she have an agent?"
+    },
+    {
+        "message": "I guess it would have been better if she did, but, you know, with her personality? She doesn't stick with anyone for long."
+    },
+    {
+        "message": "So, you're alone then?"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Well, actually I'm doing something like that at my office. But I've been struggling since she's canceled all her jobs lately."
+    },
+    {
+        "message": "I wonder where she's going."
+    },
+    {
+        "message": "I haven't been in touch with Gloria. Honestly, I can't imagine her being in a state to work right now."
+    },
+    {
+        "message": "That's true."
+    },
+    {
+        "message": "You know, right after she decided to give up being an actress, she picked up and raised Cindy, right? I feel like she won't go back to her current job."
+    },
+    {
+        "message": "I think I could introduce him somewhere if he were more of a people person, but that... is a bit much."
+    },
+    {
+        "message": "Does that mean Gloria was able to manage the work just with Cindy's presence?"
+    },
+    {
+        "message": "Of course."
+    },
+    {
+        "message": "She didn’t hold a funeral for Cindy."
+    },
+    {
+        "message": "Tony used to be such a bright and good-looking guy, you know? Before he got acquainted with those weird ones."
+    },
+    {
+        "message": "Weird ones?"
+    },
+    {
+        "message": "You’ll understand soon enough. Or has Tony already told you?"
+    },
+    {
+        "message": "He’s that kind of type, so you might want to steer clear of him too, but deep down, he’s a bit timid."
+    },
+    {
+        "message": "I can't quite believe that."
+    },
+    {
+        "message": "Yeah, everyone says that, doesn't they? I wonder why."
+    },
+    {
+        "message": "I."
+    },
+    {
+        "message": "I don't really feel like blaming him."
+    },
+    {
+        "message": "I thought he was coming back, but the movie's been scrapped, and he's being called a murderer, too; it was a disaster, right?"
+    },
+    {
+        "message": "You must have been doing something bad lately."
+    },
+    {
+        "message": "Ah, that might be true, yeah."
+    },
+    {
+        "message": "You must have been surprised when Meryl came at him, but I wonder if he was okay?"
+    },
+    {
+        "message": "That guy probably wouldn't get hurt from a knife like that."
+    },
+    {
+        "message": "That's a pretty harsh way to put it."
+    },
+    {
+        "message": "He sure had a rough time. But that's the way it goes for both of us."
+    },
+    {
+        "message": "I think Jennifer is a great woman. She always knows the right words to say when I'm feeling down."
+    },
+    {
+        "message": "Could it be that you like her?"
+    },
+    {
+        "message": "Well, that's..."
+    },
+    {
+        "message": "No, it's fine. Don't answer that. I want to hold on to a dream a little longer. Right now, I just want something to cling to."
+    },
+    {
+        "message": "I feel like I wouldn't be able to stand without her encouragement."
+    },
+    {
+        "message": "That’s true. There was the whole movie thing and the bad luck of others too."
+    },
+    {
+        "message": "Maybe it's the work of someone who's holding a grudge against me."
+    },
+    {
+        "message": "That murder case."
+    },
+    {
+        "message": "It's hard to say she's a great woman for everyone; how about you?"
+    },
+    {
+        "message": "She seems to have aged suddenly."
+    },
+    {
+        "message": "But I can't say she looks age-appropriate now. She must have been too energetic to begin with."
+    },
+    {
+        "message": "It seems she's really taken a hit from the string of disasters these past few weeks. It might be good for her to take a break."
+    },
+    {
+        "message": "The director is an adult, after all."
+    },
+    {
+        "message": "There’s no need to worry."
+    },
+    {
+        "message": "The director should at least help Meryl a little. I doubt there’s anyone else who would try to save her."
+    },
+    {
+        "message": "With her like that, she probably can't work, and it seems she doesn't have anything else to distract herself with. At this rate, she'll just drown in alcohol."
+    },
+    {
+        "message": "I hope this doesn't mark the end of Meryl's acting career."
+    },
+    {
+        "message": "It wasn't just about work, my personal life was all about Cindy too. I lost everything at once."
+    },
+    {
+        "message": "It’ll likely take a long time for Gloria to recover. Maybe leaving New York is the right move."
+    },
+    {
+        "message": "I feel sympathy, but there's nothing I can do for her."
+    },
+    {
+        "message": "Even if this gruesome murder is unrelated, it's certain he'll cause trouble someday. He's that kind of guy."
+    },
+    {
+        "message": "If Tony were to expose the drug and snuff video issues, even Gordon wouldn’t get off easy."
+    },
+    {
+        "message": "Is there a risk for Tony just because I met Gordon? What if he gets killed to keep him quiet?"
+    },
+    {
+        "message": "Did Guy intend to break off his engagement with Kristy and date Ginny?"
+    },
+    {
+        "message": "It seems he ended up staying with the Nets, but can he really handle a team that locks up players just for saying they want to quit?"
+    },
+    {
+        "message": "If Kristy is the culprit, there’s a possibility Guy could be an accomplice too, don’t you think?"
+    },
+    {
+        "message": "I wonder if there's something going on between Jennifer and the director. From how they acted at the party, it seems serious."
+    },
+    {
+        "message": "If Jennifer and the director got involved like that, Meryl wouldn’t stay quiet either."
+    },
+    {
+        "message": "It feels like something’s about to happen."
+    },
+    {
+        "message": "Jennifer was not herself at the party. What caused that?"
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

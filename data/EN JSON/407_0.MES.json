@@ -1,0 +1,491 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Boss, that’s amazing!"
+    },
+    {
+        "message": "I can’t believe there’s a house here too; I’m super jealous!"
+    },
+    {
+        "message": "Then you should seduce the director. If you play your cards right, you can become the director's wife and live here."
+    },
+    {
+        "message": "Ugh, I guess that's the only choice, huh?"
+    },
+    {
+        "message": "Seriously, don’t actually do that."
+    },
+    {
+        "message": "Huh?　Why?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Just kidding."
+    },
+    {
+        "message": "Wow, I thought that was a valid opinion and was getting into it."
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Show　　"
+    },
+    {
+        "message": "End conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surrounding situation　　"
+    },
+    {
+        "message": "　　Tony　　"
+    },
+    {
+        "message": "The director"
+    },
+    {
+        "message": "　　Guy　　"
+    },
+    {
+        "message": "About　him　"
+    },
+    {
+        "message": "About it"
+    },
+    {
+        "message": "　　Meryl　　"
+    },
+    {
+        "message": "The serial murder case"
+    },
+    {
+        "message": "　　　　Key　　　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "It doesn’t seem very lively, but everyone seems to be enjoying the party in their own way."
+    },
+    {
+        "message": "Film industry personnel have gathered. It seems they can't fully enjoy it since the shooting has been canceled."
+    },
+    {
+        "message": "It seems they are each pretending to be absorbed in conversation, but their minds are"
+    },
+    {
+        "message": "not really engaged in the chatter."
+    },
+    {
+        "message": "They don't look like they're in the mood to enjoy the party anymore. Everyone seems uncomfortable."
+    },
+    {
+        "message": "She's wearing a bold dress that exposes her shoulders, which is quite unlike her usual style. I've seen"
+    },
+    {
+        "message": "very few like this."
+    },
+    {
+        "message": "The light brownish-black hair goes quite well with the white dress. She doesn’t pale in comparison to the other women around her."
+    },
+    {
+        "message": "It seems she didn't really pay attention to the scene when Meryl jumped in. Unlike the others, she looks almost unchanged."
+    },
+    {
+        "message": "She appears to be carefully scanning the surroundings."
+    },
+    {
+        "message": "However, it's quite questionable what exactly is in her line of sight."
+    },
+    {
+        "message": "Compared to the previous parties, this feels really lonely."
+    },
+    {
+        "message": "Really lonely, huh?"
+    },
+    {
+        "message": "Yeah, there are four people missing."
+    },
+    {
+        "message": "That's right. Meryl, Cindy, Gloria, and Patricia. I hear Patricia is off on some trip."
+    },
+    {
+        "message": "Is that so? Must be nice for students."
+    },
+    {
+        "message": "Right? I envy the student days."
+    },
+    {
+        "message": "But I'm kind of over the exams."
+    },
+    {
+        "message": "Boss, stop standing around and let’s go grab some food!"
+    },
+    {
+        "message": "Boss."
+    },
+    {
+        "message": "Meryl just came in, right?"
+    },
+    {
+        "message": "She seems really carefree."
+    },
+    {
+        "message": "Well, it’s not exactly carefree."
+    },
+    {
+        "message": "It's just that it felt so fleeting, I thought what happened a moment ago wasn't real."
+    },
+    {
+        "message": "Everyone is acting normally, so I started to wonder if it was just a dream."
+    },
+    {
+        "message": "It would have been nice if it were a dream."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "I wonder what's up with Meryl."
+    },
+    {
+        "message": "Hehe, today I'm going to keep a close eye on her, just so you know!"
+    },
+    {
+        "message": "Please make sure to be polite."
+    },
+    {
+        "message": "Don’t worry, after all, I’m a woman just one step away from being a great detective. Hehehe."
+    },
+    {
+        "message": "Tony definitely smells something!"
+    },
+    {
+        "message": "Speaking of Tony, he was drinking alone when Meryl barged in, you know. That's kind of suspicious, right?"
+    },
+    {
+        "message": "Why are you jumping to conclusions like that?"
+    },
+    {
+        "message": "Because he was the only one looking all relaxed."
+    },
+    {
+        "message": "That's because Gai knows who the real culprit is."
+    },
+    {
+        "message": "Yeah, yeah."
+    },
+    {
+        "message": "As expected of the gray brain cells."
+    },
+    {
+        "message": "Kyaa, do you really think so?"
+    },
+    {
+        "message": "Tony definitely seems suspicious. He’s the only one with a cool demeanor."
+    },
+    {
+        "message": "Directors really do make good money, huh? This place isn't cheap."
+    },
+    {
+        "message": "It's better to hear that straight from the director."
+    },
+    {
+        "message": "Ah, that's true."
+    },
+    {
+        "message": "But the director seems a bit low on energy, doesn't he? I guess the film being shelved hit him hard?"
+    },
+    {
+        "message": "Maybe I'll go for the director after all."
+    },
+    {
+        "message": "Even though I thought about using seductive tactics on the director, it’s totally not working."
+    },
+    {
+        "message": "It's really annoying that it's getting in the way. Please do something about it."
+    },
+    {
+        "message": "That's not something you should say to me."
+    },
+    {
+        "message": "There's no one else here, right?"
+    },
+    {
+        "message": "With the director,"
+    },
+    {
+        "message": "there's"
+    },
+    {
+        "message": "a gloomy atmosphere, isn't there?"
+    },
+    {
+        "message": "Even though he's a grandpa,"
+    },
+    {
+        "message": "he really knows how to"
+    },
+    {
+        "message": "play around."
+    },
+    {
+        "message": "Guy seems so energetic it's hard to believe he's a captive. I seriously doubt he was really confined."
+    },
+    {
+        "message": "There was a press conference, wasn't there?"
+    },
+    {
+        "message": "I don't know. Actually, they might have claimed he was under house arrest because he’s still under contract with Nets next season."
+    },
+    {
+        "message": "If Guy wasn't under house arrest,"
+    },
+    {
+        "message": "what was he really doing and where?"
+    },
+    {
+        "message": "It was tough for Guy too. I bet he was shocked, what do you think?"
+    },
+    {
+        "message": "Well,"
+    },
+    {
+        "message": "he looks fine, but he must be bewildered."
+    },
+    {
+        "message": "Hey. Why me?"
+    },
+    {
+        "message": "You know."
+    },
+    {
+        "message": "Guy is probably having a rough year, you know."
+    },
+    {
+        "message": "It’s bad luck for Guy, isn’t it? I wonder why he’s so hated."
+    },
+    {
+        "message": "You’ve got new clothes that are all shiny, making it hard to get close. Especially with Guy around."
+    },
+    {
+        "message": "Well, it’s fine to go up to him anyway, right?"
+    },
+    {
+        "message": "Chirp chirp, how uncouth."
+    },
+    {
+        "message": "Boss, with that attitude, you won’t get any attention."
+    },
+    {
+        "message": "I wish."
+    },
+    {
+        "message": "You look so happy."
+    },
+    {
+        "message": "Of course."
+    },
+    {
+        "message": "You really stood up for Guy, didn’t you?"
+    },
+    {
+        "message": "Your feelings come out in a split second, after all."
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Hmm, but doesn’t she think she’s in danger in a situation like that?"
+    },
+    {
+        "message": "Probably not, I mean, there’s no time to think."
+    },
+    {
+        "message": "Well, that’s true. It’s natural to protect someone right away."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "You really must like Guy a lot."
+    },
+    {
+        "message": "Of course! Instead of talking to me,"
+    },
+    {
+        "message": "you should just go to him."
+    },
+    {
+        "message": "But being all up close to the director is not a good look."
+    },
+    {
+        "message": "You don’t have to worry about that."
+    },
+    {
+        "message": "Oh, really? Sorry about that."
+    },
+    {
+        "message": "You’re actually curious, right? Boss."
+    },
+    {
+        "message": "Today’s..."
+    },
+    {
+        "message": "Something feels off. Your expression is dark, and you’re too close to the director."
+    },
+    {
+        "message": "It seems like you’re really troubled."
+    },
+    {
+        "message": "Troubled, huh?"
+    },
+    {
+        "message": "You don’t have to worry so much about her, do you?"
+    },
+    {
+        "message": "But don’t you feel bad for the boss? It’s too much the way things are right now."
+    },
+    {
+        "message": "For just this kind of stuff,"
+    },
+    {
+        "message": "Don't give up, okay?"
+    },
+    {
+        "message": "Meryl, it was super scary!"
+    },
+    {
+        "message": "What on earth happened?"
+    },
+    {
+        "message": "I thought it was unlikely, but they really came to stab Gai."
+    },
+    {
+        "message": "Please don't say such laid-back things. It could have ended in panic."
+    },
+    {
+        "message": "It's because the media irresponsibly reported that Gai is the culprit that it turned into this mess."
+    },
+    {
+        "message": "That's true. But surprisingly, everyone seems calm."
+    },
+    {
+        "message": "Aren't people kind of used to this sort of thing? It feels almost like a play."
+    },
+    {
+        "message": "I wonder if everyone thinks it's just some little show."
+    },
+    {
+        "message": "I think the culprit might be among us at this party."
+    },
+    {
+        "message": "What's your basis for that?"
+    },
+    {
+        "message": "Well, Eva, Cindy, and Ginny's missing persons cases. All three are connected to someone here."
+    },
+    {
+        "message": "That's true. But just because of that, it doesn't mean there’s a culprit among us."
+    },
+    {
+        "message": "Really?"
+    },
+    {
+        "message": "I think definitely one of us is."
+    },
+    {
+        "message": "Am I being annoying?"
+    },
+    {
+        "message": "I really thought so. The culprit is in this group."
+    },
+    {
+        "message": "You shouldn't say things like that. If someone else hears this conversation..."
+    },
+    {
+        "message": "What basis do you have for such a claim?"
+    },
+    {
+        "message": "My brilliant sixth sense is tingling."
+    },
+    {
+        "message": "Boss, you're being pretty dense."
+    },
+    {
+        "message": "I might have the talent, actually."
+    },
+    {
+        "message": "In your case, your hit rate is low. You decide someone is the culprit just by looking at their face."
+    },
+    {
+        "message": "Ah, that's harsh!"
+    },
+    {
+        "message": "No way, that's not true!"
+    },
+    {
+        "message": "Is that so? It seems that way to me."
+    },
+    {
+        "message": "Let’s observe a bit longer. There's definitely something here."
+    },
+    {
+        "message": "This,"
+    },
+    {
+        "message": "is it?"
+    },
+    {
+        "message": "Oh, what a lovely key!"
+    },
+    {
+        "message": "Unfortunately, it's not mine. What's this about?"
+    },
+    {
+        "message": "After the chaos with Meryl, it had fallen right at my feet."
+    },
+    {
+        "message": "The owner must be in a bit of a bind, huh? At this size, it looks like the key for the front door."
+    },
+    {
+        "message": "Should we ask everyone?"
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

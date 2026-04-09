@@ -1,0 +1,386 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Ash"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "Are you okay coming to a place like this?"
+    },
+    {
+        "message": "I’m fine, though."
+    },
+    {
+        "message": "Why's that?"
+    },
+    {
+        "message": "Well, they're all saying that Gai is the culprit, right? So I thought you might be busy with various things."
+    },
+    {
+        "message": "No, not at all. If Eva were alive, she might have come to my place and poked around."
+    },
+    {
+        "message": "I hope that’s the case."
+    },
+    {
+        "message": "Welcome. You've been coming here quite often lately."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "About the Serial Murder Case"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "About the Serial Murder Case"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "The sounds of angry drunks aren't heard, and a quiet time flows. The music feels a bit loud, but it’s good that I can’t hear the voices of the neighboring customers."
+    },
+    {
+        "message": "It’s a safe, slightly boring place with no drugs, no prostitutes, and no flashy shows."
+    },
+    {
+        "message": "Considering it's a front for shady work, the stock of bottles at the back bar is quite abundant."
+    },
+    {
+        "message": "As usual, he stands in front of me across the counter, listening to my words that could easily be drowned out by the music."
+    },
+    {
+        "message": "He's a peculiar man who runs a bar at such a young age, and is also connected to the underworld. He might be much more cut out for detective work than I am."
+    },
+    {
+        "message": "You look downcast. Is it reflecting my mental state? I usually come to this place when something unpleasant happens."
+    },
+    {
+        "message": "Still, things are getting rough out there."
+    },
+    {
+        "message": "It’s making me feel gloomy. Two people I recently met were murdered."
+    },
+    {
+        "message": "That's right, people I've just met have been dying one after another."
+    },
+    {
+        "message": "I'm going to be a bit busy from now on, too. I might not be able to show my face for a while."
+    },
+    {
+        "message": "Are you closing the shop?"
+    },
+    {
+        "message": "No, nothing like that."
+    },
+    {
+        "message": "Well, I’m busy with various things. Let’s just say I’m in a broke and busy state."
+    },
+    {
+        "message": "I should be careful not to make this my last visit."
+    },
+    {
+        "message": "That sounds like you might die or something."
+    },
+    {
+        "message": "I’m fine, but,"
+    },
+    {
+        "message": "just don't go dying somewhere else."
+    },
+    {
+        "message": "Well, how polite of you, I'm flattered. Heh heh."
+    },
+    {
+        "message": "Since you came all the way here, forget about the unpleasant stuff."
+    },
+    {
+        "message": "But it's probably useless to say that."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "It’s already stuck in my head and won’t go away."
+    },
+    {
+        "message": "Are you okay? Please take care."
+    },
+    {
+        "message": "Even if you tell me not to worry, it's hard, but it's important not to overthink it."
+    },
+    {
+        "message": "The news about Cindy was shocking, wasn’t it? Is it really okay to talk about things like that?"
+    },
+    {
+        "message": "After all, the media is just like that."
+    },
+    {
+        "message": "That content sure seemed like it was provoking the culprit."
+    },
+    {
+        "message": "They were relatively praising Cindy though."
+    },
+    {
+        "message": "But there was also content that seemed to strike the dead."
+    },
+    {
+        "message": "That's right, it was as if she had something to do with Guy when she really didn't."
+    },
+    {
+        "message": "It's harsh to treat someone like this just after they died, especially after being adored until now."
+    },
+    {
+        "message": "The world is really cold, isn't it?"
+    },
+    {
+        "message": "In the news, it was irresponsibly reported that Guy killed Cindy and potentially all the other women too."
+    },
+    {
+        "message": "How they could link Guy to the serial murder case is beyond me; the media must be having a headache."
+    },
+    {
+        "message": "Really."
+    },
+    {
+        "message": "But it’s not unreasonable to think of Guy as the perpetrator of the series."
+    },
+    {
+        "message": "When you think about it, at least two women were said to have some connection with Guy, and he’s missing."
+    },
+    {
+        "message": "Sure, when you say that, it does sound suspicious."
+    },
+    {
+        "message": "But there's no way Guy would do something like that."
+    },
+    {
+        "message": "I think so too."
+    },
+    {
+        "message": "I don't believe he did it."
+    },
+    {
+        "message": "But I can see how he might look like the criminal."
+    },
+    {
+        "message": "He hasn't come to this shop since that incident."
+    },
+    {
+        "message": "Speaking of which, there was a time when she was rumored to be the culprit too."
+    },
+    {
+        "message": "Everyone is so careless. They quickly label people as criminals."
+    },
+    {
+        "message": "It's really terrible; they completely disregard the feelings of those involved."
+    },
+    {
+        "message": "99% of what others say is just gossip."
+    },
+    {
+        "message": "So it's just nonsense."
+    },
+    {
+        "message": "Is it a talent to sift through that and pick out the real information?"
+    },
+    {
+        "message": "Well, yeah. There are tons of people making a living off of that."
+    },
+    {
+        "message": "I don't have that talent. The best approach is to distrust everything anyone says equally."
+    },
+    {
+        "message": "It's pretty safe, isn't it? The only truth is what you've seen with your own eyes."
+    },
+    {
+        "message": "It's better not to get swayed by other people's rumors."
+    },
+    {
+        "message": "Gloria says that the BAM article leaked from the Nets' side."
+    },
+    {
+        "message": "Is that so!?"
+    },
+    {
+        "message": "I was momentarily in disbelief, but it seems Cindy's side received compensation."
+    },
+    {
+        "message": "What on earth could they have done that for?"
+    },
+    {
+        "message": "It doesn't make sense; framing Guy does nothing for the Nets."
+    },
+    {
+        "message": "That guy Guy, he should come out already, considering how things are."
+    },
+    {
+        "message": "Could he possibly be held captive?"
+    },
+    {
+        "message": "Who would do such a thing?"
+    },
+    {
+        "message": "At the Nets Office."
+    },
+    {
+        "message": "Isn't that something that just can't happen?"
+    },
+    {
+        "message": "At this rate, they'll pin the blame on the wrong person."
+    },
+    {
+        "message": "Meryl is in a tough spot, believing Guy is the culprit."
+    },
+    {
+        "message": "I can kinda imagine how that goes. They probably pressured her to reveal Guy's location."
+    },
+    {
+        "message": "It's a tough situation since I understand how she feels."
+    },
+    {
+        "message": "If Guy shows up now, she might pull a knife on him."
+    },
+    {
+        "message": "At this rate, Meryl might end up being the criminal."
+    },
+    {
+        "message": "I have to do something about this."
+    },
+    {
+        "message": "I hope no more unfortunate people get added to this."
+    },
+    {
+        "message": "I hope so too. At least for the people around me."
+    },
+    {
+        "message": "We shouldn't take our eyes off Meryl."
+    },
+    {
+        "message": "Cindy has gone through something tragic."
+    },
+    {
+        "message": "Who would say they have a reason to kill her?"
+    },
+    {
+        "message": "It doesn't seem like anyone harbors a grudge against her, maybe a fanatic fan? No, not every criminal has a motive."
+    },
+    {
+        "message": "Cindy's case was breaking news on every network. You could say it provided a perfect story for the media."
+    },
+    {
+        "message": "There was some sort of reason for killing Eva, but I don't understand why I had to kill Cindy."
+    },
+    {
+        "message": "Ginny, Eva, Cindy"
+    },
+    {
+        "message": "Could it all be the work of the same person?"
+    },
+    {
+        "message": "Despite all these crimes happening, the police seem completely unable to catch the culprit. The criminal seems to be quite clever."
+    },
+    {
+        "message": "There are various rumors flying around, but no way it’s Jennifer as the culprit."
+    },
+    {
+        "message": "That can’t be true, right?"
+    },
+    {
+        "message": "She looks tough on the outside, but to me, she's a kind, ordinary woman."
+    },
+    {
+        "message": "I can meet her whenever I want, but if the media catches wind of it, it could tarnish Jennifer's reputation."
+    },
+    {
+        "message": "Even if it was Nez that spread the gossip about Guy, why would they have to do such a thing?"
+    },
+    {
+        "message": "In any case, until I talk to Guy, I won't know what to believe."
+    },
+    {
+        "message": "Guy is being treated as the suspect."
+    },
+    {
+        "message": "It's understandable, considering he's been missing for a long time."
+    },
+    {
+        "message": "But surely he isn't dead somewhere."
+    },
+    {
+        "message": "If I'd been told sooner that Cindy was my biological daughter, this unfortunate outcome might not have happened."
+    },
+    {
+        "message": "I just hope I don’t end up stabbing Guy out of frustration."
+    },
+    {
+        "message": "With Meryl as she is now, she might actually do something like that."
+    },
+    {
+        "message": "It’s probably best to keep an eye on Meryl for a while."
+    },
+    {
+        "message": "Next time you come, please bring good news."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

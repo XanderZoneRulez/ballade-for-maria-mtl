@@ -1,0 +1,623 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "seems to be out. I wonder if she already went on location?"
+    },
+    {
+        "message": "?　Oh"
+    },
+    {
+        "message": "hi"
+    },
+    {
+        "message": "there!"
+    },
+    {
+        "message": "Seems she's not home. How was the shoot today?"
+    },
+    {
+        "message": "I wonder? Well, if she's not here, it can't be helped."
+    },
+    {
+        "message": "Looks like she's still not back. In that case, I shouldn't overstay my welcome; I wouldn't want to be mistaken for a burglar or something."
+    },
+    {
+        "message": "Shopping for a bit has taken quite a while."
+    },
+    {
+        "message": "No way she up and left the room without telling me, right?"
+    },
+    {
+        "message": "Ah,"
+    },
+    {
+        "message": "I'm glad you came to visit."
+    },
+    {
+        "message": "I didn’t have anything particular to discuss, though."
+    },
+    {
+        "message": "Am I bothering you right now?"
+    },
+    {
+        "message": "No, I'm fine."
+    },
+    {
+        "message": "Well,"
+    },
+    {
+        "message": "I wanted to see you."
+    },
+    {
+        "message": "Welcome back; it's nice to see you again."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　Work stuff　　"
+    },
+    {
+        "message": "　　Eva　　"
+    },
+    {
+        "message": "　　Meryl　　"
+    },
+    {
+        "message": "　　Ginny　　"
+    },
+    {
+        "message": "　　Tony　　"
+    },
+    {
+        "message": "Director Fabar"
+    },
+    {
+        "message": "about"
+    },
+    {
+        "message": "　　about Eva　　"
+    },
+    {
+        "message": "　　about Meryl　　"
+    },
+    {
+        "message": "　　about Ginny　　"
+    },
+    {
+        "message": "　　about Tony　　"
+    },
+    {
+        "message": "about Director Fabar"
+    },
+    {
+        "message": "　　to another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "It's a room equipped with the bare minimum for a long stay. For a hotel known for its high rates, the interior is surprisingly simple."
+    },
+    {
+        "message": "Since the lodging fee is likely covered by the movie company anyway, they could have gotten a nicer room."
+    },
+    {
+        "message": "It seems like there’s hardly any luggage brought in at all. At this rate, a burglar would have more problems."
+    },
+    {
+        "message": "Outside the window is the heart of Manhattan, literally a million-dollar view overlooking Fifth Avenue."
+    },
+    {
+        "message": "She has quite a voluptuous body. A lot of her roles involve bed scenes, probably because of that body."
+    },
+    {
+        "message": "Even I think it'd be worth going to the theater just to see her body."
+    },
+    {
+        "message": "Thanks to the incident, she's probably faced all sorts of slander and is mentally exhausted."
+    },
+    {
+        "message": "Isn't the reason she's prone to misunderstandings because of her seemingly cold appearance?"
+    },
+    {
+        "message": "Thank you for the other day."
+    },
+    {
+        "message": "Ah, no..."
+    },
+    {
+        "message": "It's odd to say 'the pleasure was mine'."
+    },
+    {
+        "message": "Well, what do you think?"
+    },
+    {
+        "message": "Hehe."
+    },
+    {
+        "message": "You know, I feel really lucky to have met you. It's like I've started to see various things more clearly."
+    },
+    {
+        "message": "I've started to see various things clearly."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Yes, how should I put it..."
+    },
+    {
+        "message": "Yeah, it's fine. I understood."
+    },
+    {
+        "message": "You must be a deep person, I can’t help but want to know more about you right now."
+    },
+    {
+        "message": "I thought it was good that I gathered my courage back then."
+    },
+    {
+        "message": "Back then?"
+    },
+    {
+        "message": "That day?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "If I hadn't done that back then, you probably wouldn't be visiting me like this now, would you?"
+    },
+    {
+        "message": "Is that so? I don't think that's the case."
+    },
+    {
+        "message": "No, I'm sure it is. I think it was."
+    },
+    {
+        "message": "Otherwise, you might have fallen in love with another woman, right?"
+    },
+    {
+        "message": "I've just realized now that I seem to have strong possessiveness."
+    },
+    {
+        "message": "R-Really?"
+    },
+    {
+        "message": "Ah, you got flustered just now, didn't you?"
+    },
+    {
+        "message": "No, I didn't, I didn't."
+    },
+    {
+        "message": "Please, I don't want you to make me feel this heartache."
+    },
+    {
+        "message": "Filming is about to start again."
+    },
+    {
+        "message": "I wish I could stay like this longer."
+    },
+    {
+        "message": "Is filming off today?"
+    },
+    {
+        "message": "I shouldn't have any scenes to shoot. Today is my day off."
+    },
+    {
+        "message": "Things probably won't progress much without Guy, huh."
+    },
+    {
+        "message": "It's true that I have a lot of interactions with him, but more than that, Meryl's delays have been messing up the schedule."
+    },
+    {
+        "message": "It's only recently that I became well-known as an actress, so I’m still pretty bad at acting. It’s a source of worry."
+    },
+    {
+        "message": "I'm not watching the actual filming, but you gave a great performance in your last leading role."
+    },
+    {
+        "message": "No, that was nothing yet. But thank you for the compliment. It will motivate me for the future."
+    },
+    {
+        "message": "Right now, I just want a job, any role will do. I need to build my career quickly."
+    },
+    {
+        "message": "I love being an actress, but when I really get into a role, it gets tough. I start losing track of the line between fiction and reality."
+    },
+    {
+        "message": "Hey, if Guy is playing the lover, does that mean it’ll be like that in real life too?"
+    },
+    {
+        "message": "No, I don't think so."
+    },
+    {
+        "message": "Ugh, I don’t like that. Don't say weird things."
+    },
+    {
+        "message": "Are you jealous? You don't have to worry, it's just you for now."
+    },
+    {
+        "message": "Haven't you met Eva Courtney?"
+    },
+    {
+        "message": "Eva Courtney? Who's that? I don't know her."
+    },
+    {
+        "message": "I used to be a writer for a magazine called BAM. No, I was an editor, right?"
+    },
+    {
+        "message": "Does that person have anything to do with me?"
+    },
+    {
+        "message": "Eva, you know, dealt with gossip, and lately, she's been writing about Guy's gossip."
+    },
+    {
+        "message": "Guy's? Oh, don't tell me it's about me and Guy being in a relationship or something? That's not true at all; there's nothing going on."
+    },
+    {
+        "message": "No, that's not it, I’m sorry. It's nothing."
+    },
+    {
+        "message": "Forget it."
+    },
+    {
+        "message": "Meryl has been seriously shooting recently. It seems like something good happened."
+    },
+    {
+        "message": "Yeah, that's great. I mean, it's good that the filming is going smoothly."
+    },
+    {
+        "message": "Uh, yeah, right."
+    },
+    {
+        "message": "Hey, do you know what happened to Meryl?"
+    },
+    {
+        "message": "N-no, nothing."
+    },
+    {
+        "message": "Really? That sounds suspicious."
+    },
+    {
+        "message": "Are you that curious about Meryl? Or are you trying to make me jealous?"
+    },
+    {
+        "message": "Hey, do you think Meryl and Director Fabar are getting married?"
+    },
+    {
+        "message": "Well, I’m not sure. What's with the sudden question?"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "I was just wondering about it."
+    },
+    {
+        "message": "Phew."
+    },
+    {
+        "message": "Hmm."
+    },
+    {
+        "message": "Lies. Honestly, I was thinking if she married the director, all of his films would just star her."
+    },
+    {
+        "message": "I wouldn't want that—marrying someone I don't even like just for work."
+    },
+    {
+        "message": "Oh, don’t get me wrong. I'm not saying Meryl is like that."
+    },
+    {
+        "message": "I've been wanting to ask for a while, what's your relationship with Ginny?"
+    },
+    {
+        "message": "I don’t know Ginny."
+    },
+    {
+        "message": "Well, her real name is Annette Wheaton, I think?"
+    },
+    {
+        "message": "You probably heard that from someone else, right? It's just a past about stealing someone I used to go out with."
+    },
+    {
+        "message": "I'm telling you, that’s all in the past; I don’t hold a grudge or anything."
+    },
+    {
+        "message": "Right."
+    },
+    {
+        "message": "Oh, you're suspicious."
+    },
+    {
+        "message": "I really, really don't hold a grudge."
+    },
+    {
+        "message": "Okay, I'm sorry, I was wrong."
+    },
+    {
+        "message": "Do you really think so?"
+    },
+    {
+        "message": "Well, being a detective means I have to ask a lot of questions."
+    },
+    {
+        "message": "It’s kind of tough."
+    },
+    {
+        "message": "Speaking of which, I ran into her unexpectedly."
+    },
+    {
+        "message": "When?"
+    },
+    {
+        "message": "It was recently."
+    },
+    {
+        "message": "Though, it was a few weeks ago. The thing is,"
+    },
+    {
+        "message": "she was with Tonny Ford."
+    },
+    {
+        "message": "Oh, in that case, I've seen him too."
+    },
+    {
+        "message": "I wonder if that guy she used to date dumped her pretty fast."
+    },
+    {
+        "message": "She always seemed to have guys around her."
+    },
+    {
+        "message": "I’m not really on good terms with her."
+    },
+    {
+        "message": "When I saw Tonny at the party, it seemed that way. Did she maybe dump him?"
+    },
+    {
+        "message": "Hmm, I don’t know why, but he seems to dislike me. Most of the bad rumors seem to come from him, it’s a hassle."
+    },
+    {
+        "message": "I don’t really care about him, but why are you so concerned about him?"
+    },
+    {
+        "message": "No, I’m not concerned, but I just think he has a sketchy vibe."
+    },
+    {
+        "message": "Sketchy, huh?"
+    },
+    {
+        "message": "Yeah, his words are hard to judge for truth."
+    },
+    {
+        "message": "I’d rather not talk about this. Let’s change the subject."
+    },
+    {
+        "message": "You don’t know what Tonny's personality is like, do you?"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Well, that’s tricky. But there’s something about him that feels untrustworthy. Plus, I’ve heard he’s in quite a bit of debt."
+    },
+    {
+        "message": "What on earth is he using that debt for?"
+    },
+    {
+        "message": "Maybe he's spending way too much money on women and expensive items."
+    },
+    {
+        "message": "It’s wiser to stay away from him. You never know what kind of person you might get involved with."
+    },
+    {
+        "message": "Speaking of directors, hee hee."
+    },
+    {
+        "message": "I heard Meryl once said that I was trying to take the director's place."
+    },
+    {
+        "message": "Oh, I know about that."
+    },
+    {
+        "message": "Wow, has that rumor even reached you?　"
+    },
+    {
+        "message": "It's a misunderstanding. So please don't believe it."
+    },
+    {
+        "message": "Of course I respect the director. But that doesn't mean it leads to romance, you know?"
+    },
+    {
+        "message": "Yeah, but Meryl might have seen it that way. She must be a jealous woman."
+    },
+    {
+        "message": "I'm probably just as jealous, for sure."
+    },
+    {
+        "message": "I'm really glad I could work with Director Fabar."
+    },
+    {
+        "message": "The director has been in a good mood lately. Maybe it's because the filming is slowly but surely progressing."
+    },
+    {
+        "message": "Can someone really be in a good mood over something so trivial?"
+    },
+    {
+        "message": "Oh, for him, that's everything."
+    },
+    {
+        "message": "A film director is always consumed by that."
+    },
+    {
+        "message": "I feel suddenly closer because of that night."
+    },
+    {
+        "message": "To think I could talk so closely with someone who feels like a star up in the clouds."
+    },
+    {
+        "message": "I just went with the flow and ended up here. I wonder what will happen to her, no, to us from now on?"
+    },
+    {
+        "message": "Am I in love with her?"
+    },
+    {
+        "message": "She welcomes me with a happy face. When I touch such kindness,"
+    },
+    {
+        "message": "her presence gradually grows within my heart."
+    },
+    {
+        "message": "I never even dreamed a very ordinary guy like me could become close to an actress."
+    },
+    {
+        "message": "It's become a sad situation. I shouldn't feel guilty, but it isn’t completely unrelated either."
+    },
+    {
+        "message": "If I pursue this any further,"
+    },
+    {
+        "message": "it could be misunderstood that I'm suspecting her of being the culprit."
+    },
+    {
+        "message": "Let's stop; there's no point in thinking about it."
+    },
+    {
+        "message": "Since Meryl has been in a good mood lately,"
+    },
+    {
+        "message": "there probably won’t be much conflict."
+    },
+    {
+        "message": "Meryl's daughter is Cindy, and she is friends with her."
+    },
+    {
+        "message": "They get along well."
+    },
+    {
+        "message": "I hope they can meet soon, mother and daughter, and be happy."
+    },
+    {
+        "message": "If she has a family, wouldn't Meryl not marry the director?"
+    },
+    {
+        "message": "I can't help but feel that she longs for a presence she can call family."
+    },
+    {
+        "message": "Surely, Ginny and"
+    },
+    {
+        "message": "I thought I was hated by Ginny because we had contact in the past."
+    },
+    {
+        "message": "I believed she had been resentful towards me all along."
+    },
+    {
+        "message": "Was that feeling just Ginny's misunderstanding?"
+    },
+    {
+        "message": "Or, is someone else hiding that from me?"
+    },
+    {
+        "message": "I can't quite grasp the relationship between Ginny and me."
+    },
+    {
+        "message": "I'm a bit unclear about Ginny."
+    },
+    {
+        "message": "the relationship we're having."
+    },
+    {
+        "message": "Now that Gabriela has canceled the request, it’s no longer my concern."
+    },
+    {
+        "message": "It all started with Ginny, huh. If Gabriela hadn’t asked me to look for Ginny, I would have had nothing to do with this incident."
+    },
+    {
+        "message": "Tonny and"
+    },
+    {
+        "message": "apparently don’t get along well."
+    },
+    {
+        "message": "But isn’t it possible that this all started because of something like Tonny being dumped by"
+    },
+    {
+        "message": "someone?"
+    },
+    {
+        "message": "I really don’t understand."
+    },
+    {
+        "message": "I don’t quite get this guy Tonny either, and"
+    },
+    {
+        "message": "I have no idea why he would speak ill of."
+    },
+    {
+        "message": "There’s no way he's doing this because Ginny asked him to, right?"
+    },
+    {
+        "message": "Apparently, Tonny’s debts are well-known."
+    },
+    {
+        "message": "A cheerful Meryl, a cheerful director."
+    },
+    {
+        "message": "Isn’t that a good thing?"
+    },
+    {
+        "message": "It’s definitely true that Cindy is a headache for the current director. I have to do something about it."
+    },
+    {
+        "message": "I can deny it all I want,"
+    },
+    {
+        "message": "but the truth is a mystery."
+    },
+    {
+        "message": "Is it that they're trying to take the director away from Meryl, as she said?"
+    },
+    {
+        "message": "Come visit again,"
+    },
+    {
+        "message": "I'll be waiting."
+    },
+    {
+        "message": "※※※ This is a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

@@ -1,0 +1,437 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Ginny"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "What do you want?"
+    },
+    {
+        "message": "Actually, there's something I need to tell you."
+    },
+    {
+        "message": "Couldn't that have been dealt with over the phone?"
+    },
+    {
+        "message": "No, it was something we should discuss in person."
+    },
+    {
+        "message": "Hmph, I don't even want to see your face."
+    },
+    {
+        "message": "Hey, detective. Don't go any further from here unless you want to be charged with trespassing."
+    },
+    {
+        "message": "What did you say? What do you mean?"
+    },
+    {
+        "message": "Can't you understand that I don't want to see your face? This is why country folks are such a pain."
+    },
+    {
+        "message": "Well, I'm sorry about that."
+    },
+    {
+        "message": "What a nasty guy!"
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Show　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　About the scalpel　　"
+    },
+    {
+        "message": "About it　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　Scalpel　　　"
+    },
+    {
+        "message": "　　　Cufflinks　　　"
+    },
+    {
+        "message": "About the photo　"
+    },
+    {
+        "message": "About the ring　"
+    },
+    {
+        "message": "About it　　"
+    },
+    {
+        "message": "　　About the scalpel　　"
+    },
+    {
+        "message": "About it　　"
+    },
+    {
+        "message": "About the serial murder case."
+    },
+    {
+        "message": "　　To another place.　　"
+    },
+    {
+        "message": "　　　Save.　　　"
+    },
+    {
+        "message": "Exit the game."
+    },
+    {
+        "message": "The room is a spacious living room. It's filled with windows from ceiling to floor, offering a grand view of New York."
+    },
+    {
+        "message": "You're probably using this view to hit on women."
+    },
+    {
+        "message": "It's more than enough space for one person to live in."
+    },
+    {
+        "message": "With such an apartment, the rent must be quite significant, but I wonder if that's all covered by debt?"
+    },
+    {
+        "message": "As always, he looks like a man who's the very picture of a conceited person."
+    },
+    {
+        "message": "He's always wearing a sly grin."
+    },
+    {
+        "message": "He gives off the impression of being someone you can't let your guard down around."
+    },
+    {
+        "message": "A gaze that somewhat looks down on others."
+    },
+    {
+        "message": "You could say he's cool, but to me, he only brings an unpleasant feeling."
+    },
+    {
+        "message": "I'm too nice for my own good. Letting someone like you into this room."
+    },
+    {
+        "message": "I apologize for intruding."
+    },
+    {
+        "message": "If you think that, then why did you come here?"
+    },
+    {
+        "message": "It's unpleasant; I have nothing more to say."
+    },
+    {
+        "message": "I want you to tell me the truth."
+    },
+    {
+        "message": "I'm always speaking the truth, you know."
+    },
+    {
+        "message": "Talking to you feels like a pointless endeavor."
+    },
+    {
+        "message": "Have you ever had a scalpel used as a prop on stage?"
+    },
+    {
+        "message": "What do you intend to do with that question? I’ve neither been in nor directed a play that used such things."
+    },
+    {
+        "message": "Then why were you carrying a scalpel?"
+    },
+    {
+        "message": "I can't understand what you're trying to say. I've never carried a scalpel."
+    },
+    {
+        "message": "It's certain that the scalpel in your hand isn't mine."
+    },
+    {
+        "message": "Then why did it fall out of your pocket?"
+    },
+    {
+        "message": "I don't know about that fact. I wish you'd stop making up stories."
+    },
+    {
+        "message": "It's unpleasant; there's nothing more to talk about."
+    },
+    {
+        "message": "I don't get this guy."
+    },
+    {
+        "message": "What are you talking about?"
+    },
+    {
+        "message": "The last time"
+    },
+    {
+        "message": "she met was supposedly you, right?"
+    },
+    {
+        "message": "Who knows when the last time I"
+    },
+    {
+        "message": "met her was?"
+    },
+    {
+        "message": "If she met someone after we broke up, wouldn't that someone be the last person she met?"
+    },
+    {
+        "message": "Are you even listening to people?"
+    },
+    {
+        "message": "It's way off to ask me about her. I'm not saying anything bad, but it would be wiser to ask someone else."
+    },
+    {
+        "message": "You mentioned before that Jennifer might be the perpetrator of the serial murder case."
+    },
+    {
+        "message": "I don't remember that conversation."
+    },
+    {
+        "message": "So that was just a joke, huh?"
+    },
+    {
+        "message": "I wouldn't say that's true, would I? Don't just assume you can speak for someone else's feelings."
+    },
+    {
+        "message": "Haven't you heard at least one of those bad rumors about her?"
+    },
+    {
+        "message": "Well, what do you think?"
+    },
+    {
+        "message": "Jennifer and she did not get along. Jennifer,"
+    },
+    {
+        "message": "apparently holds a deep grudge against her."
+    },
+    {
+        "message": "I can't say if that's true or not."
+    },
+    {
+        "message": "I think it's probably true."
+    },
+    {
+        "message": "That's just my opinion, though."
+    },
+    {
+        "message": "But you should see for yourself."
+    },
+    {
+        "message": "You don't know her well enough. She's a scary woman."
+    },
+    {
+        "message": "You mentioned before that you know the perpetrator of the serial murder case."
+    },
+    {
+        "message": "I didn't say that, did I? I was just sharing my guess. You should discuss such matters with the police."
+    },
+    {
+        "message": "I don't know what you're thinking, but I just tried to guess the criminal out of curiosity."
+    },
+    {
+        "message": "You said that's Jennifer, right?"
+    },
+    {
+        "message": "I forgot whether I said such a thing or not. But, it’s such a recent and rare event that has plunged the United States into fear, so there’s that."
+    },
+    {
+        "message": "If you’re a detective, why not try to catch the culprit?"
+    },
+    {
+        "message": "I’m interested, but that’s all there is to it. Thankfully, as a man, I can’t be a victim."
+    },
+    {
+        "message": "Does this look familiar to you?"
+    },
+    {
+        "message": "I’m not a doctor, you know. I wouldn’t recognize a scalpel."
+    },
+    {
+        "message": "I saw a scalpel."
+    },
+    {
+        "message": "But I didn’t miss the moment you looked away."
+    },
+    {
+        "message": "Could you please cut it out?!"
+    },
+    {
+        "message": "No matter how many times I see it, all I can say is that it’s a scalpel."
+    },
+    {
+        "message": "Does this cufflink look familiar to you?"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "No, I don’t recognize such a thing."
+    },
+    {
+        "message": "Do you know anything?"
+    },
+    {
+        "message": "No, I just thought it was a surprising design for a second."
+    },
+    {
+        "message": "You're a persistent guy, aren't you?"
+    },
+    {
+        "message": "Even if I knew something, I don’t think I need to tell you, do I?"
+    },
+    {
+        "message": "What do you expect me to say when you show me something like that?"
+    },
+    {
+        "message": "Is she living somewhere with her wrist cut off, or by now..."
+    },
+    {
+        "message": "Do you mean to say that I did that!?　"
+    },
+    {
+        "message": "The one I loved more than anyone else!?"
+    },
+    {
+        "message": "Stop talking nonsense."
+    },
+    {
+        "message": "Can you please get a grip! I’m telling you to stop."
+    },
+    {
+        "message": "Just stop it, already."
+    },
+    {
+        "message": "If you’re going to show me that, bring the person here."
+    },
+    {
+        "message": "I should have mentioned before, but that’s a ring given by another man."
+    },
+    {
+        "message": "Regardless of the backstory of how it was given to her,"
+    },
+    {
+        "message": "she was very happy about it and always wore it on her beautiful finger."
+    },
+    {
+        "message": "Can’t you hear me saying I don't know?"
+    },
+    {
+        "message": "You’re showing it to the wrong person, detective."
+    },
+    {
+        "message": "At this rate, we won’t get anywhere."
+    },
+    {
+        "message": "The surprise at seeing the scalpel was anything but ordinary. An undeniably suspicious atmosphere is wafting."
+    },
+    {
+        "message": "But,"
+    },
+    {
+        "message": "what's going on with him being so nonchalant?"
+    },
+    {
+        "message": "Considering everything,"
+    },
+    {
+        "message": "it's true that he looks suspicious. However,"
+    },
+    {
+        "message": "it's a mystery whether it relates to his disappearance."
+    },
+    {
+        "message": "Since it's a scalpel, I think it's natural for there to be blood reaction. But, the place it was found was at the Club Kasbah, and he was sitting with."
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "In that situation,"
+    },
+    {
+        "message": "it can only be considered his possession."
+    },
+    {
+        "message": "If he is the owner of the scalpel, what was he doing carrying it around? It’s just not normal."
+    },
+    {
+        "message": "He was last seen,"
+    },
+    {
+        "message": "walking with."
+    },
+    {
+        "message": "I think it's natural to consider him the culprit,"
+    },
+    {
+        "message": "but there's no reason he should be killed; if he's in that kind of business, he had to know this would happen someday."
+    },
+    {
+        "message": "The incident's catalyst was,"
+    },
+    {
+        "message": "a murder."
+    },
+    {
+        "message": "Eva was also attacked by the same perpetrator."
+    },
+    {
+        "message": "Just because he had the scalpel, it's too early to label him as the serial murder case's culprit, but you can't say he's not either."
+    },
+    {
+        "message": "He seems to have a motive,"
+    },
+    {
+        "message": "and he has been spotted walking with."
+    },
+    {
+        "message": "Clearly suspicious."
+    },
+    {
+        "message": "Anyway,"
+    },
+    {
+        "message": "it might still be too early to conclude him as the culprit. We need to consider other possibilities."
+    },
+    {
+        "message": "Thanks for the interruption."
+    },
+    {
+        "message": "Hmph."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "　　　　　　　　　　− The Next Day −"
+    },
+    {
+        "message": "S"
+    },
+    {
+        "message": "Boss, are you listening?"
+    },
+    {
+        "message": "Boss?"
+    },
+    {
+        "message": "Hmm, yeah, what's up?"
+    },
+    {
+        "message": "That's not the point. You look like you've lost your motivation since this morning."
+    },
+    {
+        "message": "Are you okay?"
+    },
+    {
+        "message": "Yeah. I'm fine."
+    },
+    {
+        "message": "Something happened yesterday, didn’t it? Maybe things aren’t going well with Jennifer?"
+    },
+    {
+        "message": "Why would you say that?"
+    },
+    {
+        "message": "Oh, spot on? I guess I really do have a talent for being a detective. Hehe."
+    },
+    {
+        "message": "Welcome back!"
+    },
+    {
+        "message": "You're full of energy, huh?"
+    },
+    {
+        "message": "Of course, I’m young!"
+    },
+    {
+        "message": "Thanks for your hard work."
+    },
+    {
+        "message": "Boss, you really look exhausted."
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　About Kristy　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　About Kristy　"
+    },
+    {
+        "message": "　　Tony's thing　　"
+    },
+    {
+        "message": "　　Guy's thing　　"
+    },
+    {
+        "message": "Jennifer's thing"
+    },
+    {
+        "message": "　　To another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "With a rent this low, it’s only fitting that the interior is just as filthy. Honestly, I'd be grateful if they could at least fix the elevator."
+    },
+    {
+        "message": "You and I"
+    },
+    {
+        "message": "are the only ones here; but honestly, too many requests for a small office like ours would be overwhelming."
+    },
+    {
+        "message": "Just the bare essentials."
+    },
+    {
+        "message": "My desk, phone, reception set, and,"
+    },
+    {
+        "message": "there's hardly anything else besides the computer."
+    },
+    {
+        "message": "She seems put-together, yet there's something a bit off about her. How can someone like her manage in New York?"
+    },
+    {
+        "message": "Asian types are quite popular in New York. You’d think there would be plenty of guys hitting on her."
+    },
+    {
+        "message": "So why haven’t I heard any scandalous rumors?"
+    },
+    {
+        "message": "With that bubbly expression, she looks like she could still be in high school."
+    },
+    {
+        "message": "Yet she is competent, which is impressive."
+    },
+    {
+        "message": "Boss, let’s stay cheerful and positive, no matter what happens."
+    },
+    {
+        "message": "I don’t want to hear that from you, someone who seems far removed from worries."
+    },
+    {
+        "message": "Oh, how rude! I’ve got a mountain of issues weighing on me, you know. But I won’t tell you what they are, so sorry!"
+    },
+    {
+        "message": "Since we’re out of requests anyway, I’d like to go on a trip when things settle down a bit."
+    },
+    {
+        "message": "Sure, go ahead, even tomorrow if you want."
+    },
+    {
+        "message": "It won’t be that easy, you know. But I may take advantage of your offer soon."
+    },
+    {
+        "message": "Hehe, where should I go?"
+    },
+    {
+        "message": "I haven’t heard from Meryl at all."
+    },
+    {
+        "message": "If she’s gone all the way to Japan to perform that hour of the ox ritual,"
+    },
+    {
+        "message": "that would be scary."
+    },
+    {
+        "message": "Normal people don’t do that stuff."
+    },
+    {
+        "message": "Oh, you’re mocking me!"
+    },
+    {
+        "message": "It’s okay, I swear that I won’t get killed, nor will I kill Guy."
+    },
+    {
+        "message": "Of course. It would be troublesome if that happened."
+    },
+    {
+        "message": "Meryl isn't a child, either."
+    },
+    {
+        "message": "Meryl killing Gai, that’s absurd."
+    },
+    {
+        "message": "That can’t be true, right?"
+    },
+    {
+        "message": "Kristy couldn’t possibly be a murderer."
+    },
+    {
+        "message": "I heard Kristy went to meet Ginny, Cindy, and Jennifer."
+    },
+    {
+        "message": "Isn’t that related to Gai?"
+    },
+    {
+        "message": "Yeah, I think it's probably about Gai. But, Ginny is missing, and Cindy was murdered."
+    },
+    {
+        "message": "No way!? Boss, you’re overthinking things lately. You’re being super negative."
+    },
+    {
+        "message": "Kristy seems a lot better since Gai returned. There's no need to worry now."
+    },
+    {
+        "message": "I think so, but I can't help but feel uneasy."
+    },
+    {
+        "message": "When we talk about that murder case,"
+    },
+    {
+        "message": "Is that what you mean? Speaking of which, something changed when we saw the knife at the restaurant."
+    },
+    {
+        "message": "That’s why I feel uneasy."
+    },
+    {
+        "message": "But,"
+    },
+    {
+        "message": "Kristy being involved in murder,"
+    },
+    {
+        "message": "It’s probably just your imagination. Really."
+    },
+    {
+        "message": "Tony doesn’t seem like the culprit."
+    },
+    {
+        "message": "My sixth sense was off this time."
+    },
+    {
+        "message": "Hmm."
+    },
+    {
+        "message": "We don't know anything for sure yet."
+    },
+    {
+        "message": "So you think Tony's the culprit?"
+    },
+    {
+        "message": "N-no."
+    },
+    {
+        "message": "As of now, I don’t think so."
+    },
+    {
+        "message": "Sigh."
+    },
+    {
+        "message": "Oh, it’s something even the Boss can figure out."
+    },
+    {
+        "message": "I might have become an idiot."
+    },
+    {
+        "message": "I have to apologize when I see Tony."
+    },
+    {
+        "message": "Could it be that something happened at the party?"
+    },
+    {
+        "message": "I mean, that face looks criminal."
+    },
+    {
+        "message": "It's okay; I'll apologize next time we meet."
+    },
+    {
+        "message": "Tch."
+    },
+    {
+        "message": "I definitely thought Tonny was suspicious."
+    },
+    {
+        "message": "Guy seems to be doing well, right? You wouldn’t think he was someone who was locked away."
+    },
+    {
+        "message": "Oh really? He’s active, huh."
+    },
+    {
+        "message": "The media is strange, isn’t it? They were calling him the culprit just a while ago."
+    },
+    {
+        "message": "Now Kristy can have her mind at ease, and the boss won’t be inconvenienced anymore. Congratulations."
+    },
+    {
+        "message": "Are you mad or something? That way of speaking."
+    },
+    {
+        "message": "Just isn’t like you."
+    },
+    {
+        "message": "I’m not mad or anything."
+    },
+    {
+        "message": "But, I don’t know, it just feels weird. This world."
+    },
+    {
+        "message": "We don’t need to worry about Kristy anymore."
+    },
+    {
+        "message": "Did you get a call from Jennifer?"
+    },
+    {
+        "message": "No. Are you waiting for her to call?"
+    },
+    {
+        "message": "Nah, not really."
+    },
+    {
+        "message": "Phew."
+    },
+    {
+        "message": "Hmm, the boss isn’t that cheap either."
+    },
+    {
+        "message": "Hehe."
+    },
+    {
+        "message": "If you’re curious, you should go see him. I think that’s the best thing to do."
+    },
+    {
+        "message": "I don’t really care, so it’s fine."
+    },
+    {
+        "message": "The boss is cute, huh? Hehe."
+    },
+    {
+        "message": "I don’t know! How about going to see him now?"
+    },
+    {
+        "message": "With the incident at the party, it’s clearly not normal. It wouldn’t be surprising if he does something."
+    },
+    {
+        "message": "Why do I have to worry about Meryl too?"
+    },
+    {
+        "message": "What’s the director doing? She’s his mistress."
+    },
+    {
+        "message": "I still can’t take my eyes off Meryl."
+    },
+    {
+        "message": "Even though we’re not strangers, from here on, it’s Guy’s job. Unless Kristy isn’t doing anything."
+    },
+    {
+        "message": "Looks like she hasn’t gone for counseling anymore, but has she really gotten better?"
+    },
+    {
+        "message": "Is it okay to just leave her alone?"
+    },
+    {
+        "message": "Speaking of serial killings, Tonny is probably innocent. The other drugs and snuff videos aren't my department."
+    },
+    {
+        "message": "I bet you want to leave New York soon. You probably don't want to be Gordon's lapdog any longer."
+    },
+    {
+        "message": "It might be a waste to keep chasing Tony. You can't trust a word that guy says."
+    },
+    {
+        "message": "It seems Guy was plotting to use BAM to break off his engagement with Kristy, but if that's just a camouflage..."
+    },
+    {
+        "message": "Then he would kill off the women who cling to him around Kristy."
+    },
+    {
+        "message": "That story seems far-fetched."
+    },
+    {
+        "message": "Was Guy intending to break up with Kristy?"
+    },
+    {
+        "message": "It looked like their relationship was going well. What could be the reason?"
+    },
+    {
+        "message": "It feels like there's still something she's hiding from me."
+    },
+    {
+        "message": "Jennifer told me she had grown cold towards me. But isn't it Jennifer who's actually grown cold?"
+    },
+    {
+        "message": "It's definitely you whose attitude has changed since the party, Jennifer."
+    },
+    {
+        "message": "Thinking back, I've been swept along by her pace this whole time. I never intended to be her boyfriend."
+    },
+    {
+        "message": "What does she really think of me?"
+    },
+    {
+        "message": "What is it, really, between Jennifer and me?"
+    },
+    {
+        "message": "※※※ This is a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]
