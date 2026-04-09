@@ -1,0 +1,707 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "I visited Guy's house."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "It’s unusual for you to come here."
+    },
+    {
+        "message": "How many years has it been?"
+    },
+    {
+        "message": "Since before I dropped out."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "You dropped out, huh?"
+    },
+    {
+        "message": "That kind of thing happened, huh?"
+    },
+    {
+        "message": "Oh, right, thanks for inviting me to the party."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "It’s not a big deal. Honestly, it was a party I might not have gone to if I hadn't invited someone."
+    },
+    {
+        "message": "You might not have gone if you hadn't invited someone? What do you mean?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "No, it’s nothing."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "　　　Guy　　　"
+    },
+    {
+        "message": "　　　Guy　　　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　　About the article　　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　　About the article　　"
+    },
+    {
+        "message": "　　Going outside　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "The shelves are lined with shields and trophies accumulated since his school days."
+    },
+    {
+        "message": "The only other noticeable thing is a big television."
+    },
+    {
+        "message": "While it's not perfectly organized, it can't really be called messy either."
+    },
+    {
+        "message": "It's like the room expresses Guy's personality."
+    },
+    {
+        "message": "The window in this room has a nice view of Fifth Avenue."
+    },
+    {
+        "message": "Guy has been angry all along."
+    },
+    {
+        "message": "Now Guy is completely angry. This distant smile is his face when he's angry."
+    },
+    {
+        "message": "It's as if Guy's expression is somewhat cloudy."
+    },
+    {
+        "message": "Did I poke at something unpleasant?"
+    },
+    {
+        "message": "I guess becoming famous brings these kinds of downsides to friends."
+    },
+    {
+        "message": "Guy was a bold man in his school days."
+    },
+    {
+        "message": "But ever since he made it to the Major Leagues because of his skills, he has become a man who seems restless and self-conscious."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "It's about time to leave. Can you go home?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "You probably thought I didn't notice, but rumors do reach my ears, you know."
+    },
+    {
+        "message": "Are you swallowing those rumors without verifying their truth? Our relationship isn't like that, right?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "That's how it was."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Hmph."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I have nothing left to say to you."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "You've become a pathetic guy who delves into the profession of a detective, swallowing gossip."
+    },
+    {
+        "message": "Sorry for being a pathetic guy. I'm just worried about"
+    },
+    {
+        "message": "you."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "What do you mean by saying you'd do anything for her? You have everything covered for your ex, right?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "What a surprise guest just when I'm about to head out."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "You’ve been acting a bit strange lately."
+    },
+    {
+        "message": "Isn't that more about you, Guy?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I’m just normal. Nothing has changed."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "What’s up? You coming by without calling?"
+    },
+    {
+        "message": "Did I interrupt something?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Yeah, a little."
+    },
+    {
+        "message": "I was about to go on a trip."
+    },
+    {
+        "message": "Right."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Is work going well?"
+    },
+    {
+        "message": "Yeah, same as always. Oh, but I do have a job lined up right now."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Oh really?"
+    },
+    {
+        "message": "I’m surprised someone would want to hire you."
+    },
+    {
+        "message": "That's harsh. Even for you, Guy, that stings."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "So, is the client a beauty?"
+    },
+    {
+        "message": "Why are we talking about that?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "In dramas, clients are usually beautiful, aren't they?"
+    },
+    {
+        "message": "Dramas don’t become reality."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Well, I thought if she was beautiful I might want an introduction."
+    },
+    {
+        "message": "Is it okay to say stuff like that? You’ve got a thing for her,"
+    },
+    {
+        "message": "don't you?"
+    },
+    {
+        "message": "Right?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Yeah, uh-huh."
+    },
+    {
+        "message": "That's true, but..."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I've got nothing more to say."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I'm doing fine and healthy. Health is all I've got, you know."
+    },
+    {
+        "message": "Are you going out with"
+    },
+    {
+        "message": "someone?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "No, that's not it."
+    },
+    {
+        "message": "Why are you asking such things?"
+    },
+    {
+        "message": "I've been worried because it seemed like there was some trouble at the Party."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "There's not really much progress. Good or bad, you know."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I’ve got nothing left to say to you."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "In the end, you must still like him. A guy who's addicted to drugs and dropped out."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I never want to see your face again."
+    },
+    {
+        "message": "Please get along with him."
+    },
+    {
+        "message": "Guy, that's a misunderstanding."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Anyway, I can’t trust you anymore. I’m sorry, but can you just go?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "You, again,"
+    },
+    {
+        "message": "you started dating again, didn’t you?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "What are you suddenly saying?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I pulled you out of rock bottom, and now you forget that debt and go after my girl?"
+    },
+    {
+        "message": "Is there such a ridiculous story? You’re not actually believing that, are you?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "I do believe it, because things have been weird lately."
+    },
+    {
+        "message": "It's strange, you know."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Don't think of me as blind."
+    },
+    {
+        "message": "I already knew you were with her."
+    },
+    {
+        "message": "Your relationship ended right after we graduated."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Oh, I know that too. That's why you got involved with drugs, right?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "So, you're putting in all that effort for your ex-girlfriend, huh?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Did you become her little servant or something?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "What's up with him?"
+    },
+    {
+        "message": "Come on, you've been in touch, haven't you? You know, during the party, it felt kind of weird, so I've been wondering."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Oh please, it's so obvious. You probably heard it from someone."
+    },
+    {
+        "message": "Right?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "It means not everything in the article is a lie."
+    },
+    {
+        "message": "No way, that article wasn't leaked by Guy, was it?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "It's not like you're really gonna be troubled by it. Oh, right,"
+    },
+    {
+        "message": "if he gets in trouble, you'd have a hard time too, huh?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Haven't you turned into a bit of a self-deprecating guy?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "That's none of your business."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "That article isn't all lies."
+    },
+    {
+        "message": "But he’s worried about the article. Don't stress about anything."
+    },
+    {
+        "message": "Right?"
+    },
+    {
+        "message": "Maybe you should just give him a call?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "just because we're good friends doesn't mean you should interfere in each other's love lives."
+    },
+    {
+        "message": "I don't mean to do that. It's just that,"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Just what?"
+    },
+    {
+        "message": "If I don't pay attention to Guy,"
+    },
+    {
+        "message": "his girlfriend will start coming to me."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "will be jealous of you. That makes sense; he's your ex."
+    },
+    {
+        "message": "Speaking of which, have you seen BAM?"
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "BAM, as in Baked Apple Magazine?"
+    },
+    {
+        "message": "Yeah. The latest issue has an article about Guy and Cindy being in a hot love affair."
+    },
+    {
+        "message": "That was in the article."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Me and Cindy? Where did that rumor come from?"
+    },
+    {
+        "message": "I don't know. The lady who wrote the article seemed really confident."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Is that female reporter pretty?"
+    },
+    {
+        "message": "Yeah,"
+    },
+    {
+        "message": "she's got a nice body, probably E-cup."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Oh, interesting."
+    },
+    {
+        "message": "You've been quite bold about women lately."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "Well, this is normal, right? You're not into women, are you?"
+    },
+    {
+        "message": "I'm straight."
+    },
+    {
+        "message": "Guy"
+    },
+    {
+        "message": "It's a joke, don’t make such a gloomy face."
+    },
+    {
+        "message": "Guy might have been told something by someone."
+    },
+    {
+        "message": "was supposed to be dating me in secret."
+    },
+    {
+        "message": "Am I."
+    },
+    {
+        "message": "looking after you? Where's that self-deprecating tone coming from?"
+    },
+    {
+        "message": "Besides, how did Guy find out about me and"
+    },
+    {
+        "message": "we were dating?"
+    },
+    {
+        "message": "First of all, the article's content is too weird."
+    },
+    {
+        "message": "I can't believe Guy would say something like that."
+    },
+    {
+        "message": "According to the talk, it seems my relationship with Guy has worsened, but what on earth is the cause?"
+    },
+    {
+        "message": "I wonder if someone is spreading false rumors."
+    },
+    {
+        "message": "Where did it all go wrong for me to"
+    },
+    {
+        "message": "get back together with him?"
+    },
+    {
+        "message": "No way, I'm not so down and out that I'd go back to an ex who dumped me."
+    },
+    {
+        "message": "With Guy,"
+    },
+    {
+        "message": "I thought things were going well."
+    },
+    {
+        "message": "was pleading with a face on the verge of tears, wanting to restore the relationship with Guy,"
+    },
+    {
+        "message": "she said."
+    },
+    {
+        "message": "I thought that was a true cry of the heart,"
+    },
+    {
+        "message": "but I need to get the story out of Eva. That too, urgently."
+    },
+    {
+        "message": "Perhaps Guy might be speaking for himself."
+    },
+    {
+        "message": "Eva mentioned that she seemed to have a solid source of information."
+    },
+    {
+        "message": "But I don't know who that is."
+    },
+    {
+        "message": "The article discussed"
+    },
+    {
+        "message": "the breakup and later Guy's engagement to Cindy."
+    },
+    {
+        "message": "　　　ＲＲＲＲＲＲＲＲＲＲＲＲ"
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "Hello? Is this Boss?"
+    },
+    {
+        "message": "Yeah, that's right."
+    },
+    {
+        "message": "Is something wrong?”"
+    },
+    {
+        "message": "You need to go to Central Park right away! Director Fabar is calling for you."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "Sorry, I forgot."
+    },
+    {
+        "message": "Please hurry up."
+    },
+    {
+        "message": "It's about my credibility, you see."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

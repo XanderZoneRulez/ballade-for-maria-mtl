@@ -1,0 +1,629 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Patricia"
+    },
+    {
+        "message": "Gloria"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Hey, you must be"
+    },
+    {
+        "message": "that's right, you're the private detective, Guy."
+    },
+    {
+        "message": "Yes,"
+    },
+    {
+        "message": "my name is Snipes."
+    },
+    {
+        "message": "It's you. I thought, since you're a private detective, you'd be some kind of shady guy,"
+    },
+    {
+        "message": "but surprisingly, you're actually a nice young man."
+    },
+    {
+        "message": "I'm hardly a good guy."
+    },
+    {
+        "message": "No, you're a good young man. I have an eye for character. If I'm saying it, it must be true. Hahaha."
+    },
+    {
+        "message": "Thank you very much."
+    },
+    {
+        "message": "So, how's the conversation flowing with everyone?"
+    },
+    {
+        "message": "　　View　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "End the conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "　About　the　party　"
+    },
+    {
+        "message": "　　About the movie　　"
+    },
+    {
+        "message": "About it　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "’s　matter　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "? I wonder who that was."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "He’s my assistant."
+    },
+    {
+        "message": "Your assistant? Oh, that’s her talking to Patty. But, is it really okay to have such a young kid as an assistant?"
+    },
+    {
+        "message": "She’s actually 20 years old. She just looks young because her mother is Japanese."
+    },
+    {
+        "message": "Wow, older than Patty, huh?"
+    },
+    {
+        "message": "No way, that’s surprising."
+    },
+    {
+        "message": "I thought she was around 15."
+    },
+    {
+        "message": "Oh my."
+    },
+    {
+        "message": "You really can’t judge a woman's age by her looks."
+    },
+    {
+        "message": "Didn’t you have any doubts about her age when you first met her?"
+    },
+    {
+        "message": "I had some background knowledge since I received her resume earlier."
+    },
+    {
+        "message": "Still, I wonder if she’s your type."
+    },
+    {
+        "message": "Asian girls do tend to look younger."
+    },
+    {
+        "message": "I want to ask you something."
+    },
+    {
+        "message": "Is her outreach work your doing?"
+    },
+    {
+        "message": "Not really, but..."
+    },
+    {
+        "message": "Ah, I thought so. Her audacity is commendable, but if she stands out too much, it makes some people uncomfortable."
+    },
+    {
+        "message": "Sorry, could you tell her to stop the outreach activities?"
+    },
+    {
+        "message": "I apologize. I’ll make sure to talk to her about it."
+    },
+    {
+        "message": "Yeah. I’d appreciate it."
+    },
+    {
+        "message": "She’s not a bad kid."
+    },
+    {
+        "message": "She’s my only daughter. I lost her mother early on and left her with a housekeeper, but she’s grown up well."
+    },
+    {
+        "message": "She’s a cute girl."
+    },
+    {
+        "message": "Cute? That girl?!"
+    },
+    {
+        "message": "She’s so logical about everything; it really undermines my authority. I wonder what she thinks of her father."
+    },
+    {
+        "message": "She’s of age but shows no interest in boys; not even a hint of a boyfriend."
+    },
+    {
+        "message": "You don't have to rush; you'll surely find a wonderful boyfriend someday."
+    },
+    {
+        "message": "I hope so."
+    },
+    {
+        "message": "It seems I'm not good at topics like this. When it comes to marrying her off, I might get a bit teary."
+    },
+    {
+        "message": "The reason that she turned into such an unlovable woman might be because she was raised only by her father."
+    },
+    {
+        "message": "Did Patty do something rude?"
+    },
+    {
+        "message": "No, not particularly."
+    },
+    {
+        "message": "I see. Well, that's good."
+    },
+    {
+        "message": "She tends to act awkwardly around people she's liked for a long time."
+    },
+    {
+        "message": "That girl has few friends her age, and I worry about that as a parent."
+    },
+    {
+        "message": "But she’s a bright girl, so she must have lots of friends, right?"
+    },
+    {
+        "message": "No, it seems not. Since she grew up among adults, she doesn't interact well with her peers."
+    },
+    {
+        "message": "I think she's probably more dependable than you might be thinking."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "By the way, if she insists on wanting to be a detective, please don't take her seriously. I think it's just a passing whim."
+    },
+    {
+        "message": "Tonny Ford, huh?"
+    },
+    {
+        "message": "I've known him for a long time. He’s not related to this movie, but I invited him anyway."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "He may have some, well,"
+    },
+    {
+        "message": "bad rumors swirling around, but at his core, he’s a good guy."
+    },
+    {
+        "message": "Tonny isn't good at socializing. If he made you feel uncomfortable, I apologize."
+    },
+    {
+        "message": "No, that’s not the case."
+    },
+    {
+        "message": "He’s a talented actor, but being great at one thing doesn’t mean he excels at everything."
+    },
+    {
+        "message": "He really is a nice guy, though."
+    },
+    {
+        "message": "If Tonny said something rude to you, please don’t take it personally. He has this self-deprecating way of enjoying being disliked."
+    },
+    {
+        "message": "Haven't you heard anything from Tony? Uh, it's not something pleasant."
+    },
+    {
+        "message": "Is it about Jennifer?"
+    },
+    {
+        "message": "Ah, so he did say something. Everything he's saying is nonsense."
+    },
+    {
+        "message": "He holds a grudge against Jennifer."
+    },
+    {
+        "message": "It might have been a mistake to call him."
+    },
+    {
+        "message": "Is it Cindy's agent?"
+    },
+    {
+        "message": "I don't know much about her."
+    },
+    {
+        "message": "It seems she originally wanted to be an actress."
+    },
+    {
+        "message": "An agent who wanted to be an actress, huh."
+    },
+    {
+        "message": "Well, it’s common, but there are plenty of people who want to be actresses."
+    },
+    {
+        "message": "Yeah. She's amazing in her own way, since she has brought a wonderful talent like Cindy into the world."
+    },
+    {
+        "message": "That's true. She's accomplished the great feat of producing and bringing Cindy to the world."
+    },
+    {
+        "message": "She takes good care of Cindy. You can tell she's really working hard from the outside."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Being an agent must be tough."
+    },
+    {
+        "message": "It’s really tough. She has to manage everything, not just Cindy's schedule."
+    },
+    {
+        "message": "It's like being a mother."
+    },
+    {
+        "message": "No, it feels more like she’s a wife, really."
+    },
+    {
+        "message": "I wish she could be a bit better at socializing."
+    },
+    {
+        "message": "She seems to hold a grudge against Guy."
+    },
+    {
+        "message": "That’s something you can’t just ignore."
+    },
+    {
+        "message": "Yeah. It looks like she still holds a grudge from when Guy hugged Cindy during their first meeting."
+    },
+    {
+        "message": "But can someone really hold a grudge over just that?"
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "Yeah, she’s special."
+    },
+    {
+        "message": "Earlier, she almost attacked Guy with a fork."
+    },
+    {
+        "message": "Did that really happen!?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "At that rate, it wouldn't be surprising if she had done something in the past."
+    },
+    {
+        "message": "But it's better not to worry about her strange attitude."
+    },
+    {
+        "message": "Cindy is great. I think that girl could become an indispensable figure in the American film industry."
+    },
+    {
+        "message": "That's incredible."
+    },
+    {
+        "message": "Yeah, that girl has something that appeals to Americans."
+    },
+    {
+        "message": "I mean, she has that quality."
+    },
+    {
+        "message": "For some reason, that girl is trying way too hard to act cute. She could easily make it without doing that."
+    },
+    {
+        "message": "Isn't that the agent's policy?"
+    },
+    {
+        "message": "Maybe, but they must know that isn't the way to highlight her."
+    },
+    {
+        "message": "I believe she can succeed as an actress."
+    },
+    {
+        "message": "I want to reveal her true self in this movie because I think it's for her best."
+    },
+    {
+        "message": "But doesn't that involve some risks?　"
+    },
+    {
+        "message": "I feel like they won't allow that."
+    },
+    {
+        "message": "However, I'm the director. If it's for Cindy's sake,"
+    },
+    {
+        "message": "she should walk the path of an actress here."
+    },
+    {
+        "message": "Cindy is like a raw gem that is being polished the wrong way. She needs to be polished correctly to shine more."
+    },
+    {
+        "message": "I hope the film brings out a new side of her."
+    },
+    {
+        "message": "Not a new side, but her true self. I will bring her back to the way she should be."
+    },
+    {
+        "message": "Keep a close eye on her; watch her future."
+    },
+    {
+        "message": "She is in her prime now, and I intend for her to add color to the next film."
+    },
+    {
+        "message": "I'm sure it has something to do with madness."
+    },
+    {
+        "message": "You don't seem very knowledgeable. Normally, she has a neat vibe, but she's good at playing intense women in her roles."
+    },
+    {
+        "message": "Actually, she's the actress I'm currently most enthusiastic about. I think her acting is genuine."
+    },
+    {
+        "message": "Seems like she's quite your favorite."
+    },
+    {
+        "message": "Of course! She's an actress who will shine even more from now on."
+    },
+    {
+        "message": "I believe she's going to leap forward even more in the future."
+    },
+    {
+        "message": "Why did Jennifer incur Tonny's resentment?"
+    },
+    {
+        "message": "I don't know the details, but I think it was probably due to some romantic entanglement."
+    },
+    {
+        "message": "So saying he resents her is"
+    },
+    {
+        "message": "an immature act, isn't it?"
+    },
+    {
+        "message": "But there are things that can't be so simply decided."
+    },
+    {
+        "message": "I plan to keep casting her more and more."
+    },
+    {
+        "message": "Her acting has a solid reputation. She will surely support the film well."
+    },
+    {
+        "message": "She's a great actress, isn't she?"
+    },
+    {
+        "message": "Yeah, that's right."
+    },
+    {
+        "message": "I think she's working hard as a mid-level actress in the film industry."
+    },
+    {
+        "message": "Is the director going to marry Meryl?"
+    },
+    {
+        "message": "No."
+    },
+    {
+        "message": "Where on earth did you hear that?"
+    },
+    {
+        "message": "But"
+    },
+    {
+        "message": "oh man, my daughter is a handful."
+    },
+    {
+        "message": "Let me clarify, Meryl and I are definitely not in a relationship that would lead to marriage."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Yeah. There are various rumors floating around, but that is not the case at all."
+    },
+    {
+        "message": "She is an excellent actress and I am a director."
+    },
+    {
+        "message": "There’s nothing else to it."
+    },
+    {
+        "message": "I think he’s a good character. He’s in his prime now."
+    },
+    {
+        "message": "In his prime now."
+    },
+    {
+        "message": "Exactly right. But I think he can't act."
+    },
+    {
+        "message": "No, no, that's not true. He's actually quite a performer."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Yeah, yeah. Even if he retires, he might still be able to make it as an actor."
+    },
+    {
+        "message": "You know, I really like the character named He."
+    },
+    {
+        "message": "Hearing that much must make Guy happy."
+    },
+    {
+        "message": "Is that so? He kind of looked like he was bothered, though."
+    },
+    {
+        "message": "He seems like someone destined to be popular."
+    },
+    {
+        "message": "Guy is great. The more I talk to him, the more I get drawn in."
+    },
+    {
+        "message": "He's always been a well-liked guy."
+    },
+    {
+        "message": "Yeah, he has charisma, and I think he could become an actor if he wanted to—as long as he has the acting skills to back it up."
+    },
+    {
+        "message": "If Guy didn't have a fiancée, I'd want him to marry my daughter and call him my son."
+    },
+    {
+        "message": "Yeah, she’s a beautiful person. But there’s something about her that feels a bit unapproachable."
+    },
+    {
+        "message": "Really?"
+    },
+    {
+        "message": "You might not feel that way since you've known her since school,"
+    },
+    {
+        "message": "but you know, there’s this aura that makes it hard to casually strike up a conversation."
+    },
+    {
+        "message": "Well, that might be true. She has always had this air of superiority towards people."
+    },
+    {
+        "message": "That’s true. Her gaze is intimidating."
+    },
+    {
+        "message": "I think she's pretty, but that atmosphere really cuts her charm in half."
+    },
+    {
+        "message": "I'll be sure to mention it to her."
+    },
+    {
+        "message": "Hey, come on, that’s not a joke. If that happens, she'd probably hold a grudge for life."
+    },
+    {
+        "message": "She’s not that terrible of a woman."
+    },
+    {
+        "message": "No, I think so too,"
+    },
+    {
+        "message": "but I still find her kind of scary."
+    },
+    {
+        "message": "Don’t say anything reckless to her."
+    },
+    {
+        "message": "I was just a bit curious, but are Guy and her fighting?"
+    },
+    {
+        "message": "Did something happen?"
+    },
+    {
+        "message": "No, I just haven’t seen them talking together, so I'm a little worried."
+    },
+    {
+        "message": "Could it be that she doesn’t like me talking to Guy all the time?"
+    },
+    {
+        "message": "I don't think that's it."
+    },
+    {
+        "message": "I hope that’s the case."
+    },
+    {
+        "message": "If you can't have fun despite the invitation, it means I'm not cut out to be a host."
+    },
+    {
+        "message": "Are you familiar with the serial murder case?"
+    },
+    {
+        "message": "Is something going on again? I'm not really in the loop on those things."
+    },
+    {
+        "message": "Then you might know something."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "You're really a detective, aren't you? Bringing up a gory incident at the party."
+    },
+    {
+        "message": "What's it to you?"
+    },
+    {
+        "message": "No, it’s just that someone claimed to know the killer."
+    },
+    {
+        "message": "At least the people here can’t be the killer. That person who said they knew the killer was probably just joking."
+    },
+    {
+        "message": "It's important not to be swayed by bad rumors."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

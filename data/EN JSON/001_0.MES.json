@@ -1,0 +1,695 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Patricia"
+    },
+    {
+        "message": "Gloria"
+    },
+    {
+        "message": "Cindy"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "What is it?"
+    },
+    {
+        "message": "Well, I thought you were having fun."
+    },
+    {
+        "message": "If that's the case, please don't talk to me. I don't want to waste my precious time."
+    },
+    {
+        "message": "What is it this time?"
+    },
+    {
+        "message": "This time it's the actress making an appearance, you're really into your promotional activities, huh!"
+    },
+    {
+        "message": "I told you, you don't need to do any promotions. Why do you think there's a need to do that now?"
+    },
+    {
+        "message": "Because I can't meet Ted, and I'm bored."
+    },
+    {
+        "message": "Please stop making a fool of yourself for such a silly reason."
+    },
+    {
+        "message": "I'll think about it."
+    },
+    {
+        "message": "Do you need something?"
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "End conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　About　the　party　"
+    },
+    {
+        "message": "　　About the movie　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Director Fabar"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "of　things　"
+    },
+    {
+        "message": "about the serial murder case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "I just can't bring myself to like that person."
+    },
+    {
+        "message": "People like him probably like glamorous women, right?"
+    },
+    {
+        "message": "It's like that with all men, maybe."
+    },
+    {
+        "message": "Even the boss says things like that? You shouldn't turn into Tony."
+    },
+    {
+        "message": "Tony-san, you always seem to be alone when I notice."
+    },
+    {
+        "message": "Yeah, that’s right."
+    },
+    {
+        "message": "Maybe you should talk to him."
+    },
+    {
+        "message": "Are you kidding? He outright told me he has no use for kids. He hates me."
+    },
+    {
+        "message": "Did that person really win the Tony Award for Best Musical Director?"
+    },
+    {
+        "message": "I wonder."
+    },
+    {
+        "message": "I won't say anything bad. It's better to stay away from Tony Ford."
+    },
+    {
+        "message": "Why do you say that so definitively?"
+    },
+    {
+        "message": "I feel this is intuition."
+    },
+    {
+        "message": "Something about that person feels like they're involved in some incident. Types like the boss, who are easy to trick, are a warning!"
+    },
+    {
+        "message": "Yeah, yeah, your intuition is amazing."
+    },
+    {
+        "message": "Come on, this time I'm gonna be right!"
+    },
+    {
+        "message": "Right? For some reason, Tony Ford is there. I was shocked."
+    },
+    {
+        "message": "There's no surprise in that."
+    },
+    {
+        "message": "Really? He's a famous actor in the theater world. Getting to see him up close is nothing short of surprising."
+    },
+    {
+        "message": "Famous actor?"
+    },
+    {
+        "message": "Is that really a compliment?"
+    },
+    {
+        "message": "Boss, you don’t know anything. That guy has a lot of dangerous rumors surrounding him."
+    },
+    {
+        "message": "No way, saying that in front of him!"
+    },
+    {
+        "message": "It's fine, he can't hear us."
+    },
+    {
+        "message": "Who’s"
+    },
+    {
+        "message": "his agent though?"
+    },
+    {
+        "message": "But those two really stick together, huh."
+    },
+    {
+        "message": "Well, that's important."
+    },
+    {
+        "message": "to protect against external enemies"
+    },
+    {
+        "message": "I suppose."
+    },
+    {
+        "message": "Who are the external enemies, and who is it that"
+    },
+    {
+        "message": "Well, putting that aside,"
+    },
+    {
+        "message": "Cindy and I are together, so it's only natural that I want to be by her side."
+    },
+    {
+        "message": "Together, huh?"
+    },
+    {
+        "message": "I wonder why you think like that."
+    },
+    {
+        "message": "Please don't make that exasperated face. I'm just stating facts!"
+    },
+    {
+        "message": "She only loves women, you know!"
+    },
+    {
+        "message": "You shouldn't throw around such statements carelessly."
+    },
+    {
+        "message": "But it's just a common rumor!"
+    },
+    {
+        "message": "It's frustrating because you won't believe anything I say."
+    },
+    {
+        "message": "Did she flirt with you or something?"
+    },
+    {
+        "message": "No, why would you say that?"
+    },
+    {
+        "message": "Oh! You really believed what I said earlier, huh?"
+    },
+    {
+        "message": "No, it's actually the opposite."
+    },
+    {
+        "message": "Yeah, yeah, you can't possibly believe what I said."
+    },
+    {
+        "message": "But you're actually quite a nice person."
+    },
+    {
+        "message": "I don't know about that? I feel like I've been getting the evil eye from you for a while."
+    },
+    {
+        "message": "It's because Boss is a guy."
+    },
+    {
+        "message": "I can't help but worry about when they'll make a move."
+    },
+    {
+        "message": "But maybe she's actually a real womanly woman."
+    },
+    {
+        "message": "That's cute, though. It just feels like I want to hug her!"
+    },
+    {
+        "message": "Was that the kind of type she was?"
+    },
+    {
+        "message": "Huh? Cute kids are loved beyond gender, you know."
+    },
+    {
+        "message": "Haa."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "But, you know, it would be nice to have a girl like that by my side. Hehe."
+    },
+    {
+        "message": "Actually, I"
+    },
+    {
+        "message": "have a photo book."
+    },
+    {
+        "message": "Is that so? Then you should’ve brought it today to get a signature."
+    },
+    {
+        "message": "Ah! Th-That completely slipped my mind."
+    },
+    {
+        "message": "Let's get closer then."
+    },
+    {
+        "message": "Nsu!! That's right."
+    },
+    {
+        "message": "No, really,"
+    },
+    {
+        "message": "isn’t human."
+    },
+    {
+        "message": "What’s that?"
+    },
+    {
+        "message": "I mean, she’s really cute, it’s hard to believe she's a woman."
+    },
+    {
+        "message": "Even when you do business, you don’t make a face of dislike."
+    },
+    {
+        "message": "If anything happens, I’ll definitely come to ask you."
+    },
+    {
+        "message": "You say such cute things."
+    },
+    {
+        "message": "Phew."
+    },
+    {
+        "message": "Hmm, so she’s coming to make a request."
+    },
+    {
+        "message": "But, if by any chance that happens,"
+    },
+    {
+        "message": "it seems like she will come."
+    },
+    {
+        "message": "Yeah,"
+    },
+    {
+        "message": "They might come, I guess."
+    },
+    {
+        "message": "But,"
+    },
+    {
+        "message": "if that's the case, there's no way they'd come to my place, right?"
+    },
+    {
+        "message": "Ah"
+    },
+    {
+        "message": "Ah, I wished I was born like"
+    },
+    {
+        "message": "her."
+    },
+    {
+        "message": "Modern sex symbols seem to have a pure appearance, right?"
+    },
+    {
+        "message": "Modern sex symbols!?"
+    },
+    {
+        "message": "That's right! She’s all about that.”"
+    },
+    {
+        "message": "I don’t really get that vibe, though."
+    },
+    {
+        "message": "Even if you say you don’t feel that way, that’s not okay."
+    },
+    {
+        "message": "Could it be that you didn’t know about her existence until today?"
+    },
+    {
+        "message": "That's not true, I've seen the movie."
+    },
+    {
+        "message": "Oh? So maybe you're secretly a fan?"
+    },
+    {
+        "message": "Not really, that's not it."
+    },
+    {
+        "message": "You don't have to be shy about it. Hehe."
+    },
+    {
+        "message": "She has a calm image, doesn't she?"
+    },
+    {
+        "message": "Is Meryl a fussy person?"
+    },
+    {
+        "message": "Why would that be?"
+    },
+    {
+        "message": "You know, he gets pretty annoyed when you talk to him."
+    },
+    {
+        "message": "I hope I didn't do something to upset you?"
+    },
+    {
+        "message": "Well,"
+    },
+    {
+        "message": "I just said if you have any worries, feel free to consult our office."
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "But if you offend him, it can get really tough. It's fine if you don’t talk to him anymore."
+    },
+    {
+        "message": "Right."
+    },
+    {
+        "message": "Ah, but can I get his autograph first?"
+    },
+    {
+        "message": "Do whatever you want."
+    },
+    {
+        "message": "Hehe."
+    },
+    {
+        "message": "Oh! Maybe there are just too many distractions to get close to the director,"
+    },
+    {
+        "message": "and that's why he's annoyed. Hehe."
+    },
+    {
+        "message": "That's just ridiculous."
+    },
+    {
+        "message": "Well, it can surprisingly be like that, you know. Even actresses are just human."
+    },
+    {
+        "message": "Right?"
+    },
+    {
+        "message": "I heard Jennifer didn't get along with him, so that might be why he's irritated."
+    },
+    {
+        "message": "Director Fabar is surprisingly smart."
+    },
+    {
+        "message": "Huh? What's that supposed to mean?"
+    },
+    {
+        "message": "Because when you see directors in magazines or on TV, don't they look much chunkier?"
+    },
+    {
+        "message": "Not really."
+    },
+    {
+        "message": "It's just shocking, isn't it?"
+    },
+    {
+        "message": "But still,"
+    },
+    {
+        "message": "being a film director seems to be a lucrative job."
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "Yeah, this mansion is amazing."
+    },
+    {
+        "message": "With such a spacious mansion, living alone must be lonely."
+    },
+    {
+        "message": "Yeah, that's true."
+    },
+    {
+        "message": "But for living alone, this current place is good enough for me."
+    },
+    {
+        "message": "Hey, don't compare yourself to him."
+    },
+    {
+        "message": "Oh, why not?"
+    },
+    {
+        "message": "If I marry Director Fabar, this mansion could be mine, you know."
+    },
+    {
+        "message": "Director Fabar gets all squinty and grins when Meryl and Jennifer come."
+    },
+    {
+        "message": "I wonder why he always notices those things."
+    },
+    {
+        "message": "Being a detective, shouldn't he notice such things? He needs to pay attention."
+    },
+    {
+        "message": "I'm curious about the love triangle between Director Fabar, Meryl, and Jennifer."
+    },
+    {
+        "message": "Your eyes sparkle when you talk about stuff like that."
+    },
+    {
+        "message": "It's just that I'm really interested in it, you know. Hehe."
+    },
+    {
+        "message": "If the Boss became a movie director, he might have been able to do a lot of good things with actresses."
+    },
+    {
+        "message": "Is something going on with Guy?"
+    },
+    {
+        "message": "That's not really it, but..."
+    },
+    {
+        "message": "I mean, since we met up today, you haven't talked to Kristy, right?"
+    },
+    {
+        "message": "Gai?"
+    },
+    {
+        "message": "Yep, I’ve been checking quite a bit, you know."
+    },
+    {
+        "message": "Why were you looking at Gai so much?"
+    },
+    {
+        "message": "It's not just Gai I'm watching; I keep an eye on everyone."
+    },
+    {
+        "message": "What kind of person is Gai?"
+    },
+    {
+        "message": "He's just like he looks, a typical sports type."
+    },
+    {
+        "message": "His vocabulary is quite poor."
+    },
+    {
+        "message": "He seems like a refreshing young man, but doesn’t he feel like he’s acting a bit?"
+    },
+    {
+        "message": "The Gai I know still has the strong image of his student days. Or rather, I might only know Gai from his student days."
+    },
+    {
+        "message": "Well, I guess that's just how it is."
+    },
+    {
+        "message": "Gai is popular, so..."
+    },
+    {
+        "message": "San might have a hard time."
+    },
+    {
+        "message": "I didn't expect Gai to be such a ladies' man."
+    },
+    {
+        "message": "Don't express your disbelief like that. We're still best friends."
+    },
+    {
+        "message": "It's just that he's become quite different from the image I had before. I'm feeling a bit shocked."
+    },
+    {
+        "message": "From earlier,"
+    },
+    {
+        "message": "Meryl and Jennifer are the famous women he keeps approaching."
+    },
+    {
+        "message": "You don't have to make that angry face."
+    },
+    {
+        "message": "Why doesn't he talk to me?"
+    },
+    {
+        "message": "I'm glad I'm not Gai's fiancée."
+    },
+    {
+        "message": "San looked a bit bored not being able to talk to Gai."
+    },
+    {
+        "message": "Really? I think I'm acting normally."
+    },
+    {
+        "message": "Haaa, Boss, you're really"
+    },
+    {
+        "message": "so dense. With you being a detective, it feels like a huge lie."
+    },
+    {
+        "message": "H-horrible."
+    },
+    {
+        "message": "Boss, please try to act more like a detective!"
+    },
+    {
+        "message": "How about going to  and comforting them?"
+    },
+    {
+        "message": "Why should I?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Well, you're friends, right?"
+    },
+    {
+        "message": "But Boss,"
+    },
+    {
+        "message": "you're cold towards ."
+    },
+    {
+        "message": "You should talk more with ."
+    },
+    {
+        "message": "I’ll talk whenever I want to, no need for orders."
+    },
+    {
+        "message": "You can't think so naïvely. Now that Guy has become like that, the one suffering the most is"
+    },
+    {
+        "message": ", you know."
+    },
+    {
+        "message": "Speaking of which,"
+    },
+    {
+        "message": "I've heard you’ve been asking various things?"
+    },
+    {
+        "message": "Yes, since that's the only common topic we have. I can't think of anything else to talk about."
+    },
+    {
+        "message": "Ah, so that's why you were digging into my past."
+    },
+    {
+        "message": "When trying to prolong the conversation, it naturally led to that kind of questioning. So what?"
+    },
+    {
+        "message": "No, I just wondered what suddenly got into you."
+    },
+    {
+        "message": "That's all."
+    },
+    {
+        "message": "Boss, just so you know, I have no interest in dating someone like you. Sorry to ruin your expectations."
+    },
+    {
+        "message": "Have you and Guy always been like this?"
+    },
+    {
+        "message": "Do you know about the serial murder case?"
+    },
+    {
+        "message": "Of course! There's no way I wouldn't know."
+    },
+    {
+        "message": "You don't have to make such a scary face."
+    },
+    {
+        "message": "If I didn't know about such a gruesome incident, I wouldn't be myself!"
+    },
+    {
+        "message": "I wonder why you say that."
+    },
+    {
+        "message": "Anyway, as a detective, you can't afford not to know about that case."
+    },
+    {
+        "message": "Right."
+    },
+    {
+        "message": "Listen, you must never forgive a murderer who kills weak girls."
+    },
+    {
+        "message": "I'm not the one who will arrest them, you know?"
+    },
+    {
+        "message": "What kind of image do you have of the suspect?"
+    },
+    {
+        "message": "Even when asked about the sketch of a criminal I don't know much about."
+    },
+    {
+        "message": "Geez, it's just pathetic, isn't it? Is that really what a detective is?"
+    },
+    {
+        "message": "I assert that the perpetrator is either a pervert or a lunatic."
+    },
+    {
+        "message": "※※※　It's a bug　※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

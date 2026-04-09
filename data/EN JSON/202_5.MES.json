@@ -1,0 +1,422 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "The film crew had started filming again."
+    },
+    {
+        "message": "Hey, how's it going?"
+    },
+    {
+        "message": "Thanks for asking."
+    },
+    {
+        "message": "You seem a bit tired, huh?"
+    },
+    {
+        "message": "Geez, it's really a problem. No one comes to shoot properly. I can't figure out what these modern agents are thinking."
+    },
+    {
+        "message": "Hey."
+    },
+    {
+        "message": "I was just bored alone."
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "Director　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About filming　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "　About Gabriela　"
+    },
+    {
+        "message": "About the director"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About filming　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "　Gabriella　"
+    },
+    {
+        "message": "　　to another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "Again, there are no standout actors, and it seems the director finds this shoot unworthy."
+    },
+    {
+        "message": "The rest of the staff are busily working."
+    },
+    {
+        "message": "It's like this place has become a different space."
+    },
+    {
+        "message": "There seem to be many things not going as planned, and it looks like it's really taking a toll on him."
+    },
+    {
+        "message": "If only there were a good story, it might brighten up his spirits."
+    },
+    {
+        "message": "I feel like I haven't seen the director's genuine smile in a long time."
+    },
+    {
+        "message": "At this rate, we can claim penalties."
+    },
+    {
+        "message": "Penalties? That's true. If we declare the penalties, they might show up more seriously."
+    },
+    {
+        "message": "By the way, the main actor didn’t show up at the party, did he? My secretary was disappointed."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "He's stuck in Hollywood for the final shoot of another movie."
+    },
+    {
+        "message": "Sounds like a tight schedule."
+    },
+    {
+        "message": "Yeah, since I specifically requested him, I can't complain about putting him under pressure. But if this keeps going on..."
+    },
+    {
+        "message": "Speaking of which, did a woman named Gabriela call?"
+    },
+    {
+        "message": "Yes. As usual, it was a request to find someone."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "Well, both Gabriela and Ginny are in trouble. A wrist being delivered is something else."
+    },
+    {
+        "message": "A wrist being delivered?"
+    },
+    {
+        "message": "What on earth does that mean?"
+    },
+    {
+        "message": "Huh, didn't Gabriela tell you?!"
+    },
+    {
+        "message": "I thought Gabriela was the one sharing the news."
+    },
+    {
+        "message": "What about Meryl since then?"
+    },
+    {
+        "message": "What can you do?"
+    },
+    {
+        "message": "I have no clue what she's thinking."
+    },
+    {
+        "message": "That sounds tough."
+    },
+    {
+        "message": "Yeah, I've given up on it."
+    },
+    {
+        "message": "Meryl's been a challenge too."
+    },
+    {
+        "message": "She's entering a difficult period herself."
+    },
+    {
+        "message": "It seems like she's feeling that way too."
+    },
+    {
+        "message": "Yeah, that's right. This is her crucial moment."
+    },
+    {
+        "message": "I really want Meryl to get through this."
+    },
+    {
+        "message": "Recently, Jennifer has been in a bad mood."
+    },
+    {
+        "message": "R-Really?"
+    },
+    {
+        "message": "It's just frustrating, really."
+    },
+    {
+        "message": "I've seriously gotten tired of it."
+    },
+    {
+        "message": "Director."
+    },
+    {
+        "message": "Ah, I don't have any talent for manipulating people."
+    },
+    {
+        "message": "I just wish she'd get along with Meryl."
+    },
+    {
+        "message": "Sorry, but I don't want to talk about that right now."
+    },
+    {
+        "message": "It's not exactly a situation where we can talk about anything."
+    },
+    {
+        "message": "I just want to throw my hands up and give up."
+    },
+    {
+        "message": "About Cindy..."
+    },
+    {
+        "message": "I feel bad for you. It seems like Gloria is searching on her own."
+    },
+    {
+        "message": "Surely, she knows where she is, right?"
+    },
+    {
+        "message": "Even if she doesn't know exactly, she seems to have an idea."
+    },
+    {
+        "message": "Even if Cindy comes back now, she can't handle the shooting alone."
+    },
+    {
+        "message": "Ah, this is giving me a headache."
+    },
+    {
+        "message": "I don't understand her. I have no idea what she's thinking."
+    },
+    {
+        "message": "She's expressionless."
+    },
+    {
+        "message": "As Cindy's agent, I need her to do her job a bit better."
+    },
+    {
+        "message": "Have you heard from Gloria?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "No, not at all. She's probably trying to find Cindy on her own."
+    },
+    {
+        "message": "What's everyone thinking, anyway?"
+    },
+    {
+        "message": "About Guy..."
+    },
+    {
+        "message": "It seems he won't be back for about a month."
+    },
+    {
+        "message": "What!? How can we film without him for a whole month?"
+    },
+    {
+        "message": "I didn't hear it directly, though."
+    },
+    {
+        "message": "Then who is saying that?"
+    },
+    {
+        "message": "A BAM reporter, a woman named Eva Courtney."
+    },
+    {
+        "message": "BAM? I can't trust anything that writer from a third-rate magazine says."
+    },
+    {
+        "message": "I need Guy to return quickly."
+    },
+    {
+        "message": "Do you know where Guy has gone? I haven't received a word from him."
+    },
+    {
+        "message": "I haven't heard anything from him either."
+    },
+    {
+        "message": "I don't think it's fair to blame you, but please understand we're having a tough time here."
+    },
+    {
+        "message": "I wonder what will happen with this movie."
+    },
+    {
+        "message": "Gabriela is a bit of an acquaintance. She said she's in trouble, so I introduced her to you."
+    },
+    {
+        "message": "I received your call, so I came to meet you."
+    },
+    {
+        "message": "I see. I'm really sorry for all the issues you're dealing with."
+    },
+    {
+        "message": "No, I'm actually glad to receive the request."
+    },
+    {
+        "message": "Well, it's really appreciated that you say that."
+    },
+    {
+        "message": "Gabriela's going through a rough time too, so please help her out."
+    },
+    {
+        "message": "I honestly thought that topic would come up, but I guess it didn't."
+    },
+    {
+        "message": "The wrist is going to be delivered."
+    },
+    {
+        "message": "What on earth does that mean?"
+    },
+    {
+        "message": "Ginny's."
+    },
+    {
+        "message": "No, you should probably ask Gabriela for more details."
+    },
+    {
+        "message": "Gabriela's going to be mad at me."
+    },
+    {
+        "message": "The director is actually quite a broad-minded person. If I were the director, I wouldn't be able to stay calm in this situation."
+    },
+    {
+        "message": "Maybe it would be better to just take a vacation and rest properly?"
+    },
+    {
+        "message": "Meryl still hasn't come to filming."
+    },
+    {
+        "message": "Part of the reason might be that Ariana can't be found."
+    },
+    {
+        "message": "I think she's having her own set of difficulties, but how long is she planning to continue like this?"
+    },
+    {
+        "message": "Jennifer is really getting the short end of the stick here. The co-stars aren't showing up, and filming isn't progressing."
+    },
+    {
+        "message": "I start to feel sympathy for her."
+    },
+    {
+        "message": "The director has a calm work style. They probably have a well-planned schedule, but even so, that must be tough."
+    },
+    {
+        "message": "I'm not involved, but I'm starting to worry about how this movie will turn out."
+    },
+    {
+        "message": "Cindy seems to have been missing since then."
+    },
+    {
+        "message": "However, the fact that it hasn't leaked to the media suggests that Gloria likely knows where she is."
+    },
+    {
+        "message": "Still, it's not good to neglect work."
+    },
+    {
+        "message": "I really have no idea about her. Honestly, I don't even want to know."
+    },
+    {
+        "message": "I guess I'm wandering around looking for Cindy by now."
+    },
+    {
+        "message": "Was thinking of Guy as a best friend just a delusion?"
+    },
+    {
+        "message": "I don't know anything about him anymore."
+    },
+    {
+        "message": "I'm curious about the connection between Gabriela and the director."
+    },
+    {
+        "message": "There's no way the director is one of the clients, right?"
+    },
+    {
+        "message": "I'm also wondering about the relationship between Gabriela and the director."
+    },
+    {
+        "message": "It seems to be more serious than I thought. I feel like it might be better to rely on the police."
+    },
+    {
+        "message": "Gabriela didn't tell me something important."
+    },
+    {
+        "message": "It's about time I take my leave. I'm sorry for being a bother."
+    },
+    {
+        "message": "Come visit again."
+    },
+    {
+        "message": "※※※ This is a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

@@ -1,0 +1,1172 @@
+[
+    {
+        "src": "アイデス",
+        "dst": "AIDIS",
+        "info": "Organization",
+        "count": 1
+    },
+    {
+        "src": "アカデミー賞",
+        "dst": "Academy Award",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "アシュレイ",
+        "dst": "Ashley",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "アッシュ",
+        "dst": "Ash",
+        "info": "Male Name",
+        "count": 23
+    },
+    {
+        "src": "アッパーウエスト",
+        "dst": "Upper West",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "アッパーマンハッタン",
+        "dst": "Upper Manhattan",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "アネット",
+        "dst": "Annette",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "アメリカ",
+        "dst": "America",
+        "info": "Location",
+        "count": 9
+    },
+    {
+        "src": "アリアナ",
+        "dst": "Ariana",
+        "info": "Female Name",
+        "count": 54
+    },
+    {
+        "src": "アン",
+        "dst": "Ann",
+        "info": "Female Name",
+        "count": 16
+    },
+    {
+        "src": "アンジュ",
+        "dst": "Anju",
+        "info": "Female Name",
+        "count": 17
+    },
+    {
+        "src": "アンディ",
+        "dst": "Andy",
+        "info": "Male Name",
+        "count": 7
+    },
+    {
+        "src": "アンナ",
+        "dst": "Anna",
+        "info": "Female Name",
+        "count": 55
+    },
+    {
+        "src": "イーストリバー",
+        "dst": "East River",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "ウィートン",
+        "dst": "Wheaton",
+        "info": "Clan or Family",
+        "count": 1
+    },
+    {
+        "src": "ウブドゥール",
+        "dst": "Ubud",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "エスコートサービス",
+        "dst": "Escort Service",
+        "info": "Organization",
+        "count": 7
+    },
+    {
+        "src": "エディ",
+        "dst": "Eddie",
+        "info": "Male Name",
+        "count": 4
+    },
+    {
+        "src": "エヴァ",
+        "dst": "Eva",
+        "info": "Female Name",
+        "count": 93
+    },
+    {
+        "src": "オアシス",
+        "dst": "Oasis",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "オフィス",
+        "dst": "office",
+        "info": "Location",
+        "count": 30
+    },
+    {
+        "src": "オートクチュール",
+        "dst": "haute couture",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "カウパーデール",
+        "dst": "Cowperdale",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "カウンセリング",
+        "dst": "Counseling",
+        "info": "Special Item",
+        "count": 33
+    },
+    {
+        "src": "カシミアセーター",
+        "dst": "cashmere sweater",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "カスバ",
+        "dst": "Kasbah",
+        "info": "Organization",
+        "count": 6
+    },
+    {
+        "src": "カバス",
+        "dst": "Kavas",
+        "info": "Organization",
+        "count": 4
+    },
+    {
+        "src": "カメラ",
+        "dst": "camera",
+        "info": "Special Item",
+        "count": 3
+    },
+    {
+        "src": "カーペット",
+        "dst": "carpet",
+        "info": "Special Item",
+        "count": 5
+    },
+    {
+        "src": "ガイ",
+        "dst": "Guy",
+        "info": "Male Name",
+        "count": 531
+    },
+    {
+        "src": "ゴールドスタイン",
+        "dst": "Goldstein",
+        "info": "Male Name, Surname",
+        "count": 2
+    },
+    {
+        "src": "ガブリエラ",
+        "dst": "Gabriela",
+        "info": "Female Name",
+        "count": 34
+    },
+    {
+        "src": "ガリソン",
+        "dst": "Garrison",
+        "info": "Male Name",
+        "count": 9
+    },
+    {
+        "src": "ガレ",
+        "dst": "Gare",
+        "info": "Clan or Family",
+        "count": 1
+    },
+    {
+        "src": "ギュンター",
+        "dst": "Günter",
+        "info": "Male Name",
+        "count": 55
+    },
+    {
+        "src": "クイーンズの孤児院",
+        "dst": "Queens Orphanage",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "クラブ",
+        "dst": "Club",
+        "info": "Organization",
+        "count": 11
+    },
+    {
+        "src": "クラムチャウダー",
+        "dst": "Clam Chowder",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "クランクイン",
+        "dst": "Crank In",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "クリスティ",
+        "dst": "Kristy",
+        "info": "Female Name",
+        "count": 162
+    },
+    {
+        "src": "ダーン",
+        "dst": "Dern",
+        "info": "Female Name, Surname",
+        "count": 7
+    },
+    {
+        "src": "クレイバーグ夫妻",
+        "dst": "the Kleiberg couple",
+        "info": "Clan or Family",
+        "count": 1
+    },
+    {
+        "src": "グッゲンハイム美術館",
+        "dst": "Guggenheim Museum",
+        "info": "Organization",
+        "count": 6
+    },
+    {
+        "src": "グツゲンハイム美術館",
+        "dst": "Guggenheim Museum",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "グランドピアノ",
+        "dst": "grand piano",
+        "info": "Special Item",
+        "count": 3
+    },
+    {
+        "src": "グリニッジビレッジ",
+        "dst": "Greenwich Village",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "グリニッチビレッジ",
+        "dst": "Greenwich Village",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "グロリア",
+        "dst": "Gloria",
+        "info": "Female Name",
+        "count": 95
+    },
+    {
+        "src": "ウォン",
+        "dst": "Won",
+        "info": "Female Name, Surname",
+        "count": 2
+    },
+    {
+        "src": "ケープコッド",
+        "dst": "Cape Cod",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "ゲイクラブ",
+        "dst": "Gay Club",
+        "info": "Organization",
+        "count": 3
+    },
+    {
+        "src": "ゲーム",
+        "dst": "game",
+        "info": "Special Item",
+        "count": 4
+    },
+    {
+        "src": "コスナー",
+        "dst": "Cosner",
+        "info": "Male Name",
+        "count": 2
+    },
+    {
+        "src": "コロラドスプリングス",
+        "dst": "Colorado Springs",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "コロンバス街",
+        "dst": "Columbus Street",
+        "info": "Location",
+        "count": 5
+    },
+    {
+        "src": "コロンビア大学",
+        "dst": "Columbia University",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "コートニー",
+        "dst": "Courtney",
+        "info": "Female Name",
+        "count": 7
+    },
+    {
+        "src": "コーヒーショップ",
+        "dst": "coffee shop",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "ゴードン",
+        "dst": "Gordon",
+        "info": "Male Name",
+        "count": 12
+    },
+    {
+        "src": "サンフランシスコ",
+        "dst": "San Francisco",
+        "info": "Location",
+        "count": 5
+    },
+    {
+        "src": "システム",
+        "dst": "System",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "シャンタール",
+        "dst": "Chantal",
+        "info": "Organization",
+        "count": 1
+    },
+    {
+        "src": "シン",
+        "dst": "Shin",
+        "info": "Male Name",
+        "count": 16
+    },
+    {
+        "src": "シンディ",
+        "dst": "Cindy",
+        "info": "Female Name",
+        "count": 318
+    },
+    {
+        "src": "ジェイク",
+        "dst": "Jake",
+        "info": "Male Name",
+        "count": 5
+    },
+    {
+        "src": "スナイプス",
+        "dst": "Snipes",
+        "info": "Male Name, Surname",
+        "count": 3
+    },
+    {
+        "src": "ジェニファー",
+        "dst": "Jennifer",
+        "info": "Female Name",
+        "count": 164
+    },
+    {
+        "src": "ランフォード",
+        "dst": "Rumford",
+        "info": "Female Name, Surname",
+        "count": 5
+    },
+    {
+        "src": "ジニー",
+        "dst": "Ginny",
+        "info": "Female Name",
+        "count": 92
+    },
+    {
+        "src": "ジニーの指輪",
+        "dst": "Ginnie's ring",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "ジャガー",
+        "dst": "Jaguar",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "スカッキ",
+        "dst": "Skakki",
+        "info": "Female Name",
+        "count": 19
+    },
+    {
+        "src": "スナイプス探偵事務所",
+        "dst": "Snipes Detective Agency",
+        "info": "Organization",
+        "count": 1
+    },
+    {
+        "src": "スナッフビデオ",
+        "dst": "Snuff Video",
+        "info": "Special Item",
+        "count": 6
+    },
+    {
+        "src": "スミオ",
+        "dst": "Sumio",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "セントラルパーク",
+        "dst": "Central Park",
+        "info": "Location",
+        "count": 11
+    },
+    {
+        "src": "セントレジスホテル",
+        "dst": "St. Regis Hotel",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "セントレジナス",
+        "dst": "St. Reginus",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "セントレジナスホテル",
+        "dst": "St. Regis Hotel",
+        "info": "Location",
+        "count": 5
+    },
+    {
+        "src": "セーブ",
+        "dst": "Save",
+        "info": "Special Item",
+        "count": 5
+    },
+    {
+        "src": "ソファ",
+        "dst": "sofa",
+        "info": "Special Item",
+        "count": 13
+    },
+    {
+        "src": "ダーン家",
+        "dst": "Dern Family",
+        "info": "Clan or Family",
+        "count": 4
+    },
+    {
+        "src": "チャイナタウン",
+        "dst": "Chinatown",
+        "info": "Location",
+        "count": 8
+    },
+    {
+        "src": "チャーリー",
+        "dst": "Charlie",
+        "info": "Male Name",
+        "count": 13
+    },
+    {
+        "src": "ティム",
+        "dst": "Tim",
+        "info": "Male Name",
+        "count": 51
+    },
+    {
+        "src": "テッド",
+        "dst": "Ted",
+        "info": "Male Name",
+        "count": 5
+    },
+    {
+        "src": "ディオリッシモ",
+        "dst": "Diorissimo",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "デコイハウス",
+        "dst": "Decoy House",
+        "info": "Special Item",
+        "count": 12
+    },
+    {
+        "src": "デトロイト",
+        "dst": "Detroit",
+        "info": "Location",
+        "count": 3
+    },
+    {
+        "src": "デヴィッド",
+        "dst": "David",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "データベース",
+        "dst": "Database",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "トニー",
+        "dst": "Tonny",
+        "info": "Male Name",
+        "count": 122
+    },
+    {
+        "src": "フォード",
+        "dst": "Ford",
+        "info": "Male Name, Surname",
+        "count": 12
+    },
+    {
+        "src": "トランプタワー",
+        "dst": "Trump Tower",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "ドレス",
+        "dst": "dress",
+        "info": "Special Item",
+        "count": 9
+    },
+    {
+        "src": "ニュー",
+        "dst": "New",
+        "info": "Location",
+        "count": 15
+    },
+    {
+        "src": "ニューヨーク",
+        "dst": "New York",
+        "info": "Location",
+        "count": 59
+    },
+    {
+        "src": "ネッツ",
+        "dst": "Nets",
+        "info": "Organization",
+        "count": 10
+    },
+    {
+        "src": "ハドソン川",
+        "dst": "Hudson River",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "ハリウッド",
+        "dst": "Hollywood",
+        "info": "Location",
+        "count": 9
+    },
+    {
+        "src": "バグ",
+        "dst": "bug",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "バリ",
+        "dst": "Bali",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "パトリシア",
+        "dst": "Patricia",
+        "info": "Female Name",
+        "count": 48
+    },
+    {
+        "src": "ビバリーヒルズ",
+        "dst": "Beverly Hills",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "ファーバー監督",
+        "dst": "Director Fabar",
+        "info": "Male Name",
+        "count": 31
+    },
+    {
+        "src": "ファーバー邸",
+        "dst": "Fabar Mansion",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "フィッシュ＆チップス",
+        "dst": "Fish and Chips",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "フルーツナイフ",
+        "dst": "fruit knife",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "ブローチ",
+        "dst": "brooch",
+        "info": "Special Item",
+        "count": 3
+    },
+    {
+        "src": "プロダクション",
+        "dst": "Production",
+        "info": "Organization",
+        "count": 1
+    },
+    {
+        "src": "ベイクドアップル",
+        "dst": "Baked Apple",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "ベイクドアップル社",
+        "dst": "Baked Apple Inc.",
+        "info": "Organization",
+        "count": 3
+    },
+    {
+        "src": "ベネッタ",
+        "dst": "Veneta",
+        "info": "Female Name",
+        "count": 3
+    },
+    {
+        "src": "ホテル",
+        "dst": "Hotel",
+        "info": "Location",
+        "count": 31
+    },
+    {
+        "src": "ボス",
+        "dst": "Boss",
+        "info": "Male Name",
+        "count": 97
+    },
+    {
+        "src": "ボストン",
+        "dst": "Boston",
+        "info": "Location",
+        "count": 12
+    },
+    {
+        "src": "ポーター",
+        "dst": "Porter",
+        "info": "Male Name",
+        "count": 3
+    },
+    {
+        "src": "マイアミ",
+        "dst": "Miami",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "マイティ",
+        "dst": "Mighty",
+        "info": "Male Name",
+        "count": 2
+    },
+    {
+        "src": "マイルス",
+        "dst": "Miles",
+        "info": "Male Name",
+        "count": 4
+    },
+    {
+        "src": "マオカラー",
+        "dst": "Mao Color",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "マルベリー通り",
+        "dst": "Mulberry Street",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "マンション",
+        "dst": "Apartment",
+        "info": "Location",
+        "count": 9
+    },
+    {
+        "src": "マンハッタン",
+        "dst": "Manhattan",
+        "info": "Location",
+        "count": 9
+    },
+    {
+        "src": "マンハッタン島",
+        "dst": "Manhattan",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "マーティン",
+        "dst": "Martin",
+        "info": "Male Name",
+        "count": 12
+    },
+    {
+        "src": "ファーバー",
+        "dst": "Fabar",
+        "info": "Male Name, Surname",
+        "count": 5
+    },
+    {
+        "src": "メリッサ",
+        "dst": "Melissa",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "メリル",
+        "dst": "Meryl",
+        "info": "Female Name",
+        "count": 349
+    },
+    {
+        "src": "クライン",
+        "dst": "Kline",
+        "info": "Female Name, Surname",
+        "count": 8
+    },
+    {
+        "src": "モーリス",
+        "dst": "Maurice",
+        "info": "Male Name",
+        "count": 3
+    },
+    {
+        "src": "モーリス刑事",
+        "dst": "Detective Maurice",
+        "info": "Male Name",
+        "count": 3
+    },
+    {
+        "src": "ヤマちゃん",
+        "dst": "Yama",
+        "info": "Female Name",
+        "count": 4
+    },
+    {
+        "src": "ユリコ",
+        "dst": "Yuriko",
+        "info": "Female Name",
+        "count": 41
+    },
+    {
+        "src": "オブライエン",
+        "dst": "Obrien",
+        "info": "Female Name, Surname",
+        "count": 41
+    },
+    {
+        "src": "ヨシハラ",
+        "dst": "Yoshihara",
+        "info": "Male Name",
+        "count": 2
+    },
+    {
+        "src": "ライバル会社",
+        "dst": "rival company",
+        "info": "Organization",
+        "count": 1
+    },
+    {
+        "src": "リトルイタリー",
+        "dst": "Little Italy",
+        "info": "Location",
+        "count": 8
+    },
+    {
+        "src": "ルビー",
+        "dst": "Ruby",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "ルミノール",
+        "dst": "luminol",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "ルミノール試薬",
+        "dst": "Luminol reagent",
+        "info": "Special Item",
+        "count": 4
+    },
+    {
+        "src": "レインツリー",
+        "dst": "Rain Tree",
+        "info": "Location",
+        "count": 5
+    },
+    {
+        "src": "ロケ現場",
+        "dst": "location shooting site",
+        "info": "Location",
+        "count": 2
+    },
+    {
+        "src": "ロケ隊",
+        "dst": "Film Crew",
+        "info": "Organization",
+        "count": 14
+    },
+    {
+        "src": "ロサンジェルス",
+        "dst": "Los Angeles",
+        "info": "Location",
+        "count": 4
+    },
+    {
+        "src": "ロス",
+        "dst": "Los Angeles",
+        "info": "Location",
+        "count": 4
+    },
+    {
+        "src": "ロブスター",
+        "dst": "lobster",
+        "info": "Special Creature",
+        "count": 1
+    },
+    {
+        "src": "ローストビーフサンド",
+        "dst": "Roast Beef Sandwich",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "ローラ",
+        "dst": "Laura",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "上海",
+        "dst": "Shanghai",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "中村剛",
+        "dst": "Tsuyoshi Nakamura",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "事務所",
+        "dst": "Office",
+        "info": "Location",
+        "count": 64
+    },
+    {
+        "src": "事務用デスク",
+        "dst": "Office Desk",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "井上博文",
+        "dst": "Hirofumi Inoue",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "写真立て",
+        "dst": "photo frame",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "双子の妹",
+        "dst": "Twins sister",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "可愛い娘",
+        "dst": "Cute Daughter",
+        "info": "Female Name",
+        "count": 2
+    },
+    {
+        "src": "塩見元",
+        "dst": "Gen Shioi",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "変質者",
+        "dst": "pervert",
+        "info": "Male Name",
+        "count": 5
+    },
+    {
+        "src": "女",
+        "dst": "Woman",
+        "info": "Female Name",
+        "count": 217
+    },
+    {
+        "src": "女優",
+        "dst": "Actress",
+        "info": "Female Name",
+        "count": 63
+    },
+    {
+        "src": "妻",
+        "dst": "Wife",
+        "info": "Female Name",
+        "count": 5
+    },
+    {
+        "src": "小林",
+        "dst": "Kobayashi",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "少年",
+        "dst": "Boy",
+        "info": "Male Name",
+        "count": 13
+    },
+    {
+        "src": "店内",
+        "dst": "Inside the Bar",
+        "info": "Location",
+        "count": 21
+    },
+    {
+        "src": "彼",
+        "dst": "He",
+        "info": "Male Name",
+        "count": 179
+    },
+    {
+        "src": "彼女",
+        "dst": "She",
+        "info": "Female Name",
+        "count": 426
+    },
+    {
+        "src": "映画の関係者",
+        "dst": "film industry personnel",
+        "info": "Organization",
+        "count": 2
+    },
+    {
+        "src": "暖炉",
+        "dst": "fireplace",
+        "info": "Special Item",
+        "count": 3
+    },
+    {
+        "src": "森文代",
+        "dst": "Fumiyo Mori",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "機関銃",
+        "dst": "machine gun",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "母方の実家",
+        "dst": "maternal home",
+        "info": "Location",
+        "count": 1
+    },
+    {
+        "src": "毛皮のラグ",
+        "dst": "fur rug",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "激辛キムチピザ",
+        "dst": "Spicy Kimchi Pizza",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "瀬川繭子",
+        "dst": "Mayuko Segawa",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "独楽鼠",
+        "dst": "Japanese Dancing Mouse",
+        "info": "Special Creature",
+        "count": 1
+    },
+    {
+        "src": "猟奇殺人事件",
+        "dst": "Serial Murder Case",
+        "info": "Special Item",
+        "count": 40
+    },
+    {
+        "src": "球団",
+        "dst": "baseball team",
+        "info": "Organization",
+        "count": 26
+    },
+    {
+        "src": "田舎",
+        "dst": "countryside",
+        "info": "Location",
+        "count": 3
+    },
+    {
+        "src": "石原裕",
+        "dst": "Hiroshi Ishihara",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "美術館",
+        "dst": "Art Museum",
+        "info": "Location",
+        "count": 7
+    },
+    {
+        "src": "聖母",
+        "dst": "Holy Mother",
+        "info": "Special Item",
+        "count": 7
+    },
+    {
+        "src": "赤いスーツ",
+        "dst": "Red Suit",
+        "info": "Special Item",
+        "count": 4
+    },
+    {
+        "src": "部屋",
+        "dst": "room",
+        "info": "Special Item",
+        "count": 201
+    },
+    {
+        "src": "金ぴか製品",
+        "dst": "Gold-plated Products",
+        "info": "Special Item",
+        "count": 2
+    },
+    {
+        "src": "金杉ハジメ",
+        "dst": "Hajime Kanesugi",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "鈴木まさえ",
+        "dst": "Masae Suzuki",
+        "info": "Female Name",
+        "count": 1
+    },
+    {
+        "src": "鈴木喜盛",
+        "dst": "Yoshikatsu Suzuki",
+        "info": "Male Name",
+        "count": 1
+    },
+    {
+        "src": "鍵",
+        "dst": "key",
+        "info": "Special Item",
+        "count": 29
+    },
+    {
+        "src": "鏡",
+        "dst": "mirror",
+        "info": "Special Item",
+        "count": 3
+    },
+    {
+        "src": "革のソファ",
+        "dst": "leather sofa",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "香",
+        "dst": "incense",
+        "info": "Special Item",
+        "count": 17
+    },
+    {
+        "src": "高級クラブ",
+        "dst": "High-end Club",
+        "info": "Organization",
+        "count": 2
+    },
+    {
+        "src": "高級マンション",
+        "dst": "luxury apartment",
+        "info": "Special Item",
+        "count": 1
+    },
+    {
+        "src": "魔物",
+        "dst": "monster",
+        "info": "Special Creature",
+        "count": 1
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Patricia"
+    },
+    {
+        "message": "Jennifer"
+    },
+    {
+        "message": "Fabar"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Nice to meet you, Miss Rumford."
+    },
+    {
+        "message": "Hello. I was just getting bored, looking for someone to talk to."
+    },
+    {
+        "message": "Would you mind being that person?"
+    },
+    {
+        "message": "Is something the matter?"
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "End the conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　About　the　party　"
+    },
+    {
+        "message": "　　About the movie　　"
+    },
+    {
+        "message": "About it　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About the director"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "With a beauty like this in front of me, no matter how glamorous or wonderful the place is, it all fades."
+    },
+    {
+        "message": "There's no point in worrying about the surroundings."
+    },
+    {
+        "message": "I wonder why people in visible professions shine so brightly."
+    },
+    {
+        "message": "The gaze that looks straight at me pierces my chest painfully."
+    },
+    {
+        "message": "Just standing there, that figure is already complete."
+    },
+    {
+        "message": "I can't believe such a beautiful woman would stab someone."
+    },
+    {
+        "message": "But then again, people can be deceiving. It's probably not good to be swayed by appearances."
+    },
+    {
+        "message": "Being beautiful can lead to sin all on its own."
+    },
+    {
+        "message": "I am"
+    },
+    {
+        "message": "- Snipes. It's an honor to meet you tonight."
+    },
+    {
+        "message": "- Mr. Snipes? Ah."
+    },
+    {
+        "message": "Well, our initials are the same."
+    },
+    {
+        "message": "Oh, speaking of which,"
+    },
+    {
+        "message": "we both have names that start with J."
+    },
+    {
+        "message": "It must be fate that we met today; nice to meet you."
+    },
+    {
+        "message": "How are you involved in this movie?"
+    },
+    {
+        "message": "I just participated at the invitation of a friend."
+    },
+    {
+        "message": "Friend?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Yes, it's Guy Goldstein."
+    },
+    {
+        "message": "Oh, I see. I didn’t know that."
+    },
+    {
+        "message": "I was recognized as an actress because"
+    },
+    {
+        "message": "of my role in"
+    },
+    {
+        "message": "The Structure of Madness."
+    },
+    {
+        "message": "No, it was your heartfelt performance that was recognized."
+    },
+    {
+        "message": "I hope that's true."
+    },
+    {
+        "message": "I'm still nowhere near good enough. That role mostly focused on acting in bed."
+    },
+    {
+        "message": "That’s probably just in your head, or perhaps it’s a result of jealousy."
+    },
+    {
+        "message": "Do you really think so? I can't tell."
+    },
+    {
+        "message": "Since we have this opportunity, I would like to have a pleasant conversation."
+    },
+    {
+        "message": "I’ve come to understand that people’s words can sometimes turn into violence."
+    },
+    {
+        "message": "I heard from someone that you stabbed someone in the past. That might just be one of the bad rumors."
+    },
+    {
+        "message": "It's a terrible story, isn't it?"
+    },
+    {
+        "message": "Fame tax can be quite costly, can't it? The thought of how long this lifestyle will continue makes me feel down."
+    },
+    {
+        "message": "It really brings me down."
+    },
+    {
+        "message": "It must be tough for you, but just try to not think about it right now."
+    },
+    {
+        "message": "Yeah, I get that."
+    },
+    {
+        "message": "Defamation, all sorts of rumors."
+    },
+    {
+        "message": "Just when I thought I was recognized as an actress, unpleasant things kept happening."
+    },
+    {
+        "message": "This party is,"
+    },
+    {
+        "message": "I heard it's a tradition of the director. Apparently, it's something they always do right before cranking in."
+    },
+    {
+        "message": "Seems like it, yeah."
+    },
+    {
+        "message": "To be honest, I'm not really good at events like this."
+    },
+    {
+        "message": "You might find this surprising, but I'm not great in crowded places."
+    },
+    {
+        "message": "The director’s house is spacious. They have more than enough space for a party."
+    },
+    {
+        "message": "It seems like a room purpose-built for hosting parties."
+    },
+    {
+        "message": "Yeah, maybe it was designed with filming in mind too. It's wonderful."
+    },
+    {
+        "message": "I hope the director isn’t mad that I came late."
+    },
+    {
+        "message": "The movie has the title,"
+    },
+    {
+        "message": "Major Leaguer."
+    },
+    {
+        "message": "but the main theme is love, not sports."
+    },
+    {
+        "message": "When it comes to love, there are many forms, right?"
+    },
+    {
+        "message": "I've heard all types of love are depicted in this movie."
+    },
+    {
+        "message": "I'm playing a news anchor. I'm Guy's girlfriend."
+    },
+    {
+        "message": "G-Guy's girlfriend role!? That guy really hit the jackpot."
+    },
+    {
+        "message": "Hehe. But it seems like a pretty complicated couple, so I bet their interactions in the movie are mostly arguing."
+    },
+    {
+        "message": "I hope that with this role, I can finally shake off the label of a sex symbol."
+    },
+    {
+        "message": "Um, did our"
+    },
+    {
+        "message": "do something rude?"
+    },
+    {
+        "message": "Are you talking about that girl with the chestnut-brown hair? Was she your wife?"
+    },
+    {
+        "message": "Wife? That’s a terrible misunderstanding. She acts like my assistant."
+    },
+    {
+        "message": "Ah, right, I remember you opened a detective office."
+    },
+    {
+        "message": "So it seems,"
+    },
+    {
+        "message": "did get into business. Sorry, forget I said anything!"
+    },
+    {
+        "message": "Isn't it fine? I’ll definitely rely on you when I'm in trouble, so I appreciate it."
+    },
+    {
+        "message": "Is she Japanese?"
+    },
+    {
+        "message": "It seems her mother is Japanese."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "Her delicate charm comes from her birth, doesn’t it? I envy her."
+    },
+    {
+        "message": "You don’t have to flatter me; your words will just inflate my ego and make me harder to handle."
+    },
+    {
+        "message": "Oh, but that's my true feeling."
+    },
+    {
+        "message": "Hehe."
+    },
+    {
+        "message": "I’m not worried about her business activities, really."
+    },
+    {
+        "message": "Sorry, today is my first time meeting her."
+    },
+    {
+        "message": "All I know is that she’s the only daughter of the director."
+    },
+    {
+        "message": "By the way, I feel like she’s misunderstanding something."
+    },
+    {
+        "message": "I hope the misunderstanding can be cleared up somehow."
+    },
+    {
+        "message": "Misunderstanding? What could it be?"
+    },
+    {
+        "message": "No, maybe that's not something"
+    },
+    {
+        "message": "I have to tell you."
+    },
+    {
+        "message": "I heard you're a straight-A student."
+    },
+    {
+        "message": "I don't really know Tonny Ford that well."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "I'm curious why you're coming to today's party."
+    },
+    {
+        "message": "I'm not very familiar with it, so"
+    },
+    {
+        "message": "I'm sorry."
+    },
+    {
+        "message": "Actually, I heard you're on Tonny's bad side. What happened?"
+    },
+    {
+        "message": "Such a story could be"
+    },
+    {
+        "message": "No way."
+    },
+    {
+        "message": "From the director?"
+    },
+    {
+        "message": "I'll leave it to your imagination."
+    },
+    {
+        "message": "I can't think of any reason for someone to hold a grudge against me. But, there must be a reason why he speaks ill of me."
+    },
+    {
+        "message": "I don't want to talk about anything."
+    },
+    {
+        "message": "She's a bit difficult, you see."
+    },
+    {
+        "message": "Just talking to Cindy gets me in trouble."
+    },
+    {
+        "message": "It seems like I'm being targeted too."
+    },
+    {
+        "message": "In her case, she considers anyone approaching Cindy to be an enemy, you know. I wonder why that is."
+    },
+    {
+        "message": "I think she’s just really devoted to her work."
+    },
+    {
+        "message": "But that way, she ends up turning everyone into an enemy."
+    },
+    {
+        "message": "I’m actually close with Cindy. It’s a strange thing considering our age difference."
+    },
+    {
+        "message": "But age shouldn’t matter in such things."
+    },
+    {
+        "message": "Still, it does concern me a bit. Maybe to her, I’m like an older sister."
+    },
+    {
+        "message": "She’s a really nice girl, full of integrity and strength."
+    },
+    {
+        "message": "She should just go for it and aim to be a full-fledged actress."
+    },
+    {
+        "message": "Don’t you think she will?"
+    },
+    {
+        "message": "But I wonder if Gloria will allow that."
+    },
+    {
+        "message": "I think that’s a difficult situation."
+    },
+    {
+        "message": "Cindy seems to have her share of struggles too."
+    },
+    {
+        "message": "Meryl is both a good senior and a rival. I’m really looking forward to our first collaboration."
+    },
+    {
+        "message": "You two are surprisingly close, huh?"
+    },
+    {
+        "message": "Huh?!"
+    },
+    {
+        "message": "No, I’d heard some not-so-great rumors."
+    },
+    {
+        "message": "Ugh, no matter how much I try to behave, bad rumors just stick around."
+    },
+    {
+        "message": "I don’t hold any bad feelings towards her, and we’re not on bad terms. Or do you suspect something?"
+    },
+    {
+        "message": "It’s outrageous to think I’m suspicious."
+    },
+    {
+        "message": "I don’t know who told you what, but those are just baseless rumors."
+    },
+    {
+        "message": "I respect her."
+    },
+    {
+        "message": "I’m grateful she chose me."
+    },
+    {
+        "message": "You’re being modest."
+    },
+    {
+        "message": "No, I mean it."
+    },
+    {
+        "message": "It's an honor to be in the director's work."
+    },
+    {
+        "message": "The director is a wonderful person. I believe I can grow through this job."
+    },
+    {
+        "message": "I’m looking forward to it."
+    },
+    {
+        "message": "I really need to work hard."
+    },
+    {
+        "message": "There's so much to learn from the director."
+    },
+    {
+        "message": "I've heard about Guy's exploits."
+    },
+    {
+        "message": "Guy's a good guy, but he's quick with his hands, so be careful."
+    },
+    {
+        "message": "Oh, is that so? But with such a beautiful fiancé around..."
+    },
+    {
+        "message": "Men can be troublesome, can't they?"
+    },
+    {
+        "message": "I don't mix roles with my private life."
+    },
+    {
+        "message": "He was your fiancé, right?"
+    },
+    {
+        "message": "Yes."
+    },
+    {
+        "message": "He seems very intelligent, and you can tell he's well-bred. I heard he comes from a privileged background, but it feels like we live in completely different worlds."
+    },
+    {
+        "message": "He must have been raised in a fortunate environment."
+    },
+    {
+        "message": "Do you know about the serial murder case?"
+    },
+    {
+        "message": "Yes, I do. Since his movie role was that of a multiple personality murderer, I'm intrigued by incidents like that."
+    },
+    {
+        "message": "I see, I didn't know that."
+    },
+    {
+        "message": "I wonder what it's like to mutilate someone's body."
+    },
+    {
+        "message": "There were several cases targeting young girls in the past, but I've heard this time some body parts are missing."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Didn't you know? How is the culprit handling that?"
+    },
+    {
+        "message": "That’s chilling."
+    },
+    {
+        "message": "Why do such incidents happen?"
+    },
+    {
+        "message": "There are people who suspect you might be the culprit. Probably out of jealousy."
+    },
+    {
+        "message": "Since I played a role like that, people joke that I might be that way in real life."
+    },
+    {
+        "message": "You don’t get angry, huh? You seem to be listening as if it's someone else's problem."
+    },
+    {
+        "message": "I used to get angry."
+    },
+    {
+        "message": "But when there are too many instances, you just lose the energy to be angry."
+    },
+    {
+        "message": "I hope they catch the perpetrator soon."
+    },
+    {
+        "message": "※※※ It's a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

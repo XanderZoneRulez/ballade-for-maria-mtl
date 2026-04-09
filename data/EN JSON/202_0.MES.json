@@ -1,0 +1,599 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "Ginny"
+    },
+    {
+        "message": "Welcome back"
+    },
+    {
+        "message": "Ouch!"
+    },
+    {
+        "message": "You seem to be bursting with energy."
+    },
+    {
+        "message": "That boss sounds completely worn out."
+    },
+    {
+        "message": "Thank you for your hard work. Did anything good happen?"
+    },
+    {
+        "message": "Welcome back, Boss."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Call　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The situation around　　"
+    },
+    {
+        "message": "About Meryl's request"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　About Günter　"
+    },
+    {
+        "message": "　About Gabriela　"
+    },
+    {
+        "message": "About Meryl's request"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　About Cindy　"
+    },
+    {
+        "message": "　About Gloria　"
+    },
+    {
+        "message": "　About Günter　"
+    },
+    {
+        "message": "　About Gabriela　"
+    },
+    {
+        "message": "　　To another place.　　"
+    },
+    {
+        "message": "　　　Save.　　　"
+    },
+    {
+        "message": "End the game."
+    },
+    {
+        "message": "I guess I can't help but blankly stare at it; it's a habit from my free time."
+    },
+    {
+        "message": "I've been really tired lately."
+    },
+    {
+        "message": "Is there anything interesting around?"
+    },
+    {
+        "message": "What a pointless thing to do."
+    },
+    {
+        "message": "I'm always glued to my computer screen; what in the world am I doing?"
+    },
+    {
+        "message": "Even if I was playing a game, I wouldn't know."
+    },
+    {
+        "message": "It's so quiet when I'm facing the computer."
+    },
+    {
+        "message": "Boss, what was that about Gabriela?"
+    },
+    {
+        "message": "Looking for people again."
+    },
+    {
+        "message": "Are we looking for people again!? It feels more like a people-finding agency than a detective office."
+    },
+    {
+        "message": "Right, Boss, how about we go for some relaxation?"
+    },
+    {
+        "message": "Relaxation?"
+    },
+    {
+        "message": "Yes! I'll take you to my favorite place. When you're feeling down, playing is the way to go!"
+    },
+    {
+        "message": "Boss!"
+    },
+    {
+        "message": "You seem really tired, don't you?"
+    },
+    {
+        "message": "You've been quite busy lately, but please take care of your health."
+    },
+    {
+        "message": "Have you reported to Meryl?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Somehow."
+    },
+    {
+        "message": "Her?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "The request is ongoing; we must absolutely find Ariana Kleiberg."
+    },
+    {
+        "message": "That's tough, isn't it?"
+    },
+    {
+        "message": "By the way, is Meryl's daughter's name Ariana Kleiberg?"
+    },
+    {
+        "message": "Do you have any idea who that is?"
+    },
+    {
+        "message": "No, I was just confirming."
+    },
+    {
+        "message": "But, this is quite a pickle. It seems like it's going to be super hard to find."
+    },
+    {
+        "message": "You're right; I'm feeling so drained and want to give up."
+    },
+    {
+        "message": "Boss!"
+    },
+    {
+        "message": "Let's hang in there!"
+    },
+    {
+        "message": "Boss, please don't give up and do your best."
+    },
+    {
+        "message": "Any news from Meryl?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "No, not yet."
+    },
+    {
+        "message": "Boss, you should say it sooner. If you carry something heavy in your heart, it'll start to take a toll on you."
+    },
+    {
+        "message": "I haven't heard from Meryl, but I think it's better to go report sooner."
+    },
+    {
+        "message": "Did you meet San?"
+    },
+    {
+        "message": "Yeah, I went to see them. They seemed surprisingly fine, almost like nothing was wrong."
+    },
+    {
+        "message": "So that means the counseling worked, right? I'm glad I referred them."
+    },
+    {
+        "message": "The teacher is a great person, so it'll be fine. You can feel at ease."
+    },
+    {
+        "message": "Maybe I should go see them once."
+    },
+    {
+        "message": "Günter is a busy person, so you shouldn't disturb him."
+    },
+    {
+        "message": "But is it really that easy to recover?"
+    },
+    {
+        "message": "Maybe it means it wasn't as bad as we thought?"
+    },
+    {
+        "message": "Ah, maybe that's the case."
+    },
+    {
+        "message": "But is it really that simple?"
+    },
+    {
+        "message": "Boss."
+    },
+    {
+        "message": "Are you worried about something?"
+    },
+    {
+        "message": "You should just honestly be happy about their recovery."
+    },
+    {
+        "message": "Did you get a message from them?"
+    },
+    {
+        "message": "No. If they keep going to counseling, they should be doing better."
+    },
+    {
+        "message": "That's true."
+    },
+    {
+        "message": "Are you worried about something?"
+    },
+    {
+        "message": "The teacher is a great person, so it'll be fine. You can feel at ease."
+    },
+    {
+        "message": "Maybe I should go see them once."
+    },
+    {
+        "message": "You mean San?"
+    },
+    {
+        "message": "No, I mean the teacher. I want to see what they are like."
+    },
+    {
+        "message": "Günter is a busy person, so you shouldn't disturb him."
+    },
+    {
+        "message": "Boss, please don't cause any trouble for the teacher."
+    },
+    {
+        "message": "It's better to forget about Guy."
+    },
+    {
+        "message": "Why are you suddenly saying that?"
+    },
+    {
+        "message": "Because there's been no contact or anything."
+    },
+    {
+        "message": "I wish Guy would just die somewhere."
+    },
+    {
+        "message": "You shouldn’t say stuff like that."
+    },
+    {
+        "message": "Since San is suffering, they should receive their due reward."
+    },
+    {
+        "message": "I absolutely hate Guy."
+    },
+    {
+        "message": "Seems like the media hasn't leaked anything about Cindy. Kind of mysterious."
+    },
+    {
+        "message": "Gloria must be holding things down tightly."
+    },
+    {
+        "message": "Isn’t this just a ridiculous disappearing act?"
+    },
+    {
+        "message": "Director Fabar is terrible too. Bringing such a weird issue to the Boss."
+    },
+    {
+        "message": "But, that’s a kind gesture."
+    },
+    {
+        "message": "To be honest, it’s a case of small kindness being a big hassle."
+    },
+    {
+        "message": "I feel like I’ve been tricked by a fox."
+    },
+    {
+        "message": "I don’t really get Gloria. I have no idea what she’s thinking."
+    },
+    {
+        "message": "Haha."
+    },
+    {
+        "message": "If you say that, poor Gloria."
+    },
+    {
+        "message": "Oh, I just voiced the Boss's inner thoughts."
+    },
+    {
+        "message": "It feels like we should at least get a call."
+    },
+    {
+        "message": "Günter seemed like a scary person."
+    },
+    {
+        "message": "Wasn’t he in a bad mood?"
+    },
+    {
+        "message": "Sure, he was forced to squeeze time for me."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "No! You shouldn’t do stuff like that!"
+    },
+    {
+        "message": "You shouldn’t!"
+    },
+    {
+        "message": "What the Boss did is like blasphemy against God."
+    },
+    {
+        "message": "That's quite an exaggeration."
+    },
+    {
+        "message": "500,000 patients in Manhattan will resent the Boss."
+    },
+    {
+        "message": "Where on earth does that number come from?"
+    },
+    {
+        "message": "I-I’m fine with it! It’s just the vibe, the vibe!"
+    },
+    {
+        "message": "Please don’t disturb me again."
+    },
+    {
+        "message": "Günter is a good person."
+    },
+    {
+        "message": "And he is incredibly busy."
+    },
+    {
+        "message": "That’s probably true."
+    },
+    {
+        "message": "But what I want to know isn’t that."
+    },
+    {
+        "message": "He’s currently the most reputed psychiatrist in New York."
+    },
+    {
+        "message": "I once went to Counseling with a teacher."
+    },
+    {
+        "message": "Really? Is that so?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "I had a tough time before."
+    },
+    {
+        "message": "But now I'm feeling this energetic."
+    },
+    {
+        "message": "I'm fine. He's a trustworthy teacher."
+    },
+    {
+        "message": "Gabriela had been keeping a secret from me."
+    },
+    {
+        "message": "Wait, Boss, when did you two get that close?!"
+    },
+    {
+        "message": "I guess I phrased that poorly."
+    },
+    {
+        "message": "I was just joking."
+    },
+    {
+        "message": "I felt like making a quip."
+    },
+    {
+        "message": "So, did something happen?"
+    },
+    {
+        "message": "Actually, it might not just be a simple person search; I could end up finding a dead person."
+    },
+    {
+        "message": "Wait, a murder case!? Yay!"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "I know it's wrong to take joy in someone's misfortune, but it feels so detective-like."
+    },
+    {
+        "message": "Ugh, I'm so happy!"
+    },
+    {
+        "message": "I'm starting to feel really gloomy."
+    },
+    {
+        "message": "What are you talking about? Life is just beginning!"
+    },
+    {
+        "message": "Let's do our best, Boss!"
+    },
+    {
+        "message": "You left, and I got two calls. She's impatient, isn't she?"
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Well, I definitely felt like she wouldn’t waste even a second."
+    },
+    {
+        "message": "That's why you'll age quickly. Your voice sounded so old."
+    },
+    {
+        "message": "What are you saying?"
+    },
+    {
+        "message": "I'm just going to live a relaxed life."
+    },
+    {
+        "message": "So, what kind of person was he?"
+    },
+    {
+        "message": "The president of an Escort Service company."
+    },
+    {
+        "message": "The Escort Service is..."
+    },
+    {
+        "message": "...a service where a cool guy escorts you at a party, right?"
+    },
+    {
+        "message": "Are you being serious?"
+    },
+    {
+        "message": "Did I say something strange?"
+    },
+    {
+        "message": "Hehe."
+    },
+    {
+        "message": "If that's the kind of service, I'd like to try it too."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "I'm feeling gloomy."
+    },
+    {
+        "message": "Honestly, I'm starting to think it might be impossible for me."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Hmm, what should I do?"
+    },
+    {
+        "message": "I have to tell Meryl the truth, but..."
+    },
+    {
+        "message": "Searching for Ariana is probably almost impossible now."
+    },
+    {
+        "message": "When should I go tell Meryl?"
+    },
+    {
+        "message": "When we talked, she was surprisingly normal. It's comforting, but..."
+    },
+    {
+        "message": "On the flip side, I wonder why I feel like something's off."
+    },
+    {
+        "message": "If he really recovers, then that's all that matters."
+    },
+    {
+        "message": "It's somewhat reassuring that he's under the counselor's care, but..."
+    },
+    {
+        "message": "But I wonder if that's actually a good thing for her."
+    },
+    {
+        "message": "Considering her situation, I think Gai returning is the best medicine, but he's missing."
+    },
+    {
+        "message": "With Gai,"
+    },
+    {
+        "message": "is it impossible to go back to how things were?"
+    },
+    {
+        "message": "If he’s already back, then there's no issue."
+    },
+    {
+        "message": "But if he isn't, where could he be and what is he doing?"
+    },
+    {
+        "message": "I'm worried about Cindy too, but there are too many problems on my plate right now."
+    },
+    {
+        "message": "I should stop thinking about her for now."
+    },
+    {
+        "message": "I'm already exhausted and have no energy left."
+    },
+    {
+        "message": "At this point, she's definitely out there looking for me."
+    },
+    {
+        "message": "Günter may be an excellent psychiatrist, but he's not my type."
+    },
+    {
+        "message": "I felt something stir up my anxiety when I was in front of him, but why was that?"
+    },
+    {
+        "message": "I need to meet Dr. Günter at least once."
+    },
+    {
+        "message": "What kind of person is a reputed psychiatrist, I wonder?"
+    },
+    {
+        "message": "I can understand Gabriela's feelings, but I wish she had mentioned the wrist incident first."
+    },
+    {
+        "message": "That said,"
+    },
+    {
+        "message": "I thought it was just a simple person search, but I might have stumbled into a troublesome situation."
+    },
+    {
+        "message": "Through Director Fabar's connections, it's another request to find someone."
+    },
+    {
+        "message": "Since that party, it's great that work has gotten busier, but there are definitely a lot of struggles too."
+    },
+    {
+        "message": "If she's the owner of an escort service, she might have been a call girl herself."
+    },
+    {
+        "message": "※※※　It's a bug　※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

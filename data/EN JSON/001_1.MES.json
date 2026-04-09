@@ -1,0 +1,803 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Patricia"
+    },
+    {
+        "message": "Gloria"
+    },
+    {
+        "message": "Cindy"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Are you having fun properly?"
+    },
+    {
+        "message": "Of course."
+    },
+    {
+        "message": "That's great to hear."
+    },
+    {
+        "message": "Is there something you need, detective?"
+    },
+    {
+        "message": "You seem to have gotten used to this atmosphere."
+    },
+    {
+        "message": "It's nice if you talk not just to me, but with everyone."
+    },
+    {
+        "message": "I feel a bit nervous."
+    },
+    {
+        "message": "Pfft."
+    },
+    {
+        "message": "Oh no,"
+    },
+    {
+        "message": "San! You’re fine, just hang in there."
+    },
+    {
+        "message": "Okay."
+    },
+    {
+        "message": "I'm sorry about earlier."
+    },
+    {
+        "message": "No, I don’t mind at all."
+    },
+    {
+        "message": "Lately, I've been somewhat emotionally unstable. It might be influenced by my father."
+    },
+    {
+        "message": "Don't worry too much about me."
+    },
+    {
+        "message": "Yes, thank you."
+    },
+    {
+        "message": "I'm glad I can talk with you."
+    },
+    {
+        "message": "　　View　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "End conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings.　　"
+    },
+    {
+        "message": "　About　the　party.　"
+    },
+    {
+        "message": "　　About the movie.　　"
+    },
+    {
+        "message": "About that.　　"
+    },
+    {
+        "message": "　　Tony　　"
+    },
+    {
+        "message": "'s　case　"
+    },
+    {
+        "message": "'s　case　"
+    },
+    {
+        "message": "Jennifer's case"
+    },
+    {
+        "message": "　　Meryl's case　　"
+    },
+    {
+        "message": "Director Fabar's case"
+    },
+    {
+        "message": "　　Guy's case　　"
+    },
+    {
+        "message": "'s　case　"
+    },
+    {
+        "message": "Serial Murder Case's case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "End the game"
+    },
+    {
+        "message": "Is it about the movie this time?"
+    },
+    {
+        "message": "Yeah, sort of."
+    },
+    {
+        "message": "I hear it's some sort of baseball story. I wonder why now, though."
+    },
+    {
+        "message": "I was expecting a big sci-fi blockbuster, but with Guy in it, that's probably a stretch."
+    },
+    {
+        "message": "Maybe they wanted to use Guy and turned it into a baseball thing?"
+    },
+    {
+        "message": "No way?"
+    },
+    {
+        "message": "Nope, it might actually be that."
+    },
+    {
+        "message": "I like my dad when he's filming a movie."
+    },
+    {
+        "message": "Is it because you’re moved by the working dad's image?"
+    },
+    {
+        "message": "He's coolest when he's like that. The rest of the time, he's just a messy problem. Hehe."
+    },
+    {
+        "message": "I'm nervous too before filming starts. Sounds weird, right?"
+    },
+    {
+        "message": "Meryl and Jennifer"
+    },
+    {
+        "message": "It's like they're throwing bombs at each other."
+    },
+    {
+        "message": "Right? What on earth is the director thinking?"
+    },
+    {
+        "message": "What do you mean?"
+    },
+    {
+        "message": "Well, those two are like cats and dogs, right? It seems like it was tough to convince them to co-star."
+    },
+    {
+        "message": "I pray that the filming ends safely."
+    },
+    {
+        "message": "Yeah, she's not the type that hangs around me. Just watching her is enough fun."
+    },
+    {
+        "message": "Haha, that's true."
+    },
+    {
+        "message": "Well,"
+    },
+    {
+        "message": "is he her boyfriend?"
+    },
+    {
+        "message": "No way, that’s not it."
+    },
+    {
+        "message": "Phew."
+    },
+    {
+        "message": "Hmm, yeah."
+    },
+    {
+        "message": "What’s that about?"
+    },
+    {
+        "message": "Nah, it’s not like I’m saying anything."
+    },
+    {
+        "message": "Sorry."
+    },
+    {
+        "message": "Maybe..."
+    },
+    {
+        "message": "...you’re not saying anything weird, are you?"
+    },
+    {
+        "message": "Weird? I don’t think I’m asking anything strange."
+    },
+    {
+        "message": "But why?"
+    },
+    {
+        "message": "No, she sometimes spreads outrageous stuff."
+    },
+    {
+        "message": "Oh　my!　"
+    },
+    {
+        "message": "But I think she’s funny and a good person."
+    },
+    {
+        "message": "I,"
+    },
+    {
+        "message": "would be happy if I could get along with you."
+    },
+    {
+        "message": "It seems you're doing sales activities, but there were complaints, so I warned you."
+    },
+    {
+        "message": "Wow, I'm really sorry about that."
+    },
+    {
+        "message": "I think you’re a good person, but that kind of thing is a bit troublesome here."
+    },
+    {
+        "message": "Yeah, that’s completely fair. I’ll scold her properly later."
+    },
+    {
+        "message": "I’m sorry for saying such things."
+    },
+    {
+        "message": "But I envy you. Being able to act so normally, no matter where you are or who you're with."
+    },
+    {
+        "message": "Uh."
+    },
+    {
+        "message": "That can be said to be her strong point, but I’m really troubled by it."
+    },
+    {
+        "message": "But it's not like she's doing anything wrong."
+    },
+    {
+        "message": "I wish I was born with a personality like that."
+    },
+    {
+        "message": "Tonny is"
+    },
+    {
+        "message": "Yeah, just the type you see, but really, who knows?"
+    },
+    {
+        "message": "I don’t know, though."
+    },
+    {
+        "message": "First of all, I don't really get why I can talk with my dad."
+    },
+    {
+        "message": "Doesn't it feel more like work colleagues?"
+    },
+    {
+        "message": "Work colleagues."
+    },
+    {
+        "message": "? There’s not even a bit of a direct connection, you know?"
+    },
+    {
+        "message": "He doesn't have very good rumors surrounding him, huh?"
+    },
+    {
+        "message": "I wonder why?"
+    },
+    {
+        "message": "Even if he's skilled in stage directing, he's probably lacking in other areas."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "If possible, I think it's better to avoid getting involved with him."
+    },
+    {
+        "message": "I hate to say this, but I'm really not good with him."
+    },
+    {
+        "message": "He must be talking bad about me, right?"
+    },
+    {
+        "message": "No, that's not the case."
+    },
+    {
+        "message": "It's fine, I know. For some reason, I've been made his target since long ago."
+    },
+    {
+        "message": "You know, he's the type who seems to enjoy slandering others. He spreads any little thing around. He's a very rude man."
+    },
+    {
+        "message": "Isn't that a bit of an exaggeration?"
+    },
+    {
+        "message": "No, not at all. It's not exaggerated in the slightest."
+    },
+    {
+        "message": "I just don't get my father's mindset for getting close to someone like that."
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "It's an agent."
+    },
+    {
+        "message": "I hear that's the case. I'm not really in the loop about that stuff."
+    },
+    {
+        "message": "Really?"
+    },
+    {
+        "message": "I thought detectives were really knowledgeable, so that's surprising."
+    },
+    {
+        "message": "I guess it’s just that I don’t know enough."
+    },
+    {
+        "message": "Oh, I don't mind that sort of thing."
+    },
+    {
+        "message": "It's really, very"
+    },
+    {
+        "message": "feeling, like a parent-child or sibling vibe."
+    },
+    {
+        "message": "They're popular, so they must be worried about it."
+    },
+    {
+        "message": "Yeah, but I wish they were a bit nicer to people other than just those."
+    },
+    {
+        "message": "I would be happy if you were kind to others too."
+    },
+    {
+        "message": "I think she's kind of hard to approach."
+    },
+    {
+        "message": "That might be a misunderstanding."
+    },
+    {
+        "message": "Is that so? Maybe it's because there's this vibe that you can't tell what someone of Chinese descent is thinking."
+    },
+    {
+        "message": "I might be disliked by her."
+    },
+    {
+        "message": "I might be disliked."
+    },
+    {
+        "message": "I said, but,"
+    },
+    {
+        "message": "why do you think that?"
+    },
+    {
+        "message": "Because I'm making her my enemy."
+    },
+    {
+        "message": "Huh, is that so?"
+    },
+    {
+        "message": "No, not really, I don't mean it that way,"
+    },
+    {
+        "message": "but it seems like you do."
+    },
+    {
+        "message": "It's actually a hassle for me since I'm getting weird misunderstandings."
+    },
+    {
+        "message": "It's my first time today too, but she really is cute."
+    },
+    {
+        "message": "She's popular in ads and TV dramas, and it seems she plans to break into movies and seriously pursue her career as an actress."
+    },
+    {
+        "message": "Oh really?"
+    },
+    {
+        "message": "You're pretty knowledgeable about this."
+    },
+    {
+        "message": "Well, I do check the cast of my dad's movies every time."
+    },
+    {
+        "message": "Guys typically like that kind of type, right? I find more intellectual women to be more attractive, though."
+    },
+    {
+        "message": "I don't think you can say that universally."
+    },
+    {
+        "message": "Still, I think that's the case in most situations."
+    },
+    {
+        "message": "If you're that curious, you should talk to her."
+    },
+    {
+        "message": "Have you tried talking to her?"
+    },
+    {
+        "message": "No, not yet."
+    },
+    {
+        "message": "She seemed really worried, so please reach out to her, okay?"
+    },
+    {
+        "message": "Sure."
+    },
+    {
+        "message": "That's an honor."
+    },
+    {
+        "message": "So guys really do like that kind of thing, huh?"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "Did you not feel anything at all?"
+    },
+    {
+        "message": "Feel　anything?　"
+    },
+    {
+        "message": "I don't think I felt anything in particular."
+    },
+    {
+        "message": "Are you perhaps an incredibly insensitive type?"
+    },
+    {
+        "message": "W-Well, is that so?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "You're actually the most interesting person here right now."
+    },
+    {
+        "message": "That's just because I'm an ordinary guy."
+    },
+    {
+        "message": "What's that supposed to mean? Are you trying to brush it off?"
+    },
+    {
+        "message": "Brush off what?"
+    },
+    {
+        "message": "It's fine, after all, I'm just..."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Forget it."
+    },
+    {
+        "message": "From the perspective of a woman like me, she's cute."
+    },
+    {
+        "message": "Yeah, she's really cute. Being a popular one, she has a different kind of glow."
+    },
+    {
+        "message": "Girls like that deserve kindness from everyone."
+    },
+    {
+        "message": "Because she's certainly attractive, isn't she?"
+    },
+    {
+        "message": "I don't need sympathy."
+    },
+    {
+        "message": "It's just that I've been interested in you, and I got a bit annoyed."
+    },
+    {
+        "message": "Huh?"
+    },
+    {
+        "message": "Oh!　"
+    },
+    {
+        "message": "I'm sorry, I said something weird."
+    },
+    {
+        "message": "I wanted to be born like that."
+    },
+    {
+        "message": "Jennifer is"
+    },
+    {
+        "message": "The Structure of Madness"
+    },
+    {
+        "message": "a famous actress, right?"
+    },
+    {
+        "message": "That's for sure."
+    },
+    {
+        "message": "It's an R-rated movie about multiple personalities. Didn't you see it?"
+    },
+    {
+        "message": "I don't watch many movies."
+    },
+    {
+        "message": "I thought it was a well-made film. You should find some time to watch the video next time; you won't regret it."
+    },
+    {
+        "message": "It's my first time meeting her. She's quiet, completely different from her character in the movie."
+    },
+    {
+        "message": "She must be a typically shy woman."
+    },
+    {
+        "message": "I think that's probably true, but she played a bold and sexy woman in the movie, so the image..."
+    },
+    {
+        "message": "is a woman my father is interested in right now."
+    },
+    {
+        "message": "Do you know that my dad was dating Meryl?"
+    },
+    {
+        "message": "Oh, yeah."
+    },
+    {
+        "message": "No, I'm not really up to date on that sort of topic."
+    },
+    {
+        "message": "It seems like Meryl wants to marry my dad."
+    },
+    {
+        "message": "I should probably allow Meryl and my father to marry, but I just don't get along with Meryl."
+    },
+    {
+        "message": "Hmph."
+    },
+    {
+        "message": "Yeah, that's a problem."
+    },
+    {
+        "message": "Isn't it? It's not that I'm afraid of my father being taken away."
+    },
+    {
+        "message": "I just really don't want them to get married, that’s all."
+    },
+    {
+        "message": "Do I really have to admit that honestly?"
+    },
+    {
+        "message": "My father, you know."
+    },
+    {
+        "message": "Yeah, I think he's a good dad. I appreciate that he raised me all on his own after my mom passed away."
+    },
+    {
+        "message": "Oh, is that so?"
+    },
+    {
+        "message": "I made you think of something unpleasant, didn’t I?"
+    },
+    {
+        "message": "Oh come on, you have nothing to apologize for. Besides, we were just talking about dad."
+    },
+    {
+        "message": "Yeah, I get that."
+    },
+    {
+        "message": "But, I'm sorry."
+    },
+    {
+        "message": "If you keep that attitude, you'll end up thinking everything that happens in the world is your fault."
+    },
+    {
+        "message": "You know, dad is kind of spoiled because mom passed away early. You wouldn't expect it from his rugged face, right?"
+    },
+    {
+        "message": "Uh, yeah. That's true."
+    },
+    {
+        "message": "Artists might need a boy-like sensitivity, but for him, it just turns into being a brat."
+    },
+    {
+        "message": "That's..."
+    },
+    {
+        "message": "a bit..."
+    },
+    {
+        "message": "hard to imagine."
+    },
+    {
+        "message": "That's why he always needs someone. Even as a tyrannical director with a megaphone, he can’t manage without support."
+    },
+    {
+        "message": "Does dad need a wife, I wonder?"
+    },
+    {
+        "message": "It seems like he needs someone who understands him."
+    },
+    {
+        "message": "Everyone needs that sort of thing."
+    },
+    {
+        "message": "But a good listener who’s just a yes-man won't do him any good. And yet, dad seeks a yes-man type of understanding."
+    },
+    {
+        "message": "Might as well let that slide, right?"
+    },
+    {
+        "message": "I don’t want to see that weakness in my dad."
+    },
+    {
+        "message": "I don’t want to silently watch dad become a worthless man."
+    },
+    {
+        "message": "If that's the case..."
+    },
+    {
+        "message": "you know him better, right?"
+    },
+    {
+        "message": "Well, I’m not so sure about that."
+    },
+    {
+        "message": "But he’s your best friend, right?"
+    },
+    {
+        "message": "True, but..."
+    },
+    {
+        "message": "the Guy I know isn’t the popular major league player Guy."
+    },
+    {
+        "message": "Hmm, that's kind of a tough one. But still, I understand what you’re getting at."
+    },
+    {
+        "message": "Actually, you see, I really don't know much about Gai. I just don’t have any baseball data in my head."
+    },
+    {
+        "message": "Hehe."
+    },
+    {
+        "message": "Do you dislike baseball?"
+    },
+    {
+        "message": "I don't have enough interest to say I dislike it. That's simply it. I didn’t even know Gai was popular. I'm sorry."
+    },
+    {
+        "message": "But honestly, Gai is a nice guy, right?"
+    },
+    {
+        "message": "It seems like Gai might be a bit too kind to women. That poor fiancée of his."
+    },
+    {
+        "message": "I feel sorry for her."
+    },
+    {
+        "message": "Was Gai always that type of person?"
+    },
+    {
+        "message": "Hmm."
+    },
+    {
+        "message": "I don't think he used to be like that."
+    },
+    {
+        "message": "People change once they become famous, you know."
+    },
+    {
+        "message": "Rather than refreshing, he gives off an impression of being loose with women."
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "what's your relationship with her?"
+    },
+    {
+        "message": "We've been friends since school, and she’s my best friend's fiancée."
+    },
+    {
+        "message": "Phew."
+    },
+    {
+        "message": "So, the three of you seemed to get along well."
+    },
+    {
+        "message": "Yeah, well, now that you mention it."
+    },
+    {
+        "message": "That's something to be envious of."
+    },
+    {
+        "message": "She looks like an intellectual beauty, doesn't she?"
+    },
+    {
+        "message": "Is she the daughter of that Dern family?"
+    },
+    {
+        "message": "That Dern family..."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "You know, the prominent family whose parents have been living apart."
+    },
+    {
+        "message": "Ah, that's true."
+    },
+    {
+        "message": "But I'd prefer you not to mention that in front of her."
+    },
+    {
+        "message": "Oh, right, I'm sorry. It was just a bit of curiosity."
+    },
+    {
+        "message": "She looks like an intellectual beauty, doesn't she?"
+    },
+    {
+        "message": "She seems kind of pitiful, though. When she's alone, her expression really drops."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "It seems hard to even approach her."
+    },
+    {
+        "message": "I wonder if she’s okay."
+    },
+    {
+        "message": "Please keep an eye on her a bit."
+    },
+    {
+        "message": "Do you know about the serial murder case?"
+    },
+    {
+        "message": "Yeah, that one, right? The incidents that happened in Los Angeles and San Francisco. I'm worried about where the missing body parts went."
+    },
+    {
+        "message": "It's definitely perverts who do things like that."
+    },
+    {
+        "message": "You can't really know. These kinds of cases are often committed by people who look perfectly normal."
+    },
+    {
+        "message": "At school, we say that girls should be careful with each other. But maybe the perpetrator won't come around this area."
+    },
+    {
+        "message": "No, there are a lot of similar incidents, so it’s better to be cautious."
+    },
+    {
+        "message": "Yeah, I get it. After all, I’m the daughter of a celebrity."
+    },
+    {
+        "message": "But the fact that I don’t look like that is the kicker."
+    },
+    {
+        "message": "I'm so over scary crime stories."
+    },
+    {
+        "message": "※※※ Bug here ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

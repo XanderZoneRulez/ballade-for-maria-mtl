@@ -1,0 +1,893 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Patricia"
+    },
+    {
+        "message": "Gloria"
+    },
+    {
+        "message": "Cindy"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Tony"
+    },
+    {
+        "message": "You're definitely"
+    },
+    {
+        "message": "Guy's friend, the detective, right?"
+    },
+    {
+        "message": "Yes, that's right. You're Tony Ford, aren't you?"
+    },
+    {
+        "message": "Tony"
+    },
+    {
+        "message": "Oh my, I must really have become famous. Knowing even about the detective means I can't act recklessly."
+    },
+    {
+        "message": "You're not planning on causing any trouble, are you?"
+    },
+    {
+        "message": "Tony"
+    },
+    {
+        "message": "Well now, who's to say? Hehehe."
+    },
+    {
+        "message": "Tony"
+    },
+    {
+        "message": "What do you need this time?"
+    },
+    {
+        "message": "Tony"
+    },
+    {
+        "message": "Anything on your mind?"
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "End conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　　　Tony　　　"
+    },
+    {
+        "message": "　　　Tony　　　"
+    },
+    {
+        "message": "　About　the　party　"
+    },
+    {
+        "message": "　　About the movie　　"
+    },
+    {
+        "message": "About　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Director Fabar"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About　it　"
+    },
+    {
+        "message": "About the Serial Murder Case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "This can't be called a party. The stage is decent, but the casting is terrible."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Yeah, that's how it is."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "The food and fine wine are impeccable, but"
+    },
+    {
+        "message": "You know, it’d be better for you to focus on eating today. I don’t think there’s anything else worthwhile to gain."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "We were invited just to fill the numbers, I guess."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It’s finally starting to feel like a party."
+    },
+    {
+        "message": "Thanks to the appearance of the two leading actresses."
+    },
+    {
+        "message": "Is that what you mean?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Is there any other novel change?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It’s a good opportunity to meet actresses. If Lady Luck is with you, you might end up getting close."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Movies? I’m not really interested in films."
+    },
+    {
+        "message": "So you won’t be appearing in this movie?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I’m actually a stage actor. The dynamics are too different between stage and film, and I have no intention of acting in movies."
+    },
+    {
+        "message": "It's a shame, considering you're friends with Director Fabar."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "A shame, huh? Just because you know a film director, does that mean you have to act in movies?"
+    },
+    {
+        "message": "No, that's not what I meant."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You can’t underestimate the stage. I mean, that kind of thinking really ticks me off."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I've heard this movie will tackle sports players' drug issues, right? Is Guy gonna be okay?"
+    },
+    {
+        "message": "Guy can manage just fine without relying on drugs."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Hmph, don't you think that not speaking ill of your friends is what friendship is all about?"
+    },
+    {
+        "message": "It's not that kind of pathetic relationship."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Is that how it is? I have so few people I can call friends that I may never understand that realm."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "For me, movies are something I watch, but I don't want to be in them."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "But you know, this movie is like a gathering of crowd-pulling pandas."
+    },
+    {
+        "message": "That's quite rude of you."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Rude? We're talking about a popular talent, a major league star, and an actress who recently rose to fame, plus an actress who sees that as competition."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Mmm, when you put it that way, it really is an impressive lineup."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You think so? I can only think Fabar has gone mad; his directing career might be in jeopardy."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I've liked Fabar's previous works. So I don't want him making movies that pander to the masses."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I’m not interested in your girl. If she were a more mature woman, I might be tempted."
+    },
+    {
+        "message": "She is not my girlfriend."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Oh really? I think she suits you well. Hehe."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It's okay, I won't take that girl away."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Let me give you some advice. I think it's not great to conduct business in a place like this."
+    },
+    {
+        "message": "What's wrong with that?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "No, I mean, when you need a detective, please call our detective agency or something."
+    },
+    {
+        "message": "It seems like that girl is misunderstanding something."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "She might not mean any harm, but she's got some issues with her words and actions."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "She's a smart girl, and I can't get the upper hand on her."
+    },
+    {
+        "message": "Indeed, she seems to be quite sharp."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Yeah, right. That nagging is something I can't stand. It's just not, how should I put it, charming."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It's not that I dislike her, but she's just not my type."
+    },
+    {
+        "message": "Not your type, huh?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "No, she's not the type that guys usually like."
+    },
+    {
+        "message": "At 19, she's never even experienced love."
+    },
+    {
+        "message": "I think judging on such things is a bit much, though."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You'll understand once you talk to her."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "No way, no way. If the conversation is dull, even the finest wine loses its charm."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "What do you think I would extract from her?"
+    },
+    {
+        "message": "No, it's not like that."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "She's like my arch-nemesis, detective. So can we stop talking about her?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It's pathetic to be arch-enemies with a 19-year-old girl, huh? Hehehe."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Yeah, I'm skipping the talk about that woman."
+    },
+    {
+        "message": "Why's that?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Because I dislike her."
+    },
+    {
+        "message": "You hit the nail on the head."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I'm just being honest, you know. I can't talk about social niceties. Hehe."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I have nothing to talk about."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I really don't want to talk about that woman."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "That woman,"
+    },
+    {
+        "message": "I'd even kill for her."
+    },
+    {
+        "message": "If she heard something like that, she'd take it badly."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It's fine about that woman."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Maybe I should"
+    },
+    {
+        "message": "become their agent."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I think she might become a big shot?"
+    },
+    {
+        "message": "Do you think so too?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You know, I'm also doing direction. I have an eye for people."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I look forward to seeing her in a few years. She'll become a good woman."
+    },
+    {
+        "message": "I agree with that."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Right? I want to put powder on her now, but that Ms. Won..."
+    },
+    {
+        "message": "It'd be nice if she just weren't there."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "If only her agent would change, she'd be perfect."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "She's good friends with Jennifer."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Isn't it strange? A friendship between a 16-year-old and a 24-year-old."
+    },
+    {
+        "message": "I don't think that's strange."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "That's because you don't know anything. Hehehe."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It wouldn't be too bad to lay a claim on her now."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "She is..."
+    },
+    {
+        "message": "Yeah, I think she's an interesting woman in many ways."
+    },
+    {
+        "message": "In what ways?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Hehe, she's a woman full of various rumors. Well, she's an actress, so that's expected, but in her case, there are a lot of peculiar ones."
+    },
+    {
+        "message": "Peculiar ones, you say?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Yeah, like the rumor about her having a hysteria episode and stabbing a makeup girl with a knife—she has some scary rumors. You should be careful too."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I used to try to hit on her, you know. Now I'm too scared."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "She’s like the wife of Director Fabar."
+    },
+    {
+        "message": "Is that so?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "What? You didn't know?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "However, it seems the recent director is quite taken with Jennifer, who is like the Ice Queen, so I think that relationship is also precarious."
+    },
+    {
+        "message": "Ah,"
+    },
+    {
+        "message": "it's quite tough, isn't it?"
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "It's not like we're children."
+    },
+    {
+        "message": "It's kind of funny how he gets all bashful."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "Still, he's a hard worker."
+    },
+    {
+        "message": "She changed her personality the moment she became famous."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "I met him at a shop through a mutual friend's introduction."
+    },
+    {
+        "message": "So you hit it off and became close, then?"
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "Yeah, well, something like that. We share similar hobbies."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "He's a good guy. Just a little weak."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "It's something my weak spot,"
+    },
+    {
+        "message": "resulted from his father's upbringing, but it seems he's gotten a bit stronger lately."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "He's a happy man living life the way he likes."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "He tends to get quite nervous before a crank-in. Though he seems to be in good spirits today."
+    },
+    {
+        "message": "It’s natural to feel mental pressure, especially since you're about to create a work, right?"
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "His situation is a bit special, actually. We were worried about today’s party, but it looks like it’ll end without a hitch, which is good."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "People of the artist type tend to be difficult to handle."
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "Guy is nice, being pampered in the spotlight. That's an enviable situation."
+    },
+    {
+        "message": "Aren't you the same?"
+    },
+    {
+        "message": "Tony."
+    },
+    {
+        "message": "That's something only a novice would think. Haven't you ever heard my rumors?"
+    },
+    {
+        "message": "If Guy is light, then I could be compared to darkness."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I can’t help but envy someone like him; it's just that he's walking a path so different from mine."
+    },
+    {
+        "message": "Everyone feels that way at some point."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You're probably the same type as me, right? You envy and even hate Guy."
+    },
+    {
+        "message": "No way!? Why would I feel that way?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It's pointless to play dumb; I have a keen sense for these things."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You and Guy can be friends because you're opposites."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Guy seems to be the type that loves women."
+    },
+    {
+        "message": "That's how all guys are, isn't it?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "No, he’s quite loose with women."
+    },
+    {
+        "message": "You talk as if you've seen it all yourself?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I'm not making it up; I'm somewhat close to him."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Were you surprised? That I know him."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Oh, she's a nice woman. The kind that makes you want to invite her to bed."
+    },
+    {
+        "message": "You're very straightforward."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Hmph, don’t make that face."
+    },
+    {
+        "message": "Do you like her?"
+    },
+    {
+        "message": "We've been friends since school."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Huh."
+    },
+    {
+        "message": "I see, so that’s the kind of relationship you have."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Hey, introduce me next time."
+    },
+    {
+        "message": "I can't promise you that."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You want me to make the move myself? Well, that could be fun. Hehe."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "That type seems like they'd get wild in bed. Hahaha."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "She doesn’t seem to be getting along well with Guy."
+    },
+    {
+        "message": "Why do you say that?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "You can tell just by their vibe."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Trying to hit on her is tough; she's got her defenses up. What a hassle."
+    },
+    {
+        "message": "Could you tell me more about that incident?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Hehe, go find out for yourself."
+    },
+    {
+        "message": "Well, that's true."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "What’s with you? You’re backing off way too easily. You’re such a boring guy."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "This is the first time I’ve seen such a horrific incident. Sure, it’s not exactly rare in the United States, but still."
+    },
+    {
+        "message": "Is it because a body part is missing?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Brutally killing girls who were about to blossom and then dismembering their beautiful bodies is just too much."
+    },
+    {
+        "message": "That’s awful."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Actually, I have a hunch about the culprit."
+    },
+    {
+        "message": "Huh!? You have a hunch about the culprit?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I think you’d enjoy trying to figure out who the culprit is too."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "I suspect, straight to the point, that Jennifer is the culprit, what do you think?"
+    },
+    {
+        "message": "Uh, are you messing with me?"
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "Even beautiful roses have thorns. She is truly a terrifying woman. Don't be fooled by appearances. Hehehe."
+    },
+    {
+        "message": "Tonny"
+    },
+    {
+        "message": "It seems the target of the culprit is a woman, but you can’t let your guard down. You should be careful too. Hehehe."
+    },
+    {
+        "message": "※※※ It’s a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

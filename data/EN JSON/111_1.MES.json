@@ -1,0 +1,293 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Neighbor lady"
+    },
+    {
+        "message": "Serial Murder Case"
+    },
+    {
+        "message": "It has become a routine visit to Little Italy."
+    },
+    {
+        "message": "　　See　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　Newspaper stand　"
+    },
+    {
+        "message": "　　　magazine　　　"
+    },
+    {
+        "message": "about"
+    },
+    {
+        "message": "　　about Anna　　"
+    },
+    {
+        "message": "about"
+    },
+    {
+        "message": "　　about Eva　　"
+    },
+    {
+        "message": "　　Anna's house　　"
+    },
+    {
+        "message": "　　to another place　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "This street, lined with Italian restaurants, is the busiest in Little Italy."
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "It seems there isn't anything particularly unusual about this."
+    },
+    {
+        "message": "I've really gotten used to this street."
+    },
+    {
+        "message": "As usual, the usual"
+    },
+    {
+        "message": "is running the shop. I wonder if it’s his personal business?"
+    },
+    {
+        "message": "It feels cramped, but that’s often how newspaper stands are."
+    },
+    {
+        "message": "Italian, American, Chinese"
+    },
+    {
+        "message": "Magazines from various countries are lined up in every available space."
+    },
+    {
+        "message": "Among all these magazines, some probably go out of print within a few months."
+    },
+    {
+        "message": "Hey there, buddy! You've been coming around a lot lately."
+    },
+    {
+        "message": "Yeah, just some personal business."
+    },
+    {
+        "message": "What, you still haven't got her to meet you?"
+    },
+    {
+        "message": "It's not like that."
+    },
+    {
+        "message": "Hah."
+    },
+    {
+        "message": "Oh, buddy, you're surprisingly not popular, huh?"
+    },
+    {
+        "message": "So what are you buying me today?"
+    },
+    {
+        "message": "Buddy."
+    },
+    {
+        "message": "If you just came to disturb me, that’s not cool."
+    },
+    {
+        "message": "Buddy."
+    },
+    {
+        "message": "I don't want just a looky-loo, either."
+    },
+    {
+        "message": "Oh, hey, weren't you the one from before?"
+    },
+    {
+        "message": "Thanks for your help back then."
+    },
+    {
+        "message": "Are you really not one of those media people?"
+    },
+    {
+        "message": "No."
+    },
+    {
+        "message": "That’s good to hear."
+    },
+    {
+        "message": "Hah."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "Is something going on?"
+    },
+    {
+        "message": "Well, actually, there’s this lady who claims to be a reporter from some Apple thing, and she’s being all pushy about wanting to meet Anna and wanting to know where she is."
+    },
+    {
+        "message": "A female reporter, you say?"
+    },
+    {
+        "message": "Yeah, yeah. She’s got sharp eyes and is big in the chest, and man, she’s really unpleasant."
+    },
+    {
+        "message": "Could it be that woman named Eva Courtney?"
+    },
+    {
+        "message": "Ah, yes, that’s it! Do you know her?"
+    },
+    {
+        "message": "Not exactly a friend, but I’ve seen her around."
+    },
+    {
+        "message": "I wouldn't say anything bad, but you should stop associating with a woman like that. People might think you’re unpleasant, too."
+    },
+    {
+        "message": "Oh my, I’ve taken up more time than I should have. I need to hurry home. See you!"
+    },
+    {
+        "message": "Oh right, speaking of which, there was another new incident."
+    },
+    {
+        "message": "New incident?"
+    },
+    {
+        "message": "Yeah. They say they’re not sure if it relates to that case, but it seems like a"
+    },
+    {
+        "message": "killer has come to New York."
+    },
+    {
+        "message": "A killer has come?"
+    },
+    {
+        "message": "Whatever, they found a woman's corpse at the pier, and it was missing both hands."
+    },
+    {
+        "message": "Again, it was severed, huh?"
+    },
+    {
+        "message": "That's right. The cuts were clean, right at the joints."
+    },
+    {
+        "message": "Sounds a bit suspicious, doesn’t it?"
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "No matter what the public says, I believe the murders in New York are the work of the same guy as before."
+    },
+    {
+        "message": "It's a little abrupt to say that."
+    },
+    {
+        "message": "What I told you the other day is all there is to it."
+    },
+    {
+        "message": "If Anna's absence is related to Eva's actions..."
+    },
+    {
+        "message": "Could it be about Meryl's daughter?"
+    },
+    {
+        "message": "I'm worried about how long Anna has been gone. Where did she go and what for?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "If Anna doesn't come back, my business is toast."
+    },
+    {
+        "message": "Crime in New York isn't exactly rare, but a female corpse without wrists?"
+    },
+    {
+        "message": "I still feel like it’s connected to the series of incidents that followed in San Francisco, Los Angeles, and Detroit."
+    },
+    {
+        "message": "Still, where does this perpetrator plan to strike next?"
+    },
+    {
+        "message": "Considering the past, he’ll probably move to another city."
+    },
+    {
+        "message": "I just hope the criminal gets caught soon."
+    },
+    {
+        "message": "A murder just happened in New York, too. Why do these incidents never stop?"
+    },
+    {
+        "message": "Why do people have to kill each other?"
+    },
+    {
+        "message": "Eva was visiting Anna?"
+    },
+    {
+        "message": "What on earth for?"
+    },
+    {
+        "message": "Wherever Eva goes, incidents follow."
+    },
+    {
+        "message": "Does that mean she might be onto Meryl's daughter?!"
+    },
+    {
+        "message": "I really can’t afford for Eva to mess up my request."
+    },
+    {
+        "message": "Maybe it’s better to wait a bit before acting?"
+    },
+    {
+        "message": "I checked the mailbox before ringing the bell, but as usual, it was stuffed with mail."
+    },
+    {
+        "message": "Do I need to come back again?"
+    },
+    {
+        "message": "With a sigh, I muttered to myself and returned to the street."
+    },
+    {
+        "message": "Anna still hasn't come back. When will we be able to meet?"
+    },
+    {
+        "message": "※※※ It's a bug. ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

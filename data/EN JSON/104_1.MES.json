@@ -1,0 +1,848 @@
+[
+    {
+        "message": "Just one street away from the office in Chinatown, this area is already called Little Italy."
+    },
+    {
+        "message": "Anna's house should be around here."
+    },
+    {
+        "message": "I arrived in Little Italy."
+    },
+    {
+        "message": "　　Look　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "　　Think　　"
+    },
+    {
+        "message": "　Move　"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　Newspaper stand　"
+    },
+    {
+        "message": "　　　Magazines　　　"
+    },
+    {
+        "message": "　　　ＢＡＭ　　　"
+    },
+    {
+        "message": "　　　Passersby　　　"
+    },
+    {
+        "message": "　　　Passersby　　　"
+    },
+    {
+        "message": "　　　Vendor　　　"
+    },
+    {
+        "message": "　　About Anna　　"
+    },
+    {
+        "message": "　About　this　area　"
+    },
+    {
+        "message": "　　About the article　　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　Passerby　　　"
+    },
+    {
+        "message": "　　　Vendor　　　"
+    },
+    {
+        "message": "　　About the request　　"
+    },
+    {
+        "message": "　　About Anna　　"
+    },
+    {
+        "message": "　　About the article　　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　Anna's house　　"
+    },
+    {
+        "message": "　　To another location　　"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "　　About Anna　　"
+    },
+    {
+        "message": "　About　Anna's　daughter　"
+    },
+    {
+        "message": "　　About Anna　　"
+    },
+    {
+        "message": "　About　this　area.　"
+    },
+    {
+        "message": "　　About the article.　　"
+    },
+    {
+        "message": "About the serial murder case."
+    },
+    {
+        "message": "In front of me stands a woman claiming to be Anna Skakki's neighbor."
+    },
+    {
+        "message": "A scent of cheese and tomatoes drifts in from nowhere."
+    },
+    {
+        "message": "In contrast to the ever-busier Chinatown, Little Italy is becoming lonelier year by year."
+    },
+    {
+        "message": "Mulberry Street here is the most Italian-colored area in Little Italy."
+    },
+    {
+        "message": "I won't buy any more silly magazines."
+    },
+    {
+        "message": "Maybe I'll pick up something to kill time."
+    },
+    {
+        "message": "Thinking that even the last stronghold of Mulberry Street is succumbing to Chinese influence makes me feel a bit sad."
+    },
+    {
+        "message": "I notice newspapers and magazines written in Italian mixed in with the English ones. Just like Little Italy."
+    },
+    {
+        "message": "There's a magazine stand that seems embedded in the shop."
+    },
+    {
+        "message": "It looks like a bit cramped shop."
+    },
+    {
+        "message": "If I’m not careful, I might end up buying something."
+    },
+    {
+        "message": "I’m curious about that magazine."
+    },
+    {
+        "message": "Oh? There’s a magazine with Guy's name on the cover. I wonder what the article is about?"
+    },
+    {
+        "message": "With so many varieties, I wonder if they can sell them all?"
+    },
+    {
+        "message": "Newspapers and magazines are lined up tightly."
+    },
+    {
+        "message": "Starting with the New Yorker and Village Voice, there are gossip magazines and Italian publications."
+    },
+    {
+        "message": "And they even have books in Cantonese."
+    },
+    {
+        "message": "The magazine named BAM is famous as a third-rate publication packed with gossip."
+    },
+    {
+        "message": "In big Gothic letters on the cover,"
+    },
+    {
+        "message": "it reads: 'The private life of popular Major Leaguer Guy'."
+    },
+    {
+        "message": "It said."
+    },
+    {
+        "message": "As I skim through the article, I find that,"
+    },
+    {
+        "message": "Guy is in a hot love affair with Cindy, and his fiancée has unilaterally called off the engagement."
+    },
+    {
+        "message": "It says."
+    },
+    {
+        "message": "Honestly, where does that story even come from?"
+    },
+    {
+        "message": "I was astonished."
+    },
+    {
+        "message": "I ended up wasting money on such nonsense."
+    },
+    {
+        "message": "When the lady disappeared, the surroundings became lonely."
+    },
+    {
+        "message": "The pasta this person makes looks delicious."
+    },
+    {
+        "message": "I just thought this might be a detective's intuition."
+    },
+    {
+        "message": "When the lady disappeared, the surroundings became lonely."
+    },
+    {
+        "message": "To look rudely is quite disrespectful."
+    },
+    {
+        "message": "The lady in front of me is hardly what you'd call wealthy."
+    },
+    {
+        "message": "However, there’s no mistake that she’s full of vitality."
+    },
+    {
+        "message": "It seems so."
+    },
+    {
+        "message": "All around are just tourists and Italians."
+    },
+    {
+        "message": "There’s no one in speaking distance."
+    },
+    {
+        "message": "A passing lady."
+    },
+    {
+        "message": "You, where are you from? Are you some sort of newspaper reporter?"
+    },
+    {
+        "message": "Jake."
+    },
+    {
+        "message": "A newspaper reporter? Do I really look like one?"
+    },
+    {
+        "message": "A passing lady."
+    },
+    {
+        "message": "Isn't that right? There seem to be quite a few recently."
+    },
+    {
+        "message": "Are you really not?"
+    },
+    {
+        "message": "Jake."
+    },
+    {
+        "message": "No, I came here to see midwife Anna Skakki."
+    },
+    {
+        "message": "A passing lady."
+    },
+    {
+        "message": "Oh dear, is that so? But,"
+    },
+    {
+        "message": "I thought Anna had quit being a midwife."
+    },
+    {
+        "message": "Jake."
+    },
+    {
+        "message": "By the way, it seems Ms. Skakki is out."
+    },
+    {
+        "message": "A passing lady."
+    },
+    {
+        "message": "Ah, yes, that's right. She's out right now."
+    },
+    {
+        "message": "Jake."
+    },
+    {
+        "message": "Do you know what time she might be back?"
+    },
+    {
+        "message": "A passing lady."
+    },
+    {
+        "message": "Well, I guess."
+    },
+    {
+        "message": "Oh no, isn’t it already this late?!"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Ah!　"
+    },
+    {
+        "message": "Without even looking back, they just left."
+    },
+    {
+        "message": "There's no one around to talk to."
+    },
+    {
+        "message": "Passing Woman"
+    },
+    {
+        "message": "You sure have a lot of free time, huh?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "It’s not that I’m bored or anything."
+    },
+    {
+        "message": "Passing Woman"
+    },
+    {
+        "message": "Is that so? I told you Anna's not home, yet you’re still wandering around."
+    },
+    {
+        "message": "Passing Woman"
+    },
+    {
+        "message": "I don’t know what business you have with Anna, but I think waiting here is a waste of time."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Is that right?"
+    },
+    {
+        "message": "Passing Woman"
+    },
+    {
+        "message": "Yeah, of course it is."
+    },
+    {
+        "message": "Passing Woman"
+    },
+    {
+        "message": "What should I make for dinner tonight?"
+    },
+    {
+        "message": "Passing Woman"
+    },
+    {
+        "message": "You might as well give up on getting Anna to take the kids. Who knows when she’ll be back."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Did she go on a trip or something?"
+    },
+    {
+        "message": "Passing Woman"
+    },
+    {
+        "message": "It doesn’t seem that way."
+    },
+    {
+        "message": "Well, look at the time! Oh dear, this is a bother."
+    },
+    {
+        "message": "There's no one around to talk to."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Are you still looking to buy something? If not, then get going somewhere."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Do you still have business here?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Can I take a look at that book with the article about Guy?"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Sorry, no browsing allowed."
+    },
+    {
+        "message": "If you want to read it, you'll need to pay up first."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Alright, I'll take one of those books."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "That's more like it, thanks as always!"
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Here, Baked Apple Magazine, now known as BAM, costs $3.85 a copy."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Sure. Phew."
+    },
+    {
+        "message": "Oh, so it spells BAM with the initials."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Don't block my work; standing there keeps customers away."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "No window-shoppers allowed."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "So, is it doing well?"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Not too bad. What are you going to buy?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "I'd like to know about Anna Skakki."
+    },
+    {
+        "message": "Passerby lady"
+    },
+    {
+        "message": "What do you want to know about Anna?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Is she still active as a midwife?"
+    },
+    {
+        "message": "Passerby lady"
+    },
+    {
+        "message": "Well, considering her age, she seems to have stopped delivering kids recently."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "That's a shame."
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "Did you come to get your child taken away?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "What’s the family structure like?"
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "Anna's family has three daughters, and while the two older ones are married off, the remaining youngest daughter is quite the troublesome one."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Troublesome daughter, you say?"
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "Yeah, she’s the only one who’s quite a bit younger and got spoiled while growing up."
+    },
+    {
+        "message": "Maybe that could be Meryl's daughter."
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "You should ask Anna directly about it."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Please tell me more about the youngest daughter."
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "That girl is, unusually for Anna's kids, really beautiful. But, whether that’s a curse or a blessing, she has a good personality, yet there are issues."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Issues?"
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "Oh dear, I said too much. Keeping this between us and Anna, okay?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Could you please tell me a bit more about the youngest daughter?"
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "Sorry, but you’ll have to ask Anna for the rest. I can’t say anything more."
+    },
+    {
+        "message": "A passing woman"
+    },
+    {
+        "message": "There’s nothing else I can tell you."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Do you know someone named Anna Skakki?"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Anna Skakki? Is that your brother's girlfriend?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "No, that's not it. I'm a local resident around here."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "I'm not from around here, so I really don't know."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "I see. Thanks a lot."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Nah, I'm sorry I can't be of help."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "No matter how many times you ask, I don't know."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "How's Little Italy lately?"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Well, I can say this since I'm not a resident here, but you know,"
+    },
+    {
+        "message": "isn't it going to get swallowed up by Chinatown?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "That's an exaggeration."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "It's not at all an exaggeration. In fact, there are Cantonese magazines lined up here, right? They sell."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Eventually, all of America might just turn into Chinatown."
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "One day, the entire planet might end up being just Chinese people."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Any interesting articles?"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "It's not an interesting story, but lately, dismemberment cases have been all the rage."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Dismemberment cases?"
+    },
+    {
+        "message": "Vendor"
+    },
+    {
+        "message": "Man."
+    },
+    {
+        "message": "Don't you know? Look, it's about that serial murder case."
+    },
+    {
+        "message": "Salesperson"
+    },
+    {
+        "message": "I really hate these violent incidents. They just bring me down."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "What kind of case was it again?"
+    },
+    {
+        "message": "Salesperson"
+    },
+    {
+        "message": "Well, it all started on the West Coast, and recently they found victims in Detroit."
+    },
+    {
+        "message": "Salesperson"
+    },
+    {
+        "message": "Apparently, parts of women's bodies have been taken away. It's a nasty case."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "I wonder what kind of guy the murderer is."
+    },
+    {
+        "message": "Salesperson"
+    },
+    {
+        "message": "I think that murderer is totally cool."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Why do you think so?"
+    },
+    {
+        "message": "Salesperson"
+    },
+    {
+        "message": "Well, even if the killing method is whacked out, leaving no clues means he's sharp, right?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "Salesperson"
+    },
+    {
+        "message": "You aren't the murderer, are you? Hahaha."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "I want to know more about that case."
+    },
+    {
+        "message": "Salesperson"
+    },
+    {
+        "message": "If you want to know that badly, you should buy a magazine or a newspaper and look it up yourself. I'm not an information broker."
+    },
+    {
+        "message": "Meryl's search for her daughter depends on the information about Anna Skakki."
+    },
+    {
+        "message": "There's a possibility it could end with just her story, even before testing reasoning skills."
+    },
+    {
+        "message": "It exists."
+    },
+    {
+        "message": "Still, I wonder why Meryl wants to look for her daughter right now."
+    },
+    {
+        "message": "Anna's address is in an apartment room up ahead, but is she still living there?"
+    },
+    {
+        "message": "Anna Skakki is absent."
+    },
+    {
+        "message": "So, does that mean coming here was a waste of time?"
+    },
+    {
+        "message": "Passerby Woman"
+    },
+    {
+        "message": "Hey you, do you have business with our neighbor?"
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Our neighbor? Who are you?"
+    },
+    {
+        "message": "Passerby Woman"
+    },
+    {
+        "message": "Who do you think you are? You don't look Italian."
+    },
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Unfortunately, I don't have Italian blood mixed in, but perhaps"
+    },
+    {
+        "message": "your neighbor is Anna Skakki?"
+    },
+    {
+        "message": "Passerby Woman"
+    },
+    {
+        "message": "Didn’t you just say that?"
+    },
+    {
+        "message": "Right now, I should probably talk to the woman in front of me."
+    },
+    {
+        "message": "I understood Anna was out, but I’d be happier with a bit more information."
+    },
+    {
+        "message": "Where did the rumor come from that Guy and Kristy called off their engagement?"
+    },
+    {
+        "message": "It seems like an obvious lie, but I bet some people will believe it."
+    },
+    {
+        "message": "The serial murder case that the vendor mentioned is probably the same incident that came up at the party."
+    },
+    {
+        "message": "The perpetrator who slices up women's bodies and takes parts away."
+    },
+    {
+        "message": "What are they doing with those taken parts?"
+    },
+    {
+        "message": "I can't tell if the perpetrator is acting systematically, but it's clear they're a person with dreadful insanity."
+    },
+    {
+        "message": "No way, she's not back yet."
+    },
+    {
+        "message": "I visited a room in a building facing Mulberry Street, Anna Skakki's house."
+    },
+    {
+        "message": "However, Anna seems to be absent; there was no response to the doorbell or knock."
+    },
+    {
+        "message": "With newfound hope, I knocked again, but Anna still seems to be"
+    },
+    {
+        "message": "absent."
+    },
+    {
+        "message": "I visited Anna's house, but again she seems to be gone. When will she"
+    },
+    {
+        "message": "come back?"
+    },
+    {
+        "message": "※※※ Bug detected ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

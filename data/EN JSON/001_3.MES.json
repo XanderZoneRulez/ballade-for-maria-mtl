@@ -1,0 +1,581 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Patricia"
+    },
+    {
+        "message": "Gloria"
+    },
+    {
+        "message": "Cindy"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Do you need something?"
+    },
+    {
+        "message": "Since we're together, why don't we have a chat?"
+    },
+    {
+        "message": "I’m not really in the mood."
+    },
+    {
+        "message": "Maybe just once."
+    },
+    {
+        "message": "I don't have anything to talk about."
+    },
+    {
+        "message": "There's really nothing to discuss."
+    },
+    {
+        "message": "To be honest, it's a bother."
+    },
+    {
+        "message": "　　View　　"
+    },
+    {
+        "message": "　　Talk　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "End conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　Surroundings　　"
+    },
+    {
+        "message": "　About　the　party　"
+    },
+    {
+        "message": "　　About the movie　　"
+    },
+    {
+        "message": "About that　　"
+    },
+    {
+        "message": "About　that　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "About　that　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Director Fabar"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About　that　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "End the game."
+    },
+    {
+        "message": "It's close to the year."
+    },
+    {
+        "message": "They seem to be enjoying a conversation, but surely they aren’t talking about anything weird."
+    },
+    {
+        "message": "You never know what they might say."
+    },
+    {
+        "message": "Isn’t doing this just going to make the woman in front of me even more upset?"
+    },
+    {
+        "message": "There's no room to look around."
+    },
+    {
+        "message": "The piercing gaze."
+    },
+    {
+        "message": "Right now, it feels like I'm in a world separated from everyone else."
+    },
+    {
+        "message": "Her mysterious Oriental eyes show a look of disdain."
+    },
+    {
+        "message": "The first impression is that she's a scary woman."
+    },
+    {
+        "message": "That’s the vibe."
+    },
+    {
+        "message": "The Mao Color long jacket,"
+    },
+    {
+        "message": "shows off her good taste."
+    },
+    {
+        "message": "If she were friendly, it would be quite different."
+    },
+    {
+        "message": "I can't help but feel disappointed."
+    },
+    {
+        "message": "Her gaze feels cold; did I do something to bother her?"
+    },
+    {
+        "message": "This chilly gaze..."
+    },
+    {
+        "message": "Is she suggesting I did something?"
+    },
+    {
+        "message": "I don't have anything I want to talk to you about."
+    },
+    {
+        "message": "Please don’t say such cold things."
+    },
+    {
+        "message": "You."
+    },
+    {
+        "message": "You're definitely Guy's friend, right?"
+    },
+    {
+        "message": "Yes."
+    },
+    {
+        "message": "My name is Snipes."
+    },
+    {
+        "message": "No need to introduce yourself; I have no interest in who you are."
+    },
+    {
+        "message": "You were the one who discovered him, right?"
+    },
+    {
+        "message": "Well, of course. So what?"
+    },
+    {
+        "message": "No, it’s not like it means anything."
+    },
+    {
+        "message": "You really don't get it, do you? What do I mean?　"
+    },
+    {
+        "message": "I'm just a woman,"
+    },
+    {
+        "message": "doing gentleman duties seriously."
+    },
+    {
+        "message": "Hurry up."
+    },
+    {
+        "message": "I want to go back."
+    },
+    {
+        "message": "Am I being investigated in your inquiry? If not, stop prying."
+    },
+    {
+        "message": "Give me a break!"
+    },
+    {
+        "message": "I’m just talking!"
+    },
+    {
+        "message": "I don’t really want to talk to you."
+    },
+    {
+        "message": "There’s nothing to discuss with a shady detective."
+    },
+    {
+        "message": "This party is a movie."
+    },
+    {
+        "message": "Major leaguer."
+    },
+    {
+        "message": "It’s supposed to showcase their faces. But if the star can’t make it, it’s pointless."
+    },
+    {
+        "message": "There are quite a few less people, huh?"
+    },
+    {
+        "message": "Fewer people is fine."
+    },
+    {
+        "message": "Because this much is more relaxing."
+    },
+    {
+        "message": "You really understand her well."
+    },
+    {
+        "message": "Of course."
+    },
+    {
+        "message": "But, it didn't mean anything like this."
+    },
+    {
+        "message": "Are you talking about the party participants?"
+    },
+    {
+        "message": "Yeah, that’s right. If it’s like this,"
+    },
+    {
+        "message": "they should’ve given her a break. That kid’s schedule is tight."
+    },
+    {
+        "message": "You really are."
+    },
+    {
+        "message": "thinking about her, huh? Cindy is happy to team up with you."
+    },
+    {
+        "message": "W-what? Out of the blue! I don’t need your concern. We’re doing just fine, the two of us."
+    },
+    {
+        "message": "Maybe I should excuse myself early today."
+    },
+    {
+        "message": "That’s irrelevant to you."
+    },
+    {
+        "message": "I felt it was too early to appear in a movie. But the director insisted."
+    },
+    {
+        "message": "That alone."
+    },
+    {
+        "message": "is a sign she’s being recognized."
+    },
+    {
+        "message": "But I'm worried it won’t turn her into a crowd-pulling panda."
+    },
+    {
+        "message": "In reality,"
+    },
+    {
+        "message": "I had intended to step her up to actress eventually, so it just got sped up a bit."
+    },
+    {
+        "message": "Are you feeling anxious about something?"
+    },
+    {
+        "message": "Absolutely! Being with that pervy guy is tough."
+    },
+    {
+        "message": "It’s really a hassle."
+    },
+    {
+        "message": "Come on."
+    },
+    {
+        "message": "Guy isn't the weird guy you think he is."
+    },
+    {
+        "message": "That's not true. On our first meeting,"
+    },
+    {
+        "message": "he hugged me."
+    },
+    {
+        "message": "Ah, I might have jumped the gun."
+    },
+    {
+        "message": "That has nothing to do with it."
+    },
+    {
+        "message": "? Who is that?"
+    },
+    {
+        "message": "That's my companion. I hope he's not been rude."
+    },
+    {
+        "message": "Oh, that curious bundle of energy. Can't she be a little quieter?"
+    },
+    {
+        "message": "You know her better than I do."
+    },
+    {
+        "message": "Are you asking silly questions to separate me from"
+    },
+    {
+        "message": "the director's daughter?"
+    },
+    {
+        "message": "You're the director's daughter, right?"
+    },
+    {
+        "message": "Yes, that's right. She's a nice girl, isn't she?"
+    },
+    {
+        "message": "That has nothing to do with me."
+    },
+    {
+        "message": "You should just talk to her directly."
+    },
+    {
+        "message": "You called me for something like this?"
+    },
+    {
+        "message": "I don't want to talk about that kind of man."
+    },
+    {
+        "message": "Aren't you two getting along?"
+    },
+    {
+        "message": "Well, we're not exactly on good terms."
+    },
+    {
+        "message": "I don't want to hear that name."
+    },
+    {
+        "message": "I don't want to get involved with guys like that."
+    },
+    {
+        "message": "Isn't she cute?"
+    },
+    {
+        "message": "Yeah. I've seen her on TV and posters, but seeing her in person, she really is cute."
+    },
+    {
+        "message": "That girl has a shine that others don't possess. That shine is a talent that only the chosen ones have."
+    },
+    {
+        "message": "You're really into her, huh?"
+    },
+    {
+        "message": "Of course. I'm her agent."
+    },
+    {
+        "message": "I’m the honored person who knows her better than anyone and knows how to polish her more than anyone."
+    },
+    {
+        "message": "From now on"
+    },
+    {
+        "message": "she will shine even more. It’s an important time for her now. Please don’t interfere, okay?"
+    },
+    {
+        "message": "To her, I’m just an old man."
+    },
+    {
+        "message": "You don’t really think that, do you?"
+    },
+    {
+        "message": "Anyway, the present is what's important."
+    },
+    {
+        "message": "Don't get involved with that girl."
+    },
+    {
+        "message": "You see, this is a critical moment. I don't want any bad rumors circulating at a time like this."
+    },
+    {
+        "message": "I understand that, but I'm just saying,"
+    },
+    {
+        "message": "you're a young man. Just by talking with you,"
+    },
+    {
+        "message": "rumors can start flying."
+    },
+    {
+        "message": "That's a bit over the top, and besides,"
+    },
+    {
+        "message": "doesn’t it feel stifling?"
+    },
+    {
+        "message": "It's to protect her. Everything is for that girl."
+    },
+    {
+        "message": "I will do anything to protect that girl."
+    },
+    {
+        "message": "That's a rather alarming opinion."
+    },
+    {
+        "message": "If you were to hurt her,"
+    },
+    {
+        "message": "I might kill you, you know."
+    },
+    {
+        "message": "If you don't want to end up dead,"
+    },
+    {
+        "message": "stop messing with her."
+    },
+    {
+        "message": "Jennifer is just,"
+    },
+    {
+        "message": "not someone I have anything to talk about."
+    },
+    {
+        "message": "Oh, is that so?"
+    },
+    {
+        "message": "I don't care if you're a detective or whatever, stop prying like that. It's infuriating!"
+    },
+    {
+        "message": "Didn't I say I have nothing to talk about?"
+    },
+    {
+        "message": "Look, I don't want her to have to deal with someone like you."
+    },
+    {
+        "message": "I don't want her going out with someone like you."
+    },
+    {
+        "message": "Someone like her is not calm at all."
+    },
+    {
+        "message": "You may not know this because you're an ordinary person, but she's a woman who has stabbed people."
+    },
+    {
+        "message": "Stabbed someone?"
+    },
+    {
+        "message": "She has a face that looks innocent at first glance, but she's actually a scary woman with a lot of bloodlust."
+    },
+    {
+        "message": "I don't even want to talk about women like her."
+    },
+    {
+        "message": "Well, it’s my first time working with her, so I don't really know."
+    },
+    {
+        "message": "She’s a much more senior actress,"
+    },
+    {
+        "message": "so there’s probably a lot I can learn."
+    },
+    {
+        "message": "I don't want you pointing that out to me."
+    },
+    {
+        "message": "What am I to you? I can’t deal with all these questions."
+    },
+    {
+        "message": "The director says"
+    },
+    {
+        "message": "he holds you in high esteem. He’s given you a seal of approval to succeed as an actress."
+    },
+    {
+        "message": "That's amazing. As expected of"
+    },
+    {
+        "message": "him."
+    },
+    {
+        "message": "But is it really true?"
+    },
+    {
+        "message": "I feel kind of uneasy about it."
+    },
+    {
+        "message": "I was pleasantly surprised the director opened the path for me to become an actress. But that girl is under incredible pressure."
+    },
+    {
+        "message": "I think being in a Fabar production for your debut is a blessing,"
+    },
+    {
+        "message": "but that means failure isn’t an option. It’s a pretty tough situation."
+    },
+    {
+        "message": "I’m happy about the director’s assessment,"
+    },
+    {
+        "message": "but it’s a bit of a mixed feeling."
+    },
+    {
+        "message": "Why don’t you just talk to her?"
+    },
+    {
+        "message": "You’re friends with Guy, right? Tell him to never again"
+    },
+    {
+        "message": "get close to her."
+    },
+    {
+        "message": "Did he do something bad?"
+    },
+    {
+        "message": "Honestly, I didn’t want him to come to today’s party at all!"
+    },
+    {
+        "message": "Ugh, stop it, I can’t stand this!"
+    },
+    {
+        "message": "Who’s that?"
+    },
+    {
+        "message": "Guy's fiancée."
+    },
+    {
+        "message": "Oh really? Then you need to make sure you keep Guy on a tight leash."
+    },
+    {
+        "message": "It’s fine. She’s a strong one."
+    },
+    {
+        "message": "Is it really? It’s not my concern, though."
+    },
+    {
+        "message": "Ugh, why do we have to talk about this?"
+    },
+    {
+        "message": "Such talks have nothing to do with me."
+    },
+    {
+        "message": "For me,"
+    },
+    {
+        "message": "I only hope that"
+    },
+    {
+        "message": "is safe."
+    },
+    {
+        "message": "That’s all."
+    },
+    {
+        "message": "Of course. I am her agent, after all."
+    },
+    {
+        "message": "Please don’t talk about such ominous things."
+    },
+    {
+        "message": "※※※ It’s a bug ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]

@@ -1,0 +1,866 @@
+[
+    {
+        "message": "Jake"
+    },
+    {
+        "message": "Yuriko"
+    },
+    {
+        "message": "Patricia"
+    },
+    {
+        "message": "Gloria"
+    },
+    {
+        "message": "Cindy"
+    },
+    {
+        "message": "Kristy"
+    },
+    {
+        "message": "Hello!"
+    },
+    {
+        "message": "Hi there."
+    },
+    {
+        "message": "Hehe"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Um..."
+    },
+    {
+        "message": "Yes?"
+    },
+    {
+        "message": "Mm."
+    },
+    {
+        "message": "Umm."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "Ah, I'm so sorry! I can't remember who you are!"
+    },
+    {
+        "message": "!"
+    },
+    {
+        "message": "Oh, that’s understandable. We’re meeting for the first time."
+    },
+    {
+        "message": "Hey."
+    },
+    {
+        "message": "Oh, is that so? If you had just told me that, it would have been fine."
+    },
+    {
+        "message": "Ah! So that means you're the famous detective, huh?"
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Famous is not quite right."
+    },
+    {
+        "message": "Wow."
+    },
+    {
+        "message": "! Oh my, how touching!"
+    },
+    {
+        "message": "!!"
+    },
+    {
+        "message": "Hey!"
+    },
+    {
+        "message": "Hoo! You’re not bored, are you?"
+    },
+    {
+        "message": "I’m kind of bored and it's dull."
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "Hah."
+    },
+    {
+        "message": "Hey,"
+    },
+    {
+        "message": "!"
+    },
+    {
+        "message": "I'm sorry if they were being mean to you."
+    },
+    {
+        "message": "　　Look.　　"
+    },
+    {
+        "message": "　　Talk.　　"
+    },
+    {
+        "message": "　　Listen　　"
+    },
+    {
+        "message": "End the conversation"
+    },
+    {
+        "message": "　System　"
+    },
+    {
+        "message": "　　The surroundings　　"
+    },
+    {
+        "message": "　About　the　party　"
+    },
+    {
+        "message": "　　About the movie　　"
+    },
+    {
+        "message": "About　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "　　About Tony　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "About Jennifer"
+    },
+    {
+        "message": "　　About Meryl　　"
+    },
+    {
+        "message": "About Director Fabar"
+    },
+    {
+        "message": "　　About Guy　　"
+    },
+    {
+        "message": "About　"
+    },
+    {
+        "message": "About the serial murder case"
+    },
+    {
+        "message": "　　　Save　　　"
+    },
+    {
+        "message": "Exit the game"
+    },
+    {
+        "message": "It feels surprisingly lonely, doesn't it?"
+    },
+    {
+        "message": "Yeah"
+    },
+    {
+        "message": "I thought there’d be more people, though."
+    },
+    {
+        "message": "Right? I thought so too!"
+    },
+    {
+        "message": "But I actually prefer it this calm rather than too crowded."
+    },
+    {
+        "message": "I agree, it might be nice and quiet."
+    },
+    {
+        "message": "Right? We can have a nice slow chat like this."
+    },
+    {
+        "message": "Right?"
+    },
+    {
+        "message": "But it's a bit boring."
+    },
+    {
+        "message": "Finally, the seniors have arrived, and it's turned into quite a glamorous atmosphere."
+    },
+    {
+        "message": "Maybe this will distract us from the boredom a bit?"
+    },
+    {
+        "message": "I hope so, but,"
+    },
+    {
+        "message": "It's nothing like when we’re together."
+    },
+    {
+        "message": "Honestly, I don't really like these kinds of parties."
+    },
+    {
+        "message": "It's my first time acting in a movie, so I'm actually a bit confused."
+    },
+    {
+        "message": "I see, it's your debut, huh? Good luck!"
+    },
+    {
+        "message": "Yeah, thanks! But, like, what's it gonna be like filming a movie?"
+    },
+    {
+        "message": "It's kinda hard to understand."
+    },
+    {
+        "message": "What are you talking about?"
+    },
+    {
+        "message": "Then you'll be fine."
+    },
+    {
+        "message": "Even if you say that..."
+    },
+    {
+        "message": "Oh."
+    },
+    {
+        "message": "Mmm, I'm getting nervous!"
+    },
+    {
+        "message": "My role is the daughter of the main character. I actually wanted to play Guy's sister, but things didn’t go as I hoped."
+    },
+    {
+        "message": "You should really skip the sister role for Guy."
+    },
+    {
+        "message": "Why? We're totally brother-sister material!"
+    },
+    {
+        "message": "I wonder why you think that."
+    },
+    {
+        "message": "Geez, why can't you understand?"
+    },
+    {
+        "message": "I'll do my best in the movie."
+    },
+    {
+        "message": "Looks like shooting will start in Manhattan, so I can probably commute from home."
+    },
+    {
+        "message": "Oh really?"
+    },
+    {
+        "message": "Where are they filming?"
+    },
+    {
+        "message": "I don't know."
+    },
+    {
+        "message": "I have no idea about that."
+    },
+    {
+        "message": "."
+    },
+    {
+        "message": "The set sounds like it might be chaotic. I mean, Meryl and Jennifer are both there."
+    },
+    {
+        "message": "Are they really that unfriendly?"
+    },
+    {
+        "message": "This world is tough, you know."
+    },
+    {
+        "message": "I'll just do my best at what I can do."
+    },
+    {
+        "message": "Are you talking about the girl you came with?"
+    },
+    {
+        "message": "Yeah, that's right."
+    },
+    {
+        "message": "You know, I'm a bit jealous of that girl."
+    },
+    {
+        "message": "Jealous? Why's that?"
+    },
+    {
+        "message": "Uh, yeah."
+    },
+    {
+        "message": "It's still a secret."
+    },
+    {
+        "message": "Sorry!"
+    },
+    {
+        "message": "So, how old are you? You're about the same age as me, right?"
+    },
+    {
+        "message": "No, she's 20 years old."
+    },
+    {
+        "message": "What!? Is she really that old already? I can't believe it!"
+    },
+    {
+        "message": "No way!"
+    },
+    {
+        "message": "Oh wow, she's actually four years older than me."
+    },
+    {
+        "message": "I see."
+    },
+    {
+        "message": "I envy that."
+    },
+    {
+        "message": "!　"
+    },
+    {
+        "message": "But I guess it wouldn’t help to make a fuss about it."
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "She seems bright and totally unburdened by worries."
+    },
+    {
+        "message": "Yeah, she does look that way."
+    },
+    {
+        "message": "I wish I could act like that."
+    },
+    {
+        "message": "But it makes me a little envious."
+    },
+    {
+        "message": "What do you mean by acting like that?"
+    },
+    {
+        "message": "Being able to do anything without hesitation."
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": "I want some freedom too."
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "The director's daughter."
+    },
+    {
+        "message": "Oh, you mean Patty! I like her, she's like an older sister."
+    },
+    {
+        "message": "I mentioned how I would be happy if Patty could be like an older sister since I'm an only child."
+    },
+    {
+        "message": "An older sister, huh?"
+    },
+    {
+        "message": "So, did she agree to that?"
+    },
+    {
+        "message": "Nope. She said it felt like too much pressure and turned me down."
+    },
+    {
+        "message": "I might have done something that upset Patty."
+    },
+    {
+        "message": "No way, I'm sure that’s not true."
+    },
+    {
+        "message": "Really? You think so? Patty is smart, so maybe my foolishness bothers her."
+    },
+    {
+        "message": "You’re probably worrying too much about it."
+    },
+    {
+        "message": "Really? You honestly think so?"
+    },
+    {
+        "message": "I want to get along with Patty."
+    },
+    {
+        "message": "You know, I don’t have any friends. Everyone around me is an adult."
+    },
+    {
+        "message": "So, I was really looking forward to talking with Patty today."
+    },
+    {
+        "message": "But somehow, it feels like she’s avoiding me."
+    },
+    {
+        "message": "Isn't that just your imagination?"
+    },
+    {
+        "message": "Ugh"
+    },
+    {
+        "message": "Hmm, I really don't think it's just my imagination!"
+    },
+    {
+        "message": "It's a chance to make friends, after all."
+    },
+    {
+        "message": "I won't give up; I'll give it a try!"
+    },
+    {
+        "message": "Tonny Ford? I don't really know much about him."
+    },
+    {
+        "message": "Nope."
+    },
+    {
+        "message": "I see, that's too bad."
+    },
+    {
+        "message": "Are you looking into him or something?"
+    },
+    {
+        "message": "Oh, no, it's not like that."
+    },
+    {
+        "message": "I just want to be of help somehow."
+    },
+    {
+        "message": "Sorry about that."
+    },
+    {
+        "message": "Oh, I remembered! Isn't he famous for being “forward with women’?"
+    },
+    {
+        "message": "Right?!"
+    },
+    {
+        "message": "If you yell that loud, he might hear you."
+    },
+    {
+        "message": "It's okay."
+    },
+    {
+        "message": "I kind of said to him,"
+    },
+    {
+        "message": "my"
+    },
+    {
+        "message": "if he laid a hand on me, I won’t let it slide."
+    },
+    {
+        "message": "I actually said that."
+    },
+    {
+        "message": "W-wow, that's something."
+    },
+    {
+        "message": "So bold, haha."
+    },
+    {
+        "message": "You probably shouldn't get too close to Tony."
+    },
+    {
+        "message": "Apparently, Jennifer got harassed by Tony, but she didn't tell me exactly what happened."
+    },
+    {
+        "message": "So, does that mean they don't get along?"
+    },
+    {
+        "message": "Oh, aren’t you a little happy about this? You like Jennifer, right?"
+    },
+    {
+        "message": "?"
+    },
+    {
+        "message": "N-no, that's not it. I mean, we haven’t really talked much yet."
+    },
+    {
+        "message": "Kya"
+    },
+    {
+        "message": ", you’re shy and cute, huh? Hehe."
+    },
+    {
+        "message": "You know, Tonny,"
+    },
+    {
+        "message": "he might be at odds with Tomo. He might have all the women in the industry as enemies."
+    },
+    {
+        "message": "Hmm,"
+    },
+    {
+        "message": "I wonder if he’s the one who thinks about me the most. Yeah, that’s the vibe."
+    },
+    {
+        "message": "Maintaining a good relationship with an agent is a fortunate environment, huh?"
+    },
+    {
+        "message": "Ah"
+    },
+    {
+        "message": ", really?"
+    },
+    {
+        "message": "Yeah, I suppose you could say that. It’s just that,"
+    },
+    {
+        "message": "I don’t want to express that in the word 'agent'."
+    },
+    {
+        "message": "Oh, sorry. Then what kind of person is she to you?"
+    },
+    {
+        "message": "Hmm."
+    },
+    {
+        "message": "Well,"
+    },
+    {
+        "message": "maybe like an older sister?"
+    },
+    {
+        "message": "Older sister?"
+    },
+    {
+        "message": "Ah."
+    },
+    {
+        "message": ", that might be a bit off."
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "I really can’t quite figure it out."
+    },
+    {
+        "message": "She’s a nice person, but there’s one thing that bothers me."
+    },
+    {
+        "message": "Something that bothers you?"
+    },
+    {
+        "message": "Her supervision is strict,"
+    },
+    {
+        "message": "and I hate feeling constrained."
+    },
+    {
+        "message": "I just wish she could be a little more understanding."
+    },
+    {
+        "message": "You know, when I come back after talking to someone, she asks me everything about what we talked about."
+    },
+    {
+        "message": "It really gets to me."
+    },
+    {
+        "message": "That’s some serious guard you’ve got there."
+    },
+    {
+        "message": "Honestly, I think if she put that energy into world domination, she'd conquer the world easily."
+    },
+    {
+        "message": "Even now I can feel"
+    },
+    {
+        "message": "her gaze on my back."
+    },
+    {
+        "message": "Jennifer and I are really close, but for some reason, everyone finds that surprising. I wonder why?"
+    },
+    {
+        "message": "Maybe it’s because it’s a combination of a pure idol who’s currently in the spotlight and a sexy actress?"
+    },
+    {
+        "message": "That description sounds a bit outdated."
+    },
+    {
+        "message": "!　"
+    },
+    {
+        "message": "But that’s probably what it is."
+    },
+    {
+        "message": "People think Jennifer is selling sex, but she’s really not that kind of woman."
+    },
+    {
+        "message": "She’s a much purer person than I appear to be."
+    },
+    {
+        "message": "Those who say bad things about Jennifer are just jealous of her."
+    },
+    {
+        "message": "Meryl, she purposely arrived late to make a statement. I wonder what that lady is thinking."
+    },
+    {
+        "message": "That's really cutting."
+    },
+    {
+        "message": "It's just that she looks at me with such a scary face. When I went to greet her, she had a smiling expression, but her eyes weren’t smiling."
+    },
+    {
+        "message": "It was really, really scary."
+    },
+    {
+        "message": "I didn’t dislike Meryl, but somehow, I seem to have been disliked instead."
+    },
+    {
+        "message": "In any world, older women are hard to deal with. Just because I'm young, it makes her jealous."
+    },
+    {
+        "message": "Doesn’t the director feel like a dad?"
+    },
+    {
+        "message": "He certainly has a commanding presence."
+    },
+    {
+        "message": "Right? I couldn’t help but call him Papa!"
+    },
+    {
+        "message": "The director said I could become a wonderful actress. But,"
+    },
+    {
+        "message": "what do you think?"
+    },
+    {
+        "message": "Then I’m sure you’ll thrive as an actress."
+    },
+    {
+        "message": "Really?　But,"
+    },
+    {
+        "message": "but you know,"
+    },
+    {
+        "message": "I’m a little unsure. Until now, I’ve only done easy work like modeling."
+    },
+    {
+        "message": "But acting really measures your skill, doesn’t it? That’s tough."
+    },
+    {
+        "message": "You’ll be fine,"
+    },
+    {
+        "message": "so you’ll surely do great."
+    },
+    {
+        "message": "I hope so."
+    },
+    {
+        "message": "Do you think the director's judgment is accurate?"
+    },
+    {
+        "message": "Meryl is the director’s mistress, right? That’s fine, but when I said I called him Papa, I got a scary face."
+    },
+    {
+        "message": "To Meryl?"
+    },
+    {
+        "message": "Yes. When I told that to the director, he laughed out loud."
+    },
+    {
+        "message": "Actually, the director even patted my bottom. Saying something like that,"
+    },
+    {
+        "message": "would be bad, right?"
+    },
+    {
+        "message": "Ugh."
+    },
+    {
+        "message": "Well, for now,"
+    },
+    {
+        "message": "if you can hold it in, I think it’s better to keep it a secret."
+    },
+    {
+        "message": "Okay, let’s do that!"
+    },
+    {
+        "message": "Even if he’s the director, he’s just a man."
+    },
+    {
+        "message": "Gai is totally muscle-bound."
+    },
+    {
+        "message": "He's technically an athlete, you know."
+    },
+    {
+        "message": "Technically, huh?"
+    },
+    {
+        "message": "If you say it like that, he's gonna get mad."
+    },
+    {
+        "message": "Hehehe."
+    },
+    {
+        "message": "I find it weird that he can be in a movie."
+    },
+    {
+        "message": "Oh no, you really say such terrible things, even though you're friends."
+    },
+    {
+        "message": "。"
+    },
+    {
+        "message": "You know, Gai hugged me tightly the first time we met."
+    },
+    {
+        "message": "He got really angry after that."
+    },
+    {
+        "message": "That's Gai's fault! What kind of rude thing was he doing?"
+    },
+    {
+        "message": "Is that really such a bad thing? I didn't mind it though."
+    },
+    {
+        "message": "I thought maybe it would be like this if there was an older brother."
+    },
+    {
+        "message": "Oh, an older brother."
+    },
+    {
+        "message": "Yeah, it's like the vibe of an older brother."
+    },
+    {
+        "message": "Right? He's quite the strong older brother."
+    },
+    {
+        "message": "Guy and I feel like siblings, right?"
+    },
+    {
+        "message": "Turns out Guy was quite the flirt, huh? I'm a bit disappointed."
+    },
+    {
+        "message": "I don't think so, though."
+    },
+    {
+        "message": "No way, that definitely seems flirtatious. It's nice that he's cheerful, but maybe he just really likes women."
+    },
+    {
+        "message": "I really don't get Guy."
+    },
+    {
+        "message": "Isn't San Guy's fiancée?"
+    },
+    {
+        "message": "Yeah, that's right."
+    },
+    {
+        "message": "So that means she's like my older sister, huh?"
+    },
+    {
+        "message": "Then it makes me feel almost like Guy's little sister."
+    },
+    {
+        "message": "I'd be happy if that were the case."
+    },
+    {
+        "message": "That's what I think, since I'm an only child."
+    },
+    {
+        "message": "If it’s an older brother, I can be that for you."
+    },
+    {
+        "message": "Yeah."
+    },
+    {
+        "message": "W-well, something like that."
+    },
+    {
+        "message": "It’s fine by me."
+    },
+    {
+        "message": "I wished that I could be born a,"
+    },
+    {
+        "message": "an intelligent beauty like you."
+    },
+    {
+        "message": "Being born so cute is such a luxury."
+    },
+    {
+        "message": "But..."
+    },
+    {
+        "message": "、"
+    },
+    {
+        "message": "They say that’s synonymous with being a fool. That’s not something to be happy about."
+    },
+    {
+        "message": "The reason they say that is because,"
+    },
+    {
+        "message": "they’re jealous of you. It’s because they don’t have that kind of talent."
+    },
+    {
+        "message": "It falls under that category."
+    },
+    {
+        "message": "That might be true, but I still don’t like it."
+    },
+    {
+        "message": "So Guy was into smart beauties like that, huh?"
+    },
+    {
+        "message": "Hey, you seem a bit down."
+    },
+    {
+        "message": "Were you always the quiet type?"
+    },
+    {
+        "message": "Hmm, no."
+    },
+    {
+        "message": "Just a bit right now."
+    },
+    {
+        "message": "Huff."
+    },
+    {
+        "message": "Oh right, it seems you haven't talked much with Guy either."
+    },
+    {
+        "message": "I hope you feel better soon."
+    },
+    {
+        "message": "Do you know about the serial murder case?"
+    },
+    {
+        "message": "Well? I'm the type who doesn't keep up with worldly events."
+    },
+    {
+        "message": "Is someone shutting you out?"
+    },
+    {
+        "message": "They’re surely protecting you."
+    },
+    {
+        "message": "Sorry, I don’t know anything."
+    },
+    {
+        "message": "※※※ It's a bug. ※※※"
+    },
+    {
+        "message": "Ｖ＝"
+    },
+    {
+        "message": "　Ｎ＝"
+    }
+]
