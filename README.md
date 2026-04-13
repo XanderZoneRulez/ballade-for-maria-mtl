@@ -55,7 +55,7 @@ decompile extract translate  insert  compile   import
    - Outputs to `data/JP JSON/` directory
    - Each RKT file generates a corresponding JSON file
 
-### Step 2: Translate
+### Step 2: Translate (Manual)
 
 3. **Translate the JSON files**
    - Open JSON files in `data/JP JSON/` with your preferred text editor
